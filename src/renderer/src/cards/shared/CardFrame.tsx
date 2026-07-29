@@ -3,12 +3,11 @@ import { SharedDefs } from './patterns'
 
 export const CARD_W = 350
 export const CARD_H = 600
-export const CARD_BORDER = 14
+export const CARD_BORDER = 12
 
 const W = CARD_W
 const H = CARD_H
 const BORDER = CARD_BORDER
-const BANNER_H = 76
 
 interface CardFrameProps {
   imageSrc: string
@@ -17,15 +16,15 @@ interface CardFrameProps {
 }
 
 /**
- * Comic-book style frame around a real card photo: thick ink border, corner
- * brackets, a halftone-textured title banner. All 78 cards share this exact
- * skeleton — only the embedded photo and title text differ.
+ * Comic-book style frame around a real card photo: thick ink border and corner
+ * brackets. The card name is rendered as an HTML label outside the frame (see
+ * TarotCard) so the artwork itself is never cropped or covered.
  */
 export function CardFrame({ imageSrc, title, accent = palette.accentRed }: CardFrameProps): JSX.Element {
   const imgX = BORDER
   const imgY = BORDER
   const imgW = W - BORDER * 2
-  const imgH = H - BORDER - BANNER_H - BORDER
+  const imgH = H - BORDER * 2
 
   const bracket = 28
 
@@ -38,19 +37,18 @@ export function CardFrame({ imageSrc, title, accent = palette.accentRed }: CardF
       {/* paper backing */}
       <rect x={4} y={4} width={W - 8} height={H - 8} rx={7} fill={palette.paper} />
 
-      {/* photo window */}
+      {/* photo window — "meet" keeps the whole card face visible, uncropped */}
       <image
         href={imageSrc}
         x={imgX}
         y={imgY}
         width={imgW}
         height={imgH}
-        preserveAspectRatio="xMidYMid slice"
-        clipPath="inset(0 round 3px)"
+        preserveAspectRatio="xMidYMid meet"
       />
       <rect x={imgX} y={imgY} width={imgW} height={imgH} fill="none" stroke={palette.ink} strokeWidth={4} />
       {/* subtle halftone wash across the photo for a screentone/print feel */}
-      <rect x={imgX} y={imgY} width={imgW} height={imgH} fill="url(#halftone-light)" opacity={0.5} />
+      <rect x={imgX} y={imgY} width={imgW} height={imgH} fill="url(#halftone-light)" opacity={0.35} />
 
       {/* corner brackets, comic-panel style */}
       {[
@@ -68,20 +66,6 @@ export function CardFrame({ imageSrc, title, accent = palette.accentRed }: CardF
           strokeLinecap="square"
         />
       ))}
-
-      {/* title banner */}
-      <rect x={4} y={H - BORDER - BANNER_H} width={W - 8} height={BANNER_H} fill={palette.ink} />
-      <rect x={4} y={H - BORDER - BANNER_H} width={W - 8} height={BANNER_H} fill="url(#hatch-diagonal)" opacity={0.4} />
-      <text
-        x={W / 2}
-        y={H - BORDER - BANNER_H / 2}
-        textAnchor="middle"
-        dominantBaseline="central"
-        fill={palette.paper}
-        className="card-frame-title"
-      >
-        {title}
-      </text>
     </svg>
   )
 }

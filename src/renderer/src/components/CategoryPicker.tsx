@@ -11,7 +11,11 @@ export function CategoryPicker(): JSX.Element {
       <p className="screen-subtitle">{t('categorySubtitle')}</p>
       <div className="category-grid">
         {categories.map((category) => (
-          <button key={category.id} className="category-card" onClick={() => selectCategory(category.id)}>
+          <button
+            key={category.id}
+            className={`category-card ${category.id === 'custom' ? 'category-card--wide' : ''}`}
+            onClick={() => selectCategory(category.id)}
+          >
             <span className="category-card__name">{language === 'zh' ? category.nameLocalized : category.name}</span>
             <span className="category-card__tagline">{category.tagline[language]}</span>
           </button>

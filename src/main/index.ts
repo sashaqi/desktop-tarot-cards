@@ -1,5 +1,27 @@
-import { app, BrowserWindow } from 'electron'
+import { app, BrowserWindow, ipcMain } from 'electron'
 import { join } from 'path'
+import { hasApiKey, saveApiKey, clearApiKey, keyPath } from './apiKeyStore'
+import { generateAiReading, AiReadingRequest } from './aiReading'
+
+function registerIpcHandlers(): void {
+  ipcMain.handle('ai:hasKey', () => hasApiKey())
+  ipcMain.handle('ai:keyPath', () => keyPath())
+  ipcMain.handle('ai:saveKey', (_e, key: string) => {
+    saveApiKey(key)
+    return true
+  })
+  ipcMain.handle('ai:clearKey', () => {
+    clearApiKey()
+    return true
+  })
+  ipcMain.handle('ai:generate', async (_e, req: AiReadingRequest) => {
+    try {
+      return { ok: true as const, text: await generateAiReading(req) }
+    } catch (err) {
+      return { ok: false as const, error: err instanceof Error ? err.message : String(err) }
+    }
+  })
+}
 
 function createMainWindow(): void {
   const win = new BrowserWindow({
@@ -25,6 +47,7 @@ function createMainWindow(): void {
 }
 
 app.whenReady().then(() => {
+  registerIpcHandlers()
   createMainWindow()
 
   app.on('activate', () => {

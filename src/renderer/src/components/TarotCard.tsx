@@ -11,7 +11,7 @@ interface TarotCardProps {
 
 export function TarotCard({ draw, delayMs }: TarotCardProps): JSX.Element {
   const [flipped, setFlipped] = useState(false)
-  const { language } = useLanguage()
+  const { language, t } = useLanguage()
 
   useEffect(() => {
     const timer = setTimeout(() => setFlipped(true), delayMs)
@@ -31,6 +31,12 @@ export function TarotCard({ draw, delayMs }: TarotCardProps): JSX.Element {
         <div className="tarot-flip__face tarot-flip__face--front">
           <CardArt image={draw.card.image} title={cardName} orientation={draw.orientation} />
         </div>
+      </div>
+      {/* Name sits under the card so the artwork stays fully visible, and it
+          stays upright regardless of the card's orientation. */}
+      <div className={`card-name-label ${flipped ? '' : 'card-name-label--hidden'}`}>
+        <span className="card-name-label__name">{cardName}</span>
+        <span className="card-name-label__orientation">{t(draw.orientation)}</span>
       </div>
     </div>
   )
