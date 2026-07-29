@@ -57,7 +57,7 @@ body {
 .screen {
   max-width: 820px;
   margin: 0 auto;
-  padding: 28px 24px 44px;
+  padding: 16px 16px 24px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -86,13 +86,13 @@ body {
     -1.5px 1.5px 0 #1a1414,
     1.5px 1.5px 0 #1a1414,
     0 3px 0 #d7263d;
-  margin-bottom: 16px;
+  margin-bottom: 10px;
 }
 
 .screen-subtitle {
   font-size: 14px;
   color: #1a1414;
-  margin-bottom: 24px;
+  margin-bottom: 14px;
   opacity: 0.75;
 }
 
@@ -100,7 +100,7 @@ body {
 
 .category-grid {
   display: flex;
-  gap: 16px;
+  gap: 12px;
   flex-wrap: wrap;
   justify-content: center;
 }
@@ -147,14 +147,14 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 8px;
-  margin-bottom: 6px;
+  gap: 6px;
+  margin-bottom: 4px;
 }
 
 .pick-progress {
   display: flex;
   gap: 8px;
-  margin-bottom: 14px;
+  margin-bottom: 10px;
 }
 
 .pick-dot {
@@ -234,17 +234,17 @@ body {
 
 .spread-layout {
   display: flex;
-  gap: 22px;
+  gap: 16px;
   justify-content: center;
   flex-wrap: wrap;
-  margin-bottom: 22px;
+  margin-bottom: 16px;
 }
 
 .tarot-slot {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 7px;
+  gap: 6px;
 }
 
 .position-label {
@@ -257,7 +257,7 @@ body {
 }
 
 .tarot-flip {
-  width: 108px;
+  width: 178px;
   aspect-ratio: 350 / 600;
   position: relative;
   perspective: 1200px;
@@ -305,16 +305,16 @@ body {
 .interpretation-panel {
   display: flex;
   flex-direction: column;
-  gap: 14px;
+  gap: 10px;
   width: 100%;
-  max-width: 560px;
+  max-width: 600px;
 }
 
 .speech-bubble {
   background: #fffaf0;
   border: 3px solid #1a1414;
   border-radius: 13px;
-  padding: 13px 16px;
+  padding: 10px 14px;
   box-shadow: 4px 4px 0 #1a1414;
   position: relative;
 }
@@ -384,7 +384,7 @@ body {
 }
 
 .restart-button {
-  margin-top: 20px;
+  margin-top: 12px;
   padding: 10px 24px;
   font-size: 13px;
   font-weight: 900;
