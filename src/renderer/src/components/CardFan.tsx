@@ -14,7 +14,7 @@ interface CardFanProps {
 function tiltFor(index: number): number {
   const seed = Math.sin(index * 999.17) * 10000
   const frac = seed - Math.floor(seed)
-  return frac * 10 - 5
+  return frac * 6 - 3
 }
 
 export function CardFan({ deck, draws, onPick }: CardFanProps): JSX.Element {

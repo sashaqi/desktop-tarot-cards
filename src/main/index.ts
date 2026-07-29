@@ -3,10 +3,10 @@ import { join } from 'path'
 
 function createMainWindow(): void {
   const win = new BrowserWindow({
-    width: 1200,
-    height: 800,
-    minWidth: 960,
-    minHeight: 700,
+    width: 900,
+    height: 660,
+    minWidth: 760,
+    minHeight: 560,
     title: '漫画塔罗 · Tarot',
     backgroundColor: '#f5eedd',
     autoHideMenuBar: true,

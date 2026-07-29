@@ -6,7 +6,6 @@ import { CategoryDefinition, CategoryId } from '../types/spread'
 import { DrawnCard } from '../types/reading'
 import { shuffle } from '../utils/shuffle'
 import { assignDraw } from '../utils/draw'
-import { buildSummary } from '../utils/interpretation'
 
 const cards = cardsData as CardMeaning[]
 const categories = spreadsData as CategoryDefinition[]
@@ -18,7 +17,6 @@ interface ReadingState {
   category: CategoryDefinition | null
   shuffledDeck: CardMeaning[]
   draws: DrawnCard[]
-  summary: string
 }
 
 type Action =
@@ -30,8 +28,7 @@ const initialState: ReadingState = {
   phase: 'category-select',
   category: null,
   shuffledDeck: [],
-  draws: [],
-  summary: ''
+  draws: []
 }
 
 function reducer(state: ReadingState, action: Action): ReadingState {
@@ -53,13 +50,11 @@ function reducer(state: ReadingState, action: Action): ReadingState {
       if (!card) return state
 
       const draws = [...state.draws, assignDraw(card, state.draws.length, state.category)]
-      const complete = draws.length === 3
 
       return {
         ...state,
         draws,
-        phase: complete ? 'result' : 'card-picking',
-        summary: complete ? buildSummary(state.category.id, draws) : ''
+        phase: draws.length === 3 ? 'result' : 'card-picking'
       }
     }
     case 'RESTART':
