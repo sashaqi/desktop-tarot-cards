@@ -42,5 +42,16 @@
       { "id": "present", "index": 1, "label": "Present", "labelLocalized": "现在", "description": { "zh": "当下围绕着你的能量与状态。", "en": "The energy and state surrounding you now." } },
       { "id": "future", "index": 2, "label": "Future", "labelLocalized": "未来", "description": { "zh": "事情可能发展的方向。", "en": "Where things may be heading." } }
     ]
+  },
+  {
+    "id": "custom",
+    "name": "Your Own Question",
+    "nameLocalized": "自定义问题",
+    "tagline": { "zh": "写下你心里真正想问的事", "en": "Ask whatever is actually on your mind" },
+    "positions": [
+      { "id": "situation", "index": 0, "label": "Situation", "labelLocalized": "现状", "description": { "zh": "围绕这个问题，当下的真实处境。", "en": "Where this question actually stands right now." } },
+      { "id": "influence", "index": 1, "label": "Influence", "labelLocalized": "影响", "description": { "zh": "正在推动或阻碍事情发展的力量。", "en": "The force pushing this along — or holding it back." } },
+      { "id": "guidance", "index": 2, "label": "Guidance", "labelLocalized": "指引", "description": { "zh": "针对这个问题值得采取的方向。", "en": "The direction worth taking on this." } }
+    ]
   }
 ]

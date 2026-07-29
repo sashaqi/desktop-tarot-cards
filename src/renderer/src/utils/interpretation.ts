@@ -1,17 +1,18 @@
 import { DrawnCard } from '../types/reading'
 import { CategoryId } from '../types/spread'
 import { Language } from '../types/card'
+import { routeQuestion, RoutedTone } from './questionRouter'
 
-const openers: Record<CategoryId, Record<Language, string>> = {
+const openers: Record<RoutedTone, Record<Language, string>> = {
   love: { zh: '关于这段感情，三张牌是这样说的：', en: "Here's what the three cards say about this relationship:" },
   career: { zh: '关于这份事业，三张牌是这样说的：', en: "Here's what the three cards say about your career:" },
   wealth: { zh: '关于近期的财运，三张牌是这样说的：', en: "Here's what the three cards say about your finances:" },
-  general: { zh: '关于近期的整体运势，三张牌是这样说的：', en: "Here's what the three cards say about your overall fortune:" }
+  general: { zh: '关于你问的这件事，三张牌是这样说的：', en: "Here's what the three cards say about what you asked:" }
 }
 
 type Tone = 'mostlyUpright' | 'mixed' | 'mostlyReversed'
 
-const closers: Record<CategoryId, Record<Tone, Record<Language, string>>> = {
+const closers: Record<RoutedTone, Record<Tone, Record<Language, string>>> = {
   love: {
     mostlyUpright: {
       zh: '整体而言，这段关系正朝着顺畅、坦诚的方向发展，保持这份用心。',
@@ -70,7 +71,16 @@ const closers: Record<CategoryId, Record<Tone, Record<Language, string>>> = {
   }
 }
 
-export function buildSummary(categoryId: CategoryId, draws: DrawnCard[], lang: Language): string {
+export function buildSummary(
+  categoryId: CategoryId,
+  draws: DrawnCard[],
+  lang: Language,
+  question?: string
+): string {
+  // A custom question borrows the tone of whichever theme its wording is
+  // closest to, so the summary at least sounds like it's on topic.
+  const tone: RoutedTone = categoryId === 'custom' ? routeQuestion(question ?? '') : categoryId
+
   const orientationLabel = { zh: { upright: '正位', reversed: '逆位' }, en: { upright: 'upright', reversed: 'reversed' } }
 
   const lines = draws.map((d) => {
@@ -84,7 +94,7 @@ export function buildSummary(categoryId: CategoryId, draws: DrawnCard[], lang: L
   })
 
   const reversedCount = draws.filter((d) => d.orientation === 'reversed').length
-  const tone: Tone = reversedCount >= 2 ? 'mostlyReversed' : reversedCount === 0 ? 'mostlyUpright' : 'mixed'
+  const mood: Tone = reversedCount >= 2 ? 'mostlyReversed' : reversedCount === 0 ? 'mostlyUpright' : 'mixed'
 
-  return [openers[categoryId][lang], ...lines, closers[categoryId][tone][lang]].join(' ')
+  return [openers[tone][lang], ...lines, closers[tone][mood][lang]].join(' ')
 }

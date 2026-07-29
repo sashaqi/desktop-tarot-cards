@@ -1,6 +1,6 @@
 import { Localized } from './card'
 
-export type CategoryId = 'love' | 'career' | 'wealth' | 'general'
+export type CategoryId = 'love' | 'career' | 'wealth' | 'general' | 'custom'
 
 export interface SpreadPosition {
   id: string

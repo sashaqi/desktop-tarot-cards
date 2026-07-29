@@ -10,23 +10,26 @@ import { assignDraw } from '../utils/draw'
 const cards = cardsData as CardMeaning[]
 const categories = spreadsData as CategoryDefinition[]
 
-export type Phase = 'category-select' | 'card-picking' | 'result'
+export type Phase = 'category-select' | 'question-input' | 'card-picking' | 'result'
 
 interface ReadingState {
   phase: Phase
   category: CategoryDefinition | null
+  question: string
   shuffledDeck: CardMeaning[]
   draws: DrawnCard[]
 }
 
 type Action =
   | { type: 'SELECT_CATEGORY'; categoryId: CategoryId }
+  | { type: 'SUBMIT_QUESTION'; question: string }
   | { type: 'PICK_CARD'; cardId: string }
   | { type: 'RESTART' }
 
 const initialState: ReadingState = {
   phase: 'category-select',
   category: null,
+  question: '',
   shuffledDeck: [],
   draws: []
 }
@@ -35,10 +38,24 @@ function reducer(state: ReadingState, action: Action): ReadingState {
   switch (action.type) {
     case 'SELECT_CATEGORY': {
       const category = categories.find((c) => c.id === action.categoryId) ?? null
+      // The custom reading needs the question before the deck comes out.
+      if (category?.id === 'custom') {
+        return { ...initialState, phase: 'question-input', category }
+      }
       return {
         ...initialState,
         phase: 'card-picking',
         category,
+        shuffledDeck: shuffle(cards)
+      }
+    }
+    case 'SUBMIT_QUESTION': {
+      const question = action.question.trim()
+      if (state.phase !== 'question-input' || !question) return state
+      return {
+        ...state,
+        question,
+        phase: 'card-picking',
         shuffledDeck: shuffle(cards)
       }
     }
@@ -66,6 +83,7 @@ function reducer(state: ReadingState, action: Action): ReadingState {
 
 interface ReadingContextValue extends ReadingState {
   selectCategory: (categoryId: CategoryId) => void
+  submitQuestion: (question: string) => void
   pickCard: (cardId: string) => void
   restart: () => void
   categories: CategoryDefinition[]
@@ -81,6 +99,7 @@ export function ReadingProvider({ children }: { children: ReactNode }): JSX.Elem
       ...state,
       categories,
       selectCategory: (categoryId) => dispatch({ type: 'SELECT_CATEGORY', categoryId }),
+      submitQuestion: (question) => dispatch({ type: 'SUBMIT_QUESTION', question }),
       pickCard: (cardId) => dispatch({ type: 'PICK_CARD', cardId }),
       restart: () => dispatch({ type: 'RESTART' })
     }),
