@@ -7,7 +7,7 @@ function createMainWindow(): void {
     height: 660,
     minWidth: 760,
     minHeight: 560,
-    title: '漫画塔罗 · Tarot',
+    title: '桌面塔罗',
     backgroundColor: '#f5eedd',
     autoHideMenuBar: true,
     webPreferences: {

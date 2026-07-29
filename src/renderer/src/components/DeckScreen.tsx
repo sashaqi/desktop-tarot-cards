@@ -9,7 +9,7 @@ export function DeckScreen(): JSX.Element {
   const categoryName = category ? (language === 'zh' ? category.nameLocalized : category.name) : ''
 
   return (
-    <div className="screen deck-screen">
+    <div className="screen screen--center deck-screen">
       <div className="deck-header">
         <h2 className="comic-title comic-title--small">
           {categoryName} · {t('pickInstruction')}

@@ -6,7 +6,7 @@ export function CategoryPicker(): JSX.Element {
   const { language, t } = useLanguage()
 
   return (
-    <div className="screen category-screen">
+    <div className="screen screen--center category-screen">
       <h1 className="comic-title">{t('appTitle')}</h1>
       <p className="screen-subtitle">{t('categorySubtitle')}</p>
       <div className="category-grid">

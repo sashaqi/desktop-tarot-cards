@@ -63,6 +63,11 @@ body {
   align-items: center;
 }
 
+.screen--center {
+  min-height: 100%;
+  justify-content: center;
+}
+
 .comic-title {
   font-size: 32px;
   font-weight: 900;
@@ -99,49 +104,63 @@ body {
 /* ---------- Category screen ---------- */
 
 .category-grid {
-  display: flex;
-  gap: 12px;
-  flex-wrap: wrap;
-  justify-content: center;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  width: 100%;
+  max-width: 600px;
 }
 
 .category-card {
-  width: 160px;
-  padding: 18px 14px;
+  padding: 28px 24px;
+  min-height: 140px;
   background: #fffaf0;
-  border: 3px solid #1a1414;
-  border-radius: 12px;
-  box-shadow: 5px 5px 0 #1a1414;
+  border: 4px solid #1a1414;
+  border-radius: 16px;
+  box-shadow: 6px 6px 0 #1a1414;
   cursor: pointer;
   display: flex;
   flex-direction: column;
-  gap: 6px;
+  justify-content: center;
+  gap: 10px;
   transition: transform 0.15s ease, box-shadow 0.15s ease;
   font-family: inherit;
 }
 
 .category-card:hover {
-  transform: translate(-2px, -2px);
-  box-shadow: 7px 7px 0 #1a1414;
+  transform: translate(-3px, -3px);
+  box-shadow: 9px 9px 0 #1a1414;
 }
 
 .category-card:active {
-  transform: translate(2px, 2px);
-  box-shadow: 2px 2px 0 #1a1414;
+  transform: translate(3px, 3px);
+  box-shadow: 3px 3px 0 #1a1414;
 }
 
 .category-card__name {
-  font-size: 17px;
+  font-size: 26px;
   font-weight: 900;
   color: #d7263d;
 }
 
 .category-card__tagline {
-  font-size: 11px;
+  font-size: 15px;
   opacity: 0.7;
 }
 
 /* ---------- Deck screen ---------- */
+
+.deck-screen {
+  padding-bottom: 16px;
+  border-radius: 20px;
+  border: 4px solid #1a1414;
+  background:
+    radial-gradient(ellipse at 50% 0%, rgba(255, 255, 255, 0.1), transparent 60%),
+    repeating-linear-gradient(45deg, rgba(0, 0, 0, 0.06) 0, rgba(0, 0, 0, 0.06) 2px, transparent 2px, transparent 8px),
+    repeating-linear-gradient(-45deg, rgba(255, 255, 255, 0.05) 0, rgba(255, 255, 255, 0.05) 2px, transparent 2px, transparent 8px),
+    linear-gradient(180deg, #2f6b4f, #1f4d38);
+  box-shadow: inset 0 0 50px rgba(0, 0, 0, 0.35);
+}
 
 .deck-header {
   display: flex;
@@ -172,14 +191,14 @@ body {
 .card-fan {
   display: flex;
   flex-wrap: wrap;
-  gap: 3px;
+  gap: 4px;
   justify-content: center;
-  max-width: 720px;
+  width: 100%;
 }
 
 .fan-card {
   position: relative;
-  width: 38px;
+  width: 52px;
   aspect-ratio: 350 / 600;
   padding: 0;
   border: none;
@@ -215,16 +234,16 @@ body {
 
 .fan-card__badge {
   position: absolute;
-  top: -6px;
-  right: -6px;
-  width: 17px;
-  height: 17px;
+  top: -7px;
+  right: -7px;
+  width: 20px;
+  height: 20px;
   border-radius: 50%;
   background: #d7263d;
   color: #fffaf0;
   border: 2px solid #1a1414;
   font-weight: 900;
-  font-size: 10px;
+  font-size: 11px;
   display: flex;
   align-items: center;
   justify-content: center;
