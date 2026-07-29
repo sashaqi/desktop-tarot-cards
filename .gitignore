@@ -1,0 +1,10 @@
+node_modules/
+out/
+dist/
+*.tsbuildinfo
+.DS_Store
+.claude/
+
+# Reference dataset cloned locally for sourcing card art/metadata —
+# already copied into src/renderer/src/assets/cards, not part of the app.
+tarot-json/

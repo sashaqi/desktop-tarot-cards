@@ -1,0 +1,387 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Segoe UI', sans-serif;
+  color: #1a1414;
+  overflow: hidden;
+}
+
+.app-shell {
+  height: 100%;
+  overflow-y: auto;
+  background-color: #f5eedd;
+  background-image: radial-gradient(#1a1414 1px, transparent 1px);
+  background-size: 14px 14px;
+  background-position: -7px -7px;
+}
+
+.screen {
+  max-width: 1040px;
+  margin: 0 auto;
+  padding: 40px 32px 64px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.comic-title {
+  font-size: 44px;
+  font-weight: 900;
+  letter-spacing: 2px;
+  color: #f5b700;
+  text-shadow:
+    -3px -3px 0 #1a1414,
+    3px -3px 0 #1a1414,
+    -3px 3px 0 #1a1414,
+    3px 3px 0 #1a1414,
+    0 6px 0 #d7263d;
+  margin: 0 0 8px;
+  text-align: center;
+}
+
+.comic-title--small {
+  font-size: 26px;
+  text-shadow:
+    -2px -2px 0 #1a1414,
+    2px -2px 0 #1a1414,
+    -2px 2px 0 #1a1414,
+    2px 2px 0 #1a1414,
+    0 4px 0 #d7263d;
+  margin-bottom: 24px;
+}
+
+.screen-subtitle {
+  font-size: 18px;
+  color: #1a1414;
+  margin-bottom: 36px;
+  opacity: 0.75;
+}
+
+/* ---------- Category screen ---------- */
+
+.category-grid {
+  display: flex;
+  gap: 24px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.category-card {
+  width: 220px;
+  padding: 28px 20px;
+  background: #fffaf0;
+  border: 4px solid #1a1414;
+  border-radius: 14px;
+  box-shadow: 7px 7px 0 #1a1414;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  font-family: inherit;
+}
+
+.category-card:hover {
+  transform: translate(-3px, -3px);
+  box-shadow: 10px 10px 0 #1a1414;
+}
+
+.category-card:active {
+  transform: translate(2px, 2px);
+  box-shadow: 3px 3px 0 #1a1414;
+}
+
+.category-card__name {
+  font-size: 24px;
+  font-weight: 900;
+  color: #d7263d;
+}
+
+.category-card__tagline {
+  font-size: 14px;
+  opacity: 0.7;
+}
+
+/* ---------- Deck screen ---------- */
+
+.deck-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 8px;
+}
+
+.pick-progress {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.pick-dot {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  border: 3px solid #1a1414;
+  background: #fffaf0;
+}
+
+.pick-dot--filled {
+  background: #f5b700;
+}
+
+.card-fan {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  max-width: 960px;
+}
+
+.fan-card {
+  position: relative;
+  width: 62px;
+  aspect-ratio: 350 / 600;
+  padding: 0;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  transition: transform 0.15s ease, filter 0.15s ease;
+}
+
+.fan-card svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+  filter: drop-shadow(2px 3px 0 rgba(26, 20, 20, 0.45));
+}
+
+.fan-card:hover:not(:disabled) {
+  transform: translateY(-10px) rotate(0deg) !important;
+  z-index: 2;
+}
+
+.fan-card:disabled {
+  cursor: default;
+  opacity: 0.35;
+}
+
+.fan-card--picked {
+  opacity: 1 !important;
+}
+
+.fan-card--picked svg {
+  filter: drop-shadow(0 0 0 transparent) drop-shadow(0 0 8px #f5b700);
+}
+
+.fan-card__badge {
+  position: absolute;
+  top: -8px;
+  right: -8px;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: #d7263d;
+  color: #fffaf0;
+  border: 2px solid #1a1414;
+  font-weight: 900;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* ---------- Reveal screen ---------- */
+
+.spread-layout {
+  display: flex;
+  gap: 36px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 32px;
+}
+
+.tarot-slot {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.position-label {
+  font-weight: 900;
+  font-size: 15px;
+  padding: 4px 14px;
+  background: #1a1414;
+  color: #f5eedd;
+  border-radius: 999px;
+}
+
+.tarot-flip {
+  width: 150px;
+  aspect-ratio: 350 / 600;
+  position: relative;
+  perspective: 1200px;
+}
+
+.tarot-flip__face {
+  position: absolute;
+  inset: 0;
+  backface-visibility: hidden;
+  transition: transform 0.6s cubic-bezier(0.4, 0.2, 0.2, 1);
+}
+
+.tarot-flip__face svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+  filter: drop-shadow(3px 5px 0 rgba(26, 20, 20, 0.4));
+}
+
+.tarot-flip__face--back {
+  transform: rotateY(0deg);
+}
+
+.tarot-flip__face--front {
+  transform: rotateY(-180deg);
+}
+
+.tarot-flip--flipped .tarot-flip__face--back {
+  transform: rotateY(180deg);
+}
+
+.tarot-flip--flipped .tarot-flip__face--front {
+  transform: rotateY(0deg);
+}
+
+.card-art {
+  width: 100%;
+  height: 100%;
+}
+
+.card-art--reversed {
+  transform: rotate(180deg);
+}
+
+.interpretation-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 100%;
+  max-width: 720px;
+}
+
+.speech-bubble {
+  background: #fffaf0;
+  border: 4px solid #1a1414;
+  border-radius: 16px;
+  padding: 18px 22px;
+  box-shadow: 6px 6px 0 #1a1414;
+  position: relative;
+}
+
+.speech-bubble--accent {
+  background: #fff0d9;
+  border-color: #f5b700;
+  box-shadow: 6px 6px 0 #f5b700;
+}
+
+.interpretation-row__head {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  margin-bottom: 6px;
+  flex-wrap: wrap;
+}
+
+.interpretation-row__head strong {
+  font-size: 18px;
+  color: #d7263d;
+}
+
+.interpretation-row__card-name {
+  font-weight: 700;
+}
+
+.interpretation-row__position-desc {
+  opacity: 0.65;
+  font-size: 13px;
+  margin: 0 0 8px;
+}
+
+.interpretation-row__meaning {
+  margin: 0 0 10px;
+  line-height: 1.6;
+}
+
+.interpretation-row__keywords {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.keyword-chip {
+  background: #1a1414;
+  color: #f5eedd;
+  border-radius: 999px;
+  padding: 3px 12px;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.overall-summary strong {
+  display: block;
+  margin-bottom: 8px;
+  color: #d7263d;
+  font-size: 18px;
+}
+
+.overall-summary p {
+  margin: 0;
+  line-height: 1.7;
+}
+
+.restart-button {
+  margin-top: 32px;
+  padding: 14px 32px;
+  font-size: 16px;
+  font-weight: 900;
+  background: #d7263d;
+  color: #fffaf0;
+  border: 4px solid #1a1414;
+  border-radius: 999px;
+  box-shadow: 6px 6px 0 #1a1414;
+  cursor: pointer;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.restart-button:hover {
+  transform: translate(-2px, -2px);
+  box-shadow: 8px 8px 0 #1a1414;
+}
+
+.restart-button:active {
+  transform: translate(2px, 2px);
+  box-shadow: 2px 2px 0 #1a1414;
+}
+
+/* ---------- SVG card art ---------- */
+
+.card-frame-svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.card-frame-title {
+  font-size: 30px;
+  font-weight: 900;
+  font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Segoe UI', sans-serif;
+}

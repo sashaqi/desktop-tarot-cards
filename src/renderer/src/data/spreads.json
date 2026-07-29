@@ -1,0 +1,35 @@
+[
+  {
+    "id": "love",
+    "name": "Love",
+    "nameLocalized": "爱情",
+    "tagline": "看看你们之间发生了什么",
+    "positions": [
+      { "id": "self", "index": 0, "label": "Self", "labelLocalized": "我", "description": "你此刻在这段关系中的心境与立场。" },
+      { "id": "other", "index": 1, "label": "Other", "labelLocalized": "对方", "description": "对方的想法、感受与态度。" },
+      { "id": "relationship", "index": 2, "label": "Relationship", "labelLocalized": "关系", "description": "你们之间的互动状态与可能的走向。" }
+    ]
+  },
+  {
+    "id": "career",
+    "name": "Career",
+    "nameLocalized": "事业",
+    "tagline": "理清眼前的工作局面",
+    "positions": [
+      { "id": "situation", "index": 0, "label": "Situation", "labelLocalized": "现状", "description": "当前事业/工作上的真实处境。" },
+      { "id": "challenge", "index": 1, "label": "Challenge", "labelLocalized": "挑战", "description": "需要正视并克服的主要障碍。" },
+      { "id": "advice", "index": 2, "label": "Advice", "labelLocalized": "建议", "description": "接下来值得采取的行动方向。" }
+    ]
+  },
+  {
+    "id": "general",
+    "name": "General Fortune",
+    "nameLocalized": "整体运势",
+    "tagline": "感受时间脉络中的能量流动",
+    "positions": [
+      { "id": "past", "index": 0, "label": "Past", "labelLocalized": "过去", "description": "带你走到今天的过往影响。" },
+      { "id": "present", "index": 1, "label": "Present", "labelLocalized": "现在", "description": "当下围绕着你的能量与状态。" },
+      { "id": "future", "index": 2, "label": "Future", "labelLocalized": "未来", "description": "事情可能发展的方向。" }
+    ]
+  }
+]
