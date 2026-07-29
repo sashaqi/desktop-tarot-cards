@@ -1,0 +1,618 @@
+[
+  {
+    "id": "w01",
+    "number": 1,
+    "name": "Ace of Wands",
+    "nameLocalized": "权杖首牌",
+    "arcana": "minor",
+    "suit": "wands",
+    "element": "fire",
+    "keywords": {
+      "upright": {
+        "zh": ["灵感迸发", "新的冲劲", "机会敞开", "原始的可能"],
+        "en": ["spark of inspiration", "new drive", "an opening", "raw potential"]
+      },
+      "reversed": {
+        "zh": ["火花熄灭", "起步受阻", "动力空转", "时机未到"],
+        "en": ["a spark going out", "a stalled start", "spinning drive", "not yet time"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "一只手从云中递出一根抽着新芽的权杖——火元素最纯粹、也最未成形的状态。你现在拥有的是冲动和可能性，还不是计划。这种能量来得快、烧得旺，但如果不趁热落到具体的事情上，它散得也快。",
+        "en": "A hand offers a sprouting branch out of the clouds — fire in its purest and least formed state. What you have right now is impulse and possibility, not yet a plan. This energy arrives fast and burns bright, but if you don't put it to something concrete while it's hot, it dissipates just as fast."
+      },
+      "reversed": {
+        "zh": "火花还在，但没接上柴。可能是外部条件不成熟，也可能是你自己在犹豫要不要开始。火元素逆位最常见的表现不是没有热情，而是热情空转、找不到出口。",
+        "en": "The spark is there but nothing has caught. Conditions may not be ready, or you may be hesitating to begin at all. Reversed fire rarely means an absence of enthusiasm — more often it means enthusiasm spinning with nowhere to go."
+      }
+    },
+    "symbolism": {
+      "zh": "云中伸出的手代表机会是被递来的，不是争取来的；权杖上抽出的嫩叶说明这股能量还活着、还在长，但也说明它还很嫩。",
+      "en": "The hand emerging from cloud says the opportunity is offered rather than earned; the fresh leaves on the branch say this energy is alive and growing — and also that it is very young."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "别把兴奋当成计划。这张牌给的是启动的力气，不是走完全程的耐力。",
+        "en": "Don't mistake excitement for a plan. This card supplies the energy to start, not the endurance to finish."
+      },
+      "reversed": {
+        "zh": "分清是时机确实不对，还是你在为不开始找理由。这两者的应对方式完全相反。",
+        "en": "Work out whether the timing is genuinely wrong or you're building a case for not starting. The two call for opposite responses."
+      }
+    },
+    "image": "w01.jpg"
+  },
+  {
+    "id": "w02",
+    "number": 2,
+    "name": "Two of Wands",
+    "nameLocalized": "权杖二",
+    "arcana": "minor",
+    "suit": "wands",
+    "element": "fire",
+    "keywords": {
+      "upright": {
+        "zh": ["远见", "权衡", "规划中", "尚未启程"],
+        "en": ["long view", "weighing options", "planning", "not yet departed"]
+      },
+      "reversed": {
+        "zh": ["迟疑不决", "格局收窄", "计划搁置", "畏惧未知"],
+        "en": ["indecision", "narrowed vision", "shelved plans", "fear of the unknown"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "手握地球仪的人站在城墙上眺望远方——他已经拥有了一些东西，正在决定要不要为了更大的可能放弃眼前的安稳。二带来的是张力：不是选 A 还是 B，而是「留在已知里」还是「走向未知」。",
+        "en": "A figure holds a globe on the castle wall, looking out to sea. He already has something, and is deciding whether to trade its safety for a larger possibility. The tension of the Two isn't A versus B — it's staying in the known versus walking into the unknown."
+      },
+      "reversed": {
+        "zh": "视野收窄了。要么把眼前的舒适看得太重而不肯动，要么计划做得再周密也迟迟不落地。火元素在这个位置逆位，常表现为「想了很久，一步没迈」。",
+        "en": "The view has narrowed. Either present comfort has become too heavy to leave, or the plan keeps getting refined and never launched. Reversed fire here often looks like long deliberation with no step taken."
+      }
+    },
+    "symbolism": {
+      "zh": "一手地球仪、一手权杖，说明他有能力也有资源；但他站在城墙内侧，脚还没跨出去。",
+      "en": "A globe in one hand and a staff in the other say he has both the means and the resources — but he stands on the inner side of the wall, and hasn't stepped through."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "眺望本身不是行动。给自己定一个「什么时候必须决定」的期限。",
+        "en": "Surveying the horizon isn't the same as moving. Give yourself a date by which the decision has to be made."
+      },
+      "reversed": {
+        "zh": "承认犹豫的真实原因：是信息不够，还是不想承担代价？",
+        "en": "Name the real reason for the hesitation — not enough information, or unwillingness to pay the cost?"
+      }
+    },
+    "image": "w02.jpg"
+  },
+  {
+    "id": "w03",
+    "number": 3,
+    "name": "Three of Wands",
+    "nameLocalized": "权杖三",
+    "arcana": "minor",
+    "suit": "wands",
+    "element": "fire",
+    "keywords": {
+      "upright": {
+        "zh": ["初见成效", "视野打开", "等待回音", "向外扩展"],
+        "en": ["early results", "widening view", "awaiting word", "expansion"]
+      },
+      "reversed": {
+        "zh": ["延迟", "预期落空", "目光短浅", "协作脱节"],
+        "en": ["delay", "unmet expectations", "short sight", "coordination gaps"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "三是二的张力落地后结出的第一批果实。人站在高处看着船只出海——事情已经推出去了，现在进入等待反馈的阶段。这个位置的关键不是再加把劲，而是你先前的判断即将得到验证。",
+        "en": "Three is the first fruit of the tension the Two resolved. A figure on high ground watches ships head out — the thing has been launched, and this is the waiting phase. What matters here isn't pushing harder; it's that your earlier judgment is about to be tested."
+      },
+      "reversed": {
+        "zh": "船出去了，却没按时回来。可能是推进比预想的慢，也可能当初的判断有偏差。逆位的三提醒你：延迟本身就是信息，值得问一句是哪里估错了。",
+        "en": "The ships went out and haven't come back on schedule. Progress may simply be slower than expected, or the original read may have been off. Reversed, the Three says the delay is itself information — worth asking which estimate was wrong."
+      }
+    },
+    "symbolism": {
+      "zh": "他背对我们、面朝大海——这张牌的重心在「已经发生的事正在远处展开」，而不是眼前。",
+      "en": "He has his back to us, facing the sea — the weight of this card is on what is already unfolding at a distance, not on what's underfoot."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "等待期间容易焦虑加码。已经推出去的事，加压未必加速。",
+        "en": "Waiting invites the urge to push more. Applying pressure to something already in motion rarely speeds it up."
+      },
+      "reversed": {
+        "zh": "别把延迟直接读成失败。先分清是慢了，还是方向错了。",
+        "en": "Don't read delay as failure by default. First separate 'slower than planned' from 'pointed the wrong way'."
+      }
+    },
+    "image": "w03.jpg"
+  },
+  {
+    "id": "w04",
+    "number": 4,
+    "name": "Four of Wands",
+    "nameLocalized": "权杖四",
+    "arcana": "minor",
+    "suit": "wands",
+    "element": "fire",
+    "keywords": {
+      "upright": {
+        "zh": ["阶段性圆满", "归属感", "庆祝", "稳固的根基"],
+        "en": ["a milestone", "belonging", "celebration", "solid ground"]
+      },
+      "reversed": {
+        "zh": ["根基未稳", "庆祝延后", "格格不入", "内部不合"],
+        "en": ["unsteady footing", "postponed celebration", "not belonging", "friction within"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "四根权杖撑起花环，人群在门下庆祝——火元素难得的安稳时刻。这不是终点，而是一个可以停下来确认「我们已经站住了」的节点。四的稳定在火这个花色里总是暂时的，所以更值得好好待一会儿。",
+        "en": "Four staves hold up a garland and people celebrate beneath it — a rare steady moment for fire. This isn't the destination; it's a place to stop and confirm that you're standing. Stability in this suit is always temporary, which is exactly why it's worth staying in for a while."
+      },
+      "reversed": {
+        "zh": "该有的踏实感没到位。可能是外面看着热闹、内里没打牢，也可能是你身处其中却觉得自己不属于这里。",
+        "en": "The solidity hasn't landed. Either it looks settled from outside while the foundation is thin, or you're standing inside the celebration feeling like you don't belong to it."
+      }
+    },
+    "symbolism": {
+      "zh": "花环是软的，柱子是硬的——庆祝需要结构支撑，但结构本身不是庆祝。",
+      "en": "The garland is soft and the poles are rigid — celebration needs structure to hold it up, but structure alone isn't the celebration."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "稳定期最容易忘记它是暂时的。趁着有余裕，想想下一步。",
+        "en": "Stable stretches make it easy to forget they're temporary. Use the slack to think about what's next."
+      },
+      "reversed": {
+        "zh": "分清是根基真的不稳，还是你只是没允许自己休息。",
+        "en": "Separate a genuinely shaky foundation from simply not letting yourself rest."
+      }
+    },
+    "image": "w04.jpg"
+  },
+  {
+    "id": "w05",
+    "number": 5,
+    "name": "Five of Wands",
+    "nameLocalized": "权杖五",
+    "arcana": "minor",
+    "suit": "wands",
+    "element": "fire",
+    "keywords": {
+      "upright": {
+        "zh": ["竞争", "各执一词", "摩擦", "试炼"],
+        "en": ["competition", "clashing agendas", "friction", "a proving ground"]
+      },
+      "reversed": {
+        "zh": ["冲突平息", "内耗", "回避竞争", "残余的火气"],
+        "en": ["conflict settling", "friction turned inward", "avoiding the fight", "lingering heat"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "五打破了四的稳定，火元素让这种打破表现为公开的角力。五个人挥舞权杖看似混战，但没有人受伤——这更像是一场演练或较劲，不是真正的战争。真正消耗你的往往不是对手，而是同时应付太多条战线。",
+        "en": "Five breaks the stability of Four, and in fire that break shows up as open contest. Five figures brandish staves in what looks like a brawl, yet nobody is hurt — this is a scrimmage, not a war. What drains you here is usually not any one opponent but holding several fronts at once."
+      },
+      "reversed": {
+        "zh": "表面的争执停了，火气却没散干净。也可能是你选择了退出——退出有时是明智的，有时只是不想面对。",
+        "en": "The visible argument has stopped without the heat fully clearing. Or you've stepped out of it — which is sometimes the wise move and sometimes just avoidance."
+      }
+    },
+    "symbolism": {
+      "zh": "每个人的权杖朝向都不同，没有一致的战线——混乱来自缺乏共识，而不是有人是敌人。",
+      "en": "Every staff points a different way; there is no single battle line. The chaos comes from an absence of consensus, not from anyone being an enemy."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "分辨哪些争执值得参与。不是每一次有人挑战你，都需要应战。",
+        "en": "Sort out which contests are worth entering. Not every challenge requires an answer."
+      },
+      "reversed": {
+        "zh": "没说出口的不满不会自己消失。",
+        "en": "Unspoken grievance doesn't dissolve on its own."
+      }
+    },
+    "image": "w05.jpg"
+  },
+  {
+    "id": "w06",
+    "number": 6,
+    "name": "Six of Wands",
+    "nameLocalized": "权杖六",
+    "arcana": "minor",
+    "suit": "wands",
+    "element": "fire",
+    "keywords": {
+      "upright": {
+        "zh": ["公开的认可", "阶段性胜利", "自信", "众人支持"],
+        "en": ["public recognition", "a win along the way", "confidence", "backing"]
+      },
+      "reversed": {
+        "zh": ["认可延迟", "骄矜", "名不副实", "内部质疑"],
+        "en": ["delayed recognition", "self-importance", "acclaim outrunning substance", "private doubt"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "六是五的冲突之后重新达成的平衡，在火元素里表现为胜出与被看见。骑者戴着桂冠受人簇拥——努力得到了公开确认。值得注意的是他还骑在马上、队伍仍在行进：这是途中的认可，不是终点的加冕。",
+        "en": "Six is the balance reached after the Five's conflict, and in fire it takes the form of winning and being seen. The rider wears a laurel with the crowd around him — the work has been publicly acknowledged. Note that he is still mounted and the procession is still moving: this is recognition en route, not a coronation."
+      },
+      "reversed": {
+        "zh": "该来的肯定没来，或者来了但你自己不信。逆位的六也可能提醒：外界的掌声和你实际做到的程度之间出现了落差。",
+        "en": "The acknowledgment hasn't come, or it came and you don't believe it. Reversed, the Six can also flag a gap opening between the applause and what was actually delivered."
+      }
+    },
+    "symbolism": {
+      "zh": "桂冠同时戴在骑者头上和权杖顶端——荣誉既属于人，也属于他所推动的那件事。",
+      "en": "A laurel sits both on the rider's head and on the staff he carries — the honor belongs to the person and to the thing he is carrying forward."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "认可容易让人停在原地。留意这是不是终点前的中途站。",
+        "en": "Recognition invites you to stop. Check whether this is the destination or a waypoint before it."
+      },
+      "reversed": {
+        "zh": "别用外界的沉默来判断自己做得好不好。",
+        "en": "Don't let external silence be your measure of whether the work was good."
+      }
+    },
+    "image": "w06.jpg"
+  },
+  {
+    "id": "w07",
+    "number": 7,
+    "name": "Seven of Wands",
+    "nameLocalized": "权杖七",
+    "arcana": "minor",
+    "suit": "wands",
+    "element": "fire",
+    "keywords": {
+      "upright": {
+        "zh": ["坚守立场", "以寡敌众", "捍卫成果", "有利地形"],
+        "en": ["holding your ground", "outnumbered", "defending what you built", "the high ground"]
+      },
+      "reversed": {
+        "zh": ["疲于防守", "立场动摇", "力不从心", "让出阵地"],
+        "en": ["worn down by defending", "wavering", "outmatched", "ceding ground"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "拿到六的认可之后，就得守住它——七是被挑战的位置。他站在高处对抗下方伸上来的六根权杖：地形对他有利，但对手不止一个，而且看不见脸。这张牌的核心是你确实占理，但维持这个立场要持续耗力。",
+        "en": "Having won the Six's recognition, you now have to keep it — Seven is the position of being challenged. He stands on higher ground against six staves thrust up from below: the terrain favors him, but there is more than one opponent and none of them has a face. You are probably in the right here; the cost is that holding the position keeps burning fuel."
+      },
+      "reversed": {
+        "zh": "守不动了。可能是消耗太久，也可能是你开始怀疑这块阵地值不值得守。逆位的七值得问一句：这是我的战斗吗？",
+        "en": "The defense is failing. Either the attrition has run too long, or you've started to doubt the ground is worth holding. Reversed, the Seven is worth answering honestly: is this actually my fight?"
+      }
+    },
+    "symbolism": {
+      "zh": "他两只脚穿着不同的鞋——匆忙应战的细节，说明挑战来得突然，他并没准备好。",
+      "en": "He is wearing two different shoes — a detail of hasty defense that says the challenge arrived before he was ready for it."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "一直防守赢不了。想想有没有可能把局面从对抗改成别的形态。",
+        "en": "Pure defense doesn't win. Consider whether the situation can be changed from a contest into something else."
+      },
+      "reversed": {
+        "zh": "撤退和溃败不是一回事。主动选择放弃什么，好过被拖垮。",
+        "en": "Withdrawing and collapsing are different things. Choosing what to give up beats being worn down into losing it."
+      }
+    },
+    "image": "w07.jpg"
+  },
+  {
+    "id": "w08",
+    "number": 8,
+    "name": "Eight of Wands",
+    "nameLocalized": "权杖八",
+    "arcana": "minor",
+    "suit": "wands",
+    "element": "fire",
+    "keywords": {
+      "upright": {
+        "zh": ["快速推进", "消息传来", "势头正好", "障碍清除"],
+        "en": ["swift movement", "news arriving", "momentum", "obstacles cleared"]
+      },
+      "reversed": {
+        "zh": ["延误", "节奏被打断", "操之过急", "消息滞后"],
+        "en": ["hold-ups", "broken rhythm", "rushing", "news that hasn't landed"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "八根权杖在空中飞行，画面里没有人物——这是全套牌里少见的纯粹动能。事情正在快速移动，而且是朝着落点去的。火元素在这个位置几乎没有阻力，该做的是让它飞，而不是抓住它。",
+        "en": "Eight staves fly through open air with no figure in the scene — a rare card of pure kinetic energy. Things are moving fast, and they're moving toward a landing. Fire meets almost no resistance here; the task is to let it fly rather than to grab hold of it."
+      },
+      "reversed": {
+        "zh": "该到的没到，或者反过来——推进得太急，快过了你能掌控的程度。逆位的八两种表现都常见，区别在于是外部卡住了，还是你自己踩得太狠。",
+        "en": "Either what should have arrived hasn't, or the opposite — it's moving faster than you can steer. Both readings are common; the difference is whether something outside is jamming it or you're the one flooring it."
+      }
+    },
+    "symbolism": {
+      "zh": "权杖都已越过最高点、正在下落——这不是刚出发，而是即将落地。",
+      "en": "The staves are past their apex and descending — this is not the launch, it's the approach."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "速度快的时候最容易漏掉细节。落点比速度重要。",
+        "en": "Speed is when details get dropped. Where it lands matters more than how fast it flies."
+      },
+      "reversed": {
+        "zh": "分清是被卡住了，还是你在催。这两者的解法相反。",
+        "en": "Separate 'something is stuck' from 'I am rushing it'. The remedies are opposite."
+      }
+    },
+    "image": "w08.jpg"
+  },
+  {
+    "id": "w09",
+    "number": 9,
+    "name": "Nine of Wands",
+    "nameLocalized": "权杖九",
+    "arcana": "minor",
+    "suit": "wands",
+    "element": "fire",
+    "keywords": {
+      "upright": {
+        "zh": ["韧性", "最后一关", "戒备", "带伤前行"],
+        "en": ["resilience", "the last stretch", "guardedness", "carrying an old wound"]
+      },
+      "reversed": {
+        "zh": ["力竭", "过度戒备", "疑神疑鬼", "不肯求助"],
+        "en": ["depletion", "over-defending", "suspicion", "refusing help"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "九是完成前的最后一道坎。他头上缠着绷带，靠着一根权杖，身后立着八根——那些是他打过的仗。这张牌承认你累了，也确认你还站着。剩下的路不长，但需要的正是你所剩不多的那种力气。",
+        "en": "Nine is the last obstacle before completion. He leans on one staff with a bandage around his head and eight more standing behind him — those are the rounds he has already fought. This card acknowledges that you're tired and confirms that you're still standing. The remaining distance is short, and it asks for exactly the reserve you have least of."
+      },
+      "reversed": {
+        "zh": "防备变成了负担。九的逆位常常不是真的还有敌人，而是过去的伤让你对一切都保持警戒——包括本可以帮你的人。",
+        "en": "The guard has become the burden. Reversed, the Nine often isn't about a remaining enemy — it's that an old injury has left you braced against everything, including the people who would help."
+      }
+    },
+    "symbolism": {
+      "zh": "身后的八根权杖排成栅栏，既是他守住的成果，也是挡住他视线的墙。",
+      "en": "The eight staves behind him form a fence — at once the ground he successfully held and the wall that blocks his view."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "撑住不等于硬扛。这个阶段允许自己求援，不算认输。",
+        "en": "Holding on isn't the same as gritting through alone. Asking for support at this stage isn't conceding."
+      },
+      "reversed": {
+        "zh": "问问自己：最近一次真正放下戒备是什么时候？",
+        "en": "Ask when you last genuinely lowered your guard."
+      }
+    },
+    "image": "w09.jpg"
+  },
+  {
+    "id": "w10",
+    "number": 10,
+    "name": "Ten of Wands",
+    "nameLocalized": "权杖十",
+    "arcana": "minor",
+    "suit": "wands",
+    "element": "fire",
+    "keywords": {
+      "upright": {
+        "zh": ["重担", "责任满载", "接近终点", "独自承担"],
+        "en": ["the load", "over-responsibility", "nearly there", "carrying it alone"]
+      },
+      "reversed": {
+        "zh": ["卸下重担", "学会分担", "撑到崩盘", "被迫放手"],
+        "en": ["setting it down", "delegating", "collapse", "forced to let go"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "十是这个花色的终点，火元素走到这里变成了纯粹的负重。他抱着十根权杖前行，村庄就在前面——路快走完了，但姿势已经变形。这些权杖都是他自己的成果，问题不在于它们不好，而在于他一根都不肯放下。",
+        "en": "Ten is where this suit ends, and fire arrives here as pure weight. He carries ten staves with the village already in sight — the distance is nearly done and his posture has given out. Every one of those staves is something he built. The problem isn't that they're bad; it's that he won't put any of them down."
+      },
+      "reversed": {
+        "zh": "要么是终于放下了一些，要么是撑到极限被迫放手。逆位的十里藏着一个好消息：不是所有你扛着的东西，都必须由你扛。",
+        "en": "Either some of it has finally been set down, or the limit arrived and it was dropped for you. There's good news hidden in the reversed Ten: not everything you're carrying has to be carried by you."
+      }
+    },
+    "symbolism": {
+      "zh": "权杖挡住了他的视线——他看不见自己要去的地方，只看得见怀里的负担。",
+      "en": "The staves block his line of sight — he can't see where he's going, only what he's holding."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "列一列手上的事，看看哪些其实可以交给别人。",
+        "en": "List what you're holding and mark which items could belong to someone else."
+      },
+      "reversed": {
+        "zh": "放下之后，别急着捡回来。",
+        "en": "Once you've put it down, resist picking it straight back up."
+      }
+    },
+    "image": "w10.jpg"
+  },
+  {
+    "id": "w11",
+    "number": 11,
+    "name": "Page of Wands",
+    "nameLocalized": "权杖侍从",
+    "arcana": "minor",
+    "suit": "wands",
+    "element": "fire",
+    "keywords": {
+      "upright": {
+        "zh": ["好奇心", "新的火种", "跃跃欲试", "学习期"],
+        "en": ["curiosity", "a new spark", "eagerness", "apprenticeship"]
+      },
+      "reversed": {
+        "zh": ["三分钟热度", "消息落空", "方向不明", "沉不住气"],
+        "en": ["short-lived enthusiasm", "news that fizzles", "no clear direction", "impatience"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "侍从是火元素最年轻的形态：热情足、经验少。他举着权杖端详顶端的嫩叶——注意力在「这东西能长成什么」上，而不是「我要拿它做什么」。这个阶段的价值恰恰在于不设限地探索。",
+        "en": "The Page is fire at its youngest: plenty of heat, little experience. He holds the staff up and studies the leaves at its tip — his attention is on what this could grow into, not on what he intends to do with it. The value of this stage is precisely that it explores without committing."
+      },
+      "reversed": {
+        "zh": "火点起来了但没持续。也可能是你在等的消息没来，或者来了却不是想要的。逆位的侍从常提醒：新鲜感和真正的兴趣是两回事。",
+        "en": "It caught and then didn't hold. Or the news you were waiting on hasn't come, or came and wasn't what you wanted. Reversed, the Page tends to point out that novelty and genuine interest are not the same thing."
+      }
+    },
+    "symbolism": {
+      "zh": "他穿着火蜥蜴图案的袍子——传说中火蜥蜴能在火里存活，暗示这股热情有韧性，只是还没经过考验。",
+      "en": "His tunic is patterned with salamanders — creatures said to survive in fire, hinting that this enthusiasm has staying power that simply hasn't been tested yet."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "探索期不必急着承诺，但也别忘了记下你学到了什么。",
+        "en": "Exploration doesn't require commitment — but do keep a record of what you're learning."
+      },
+      "reversed": {
+        "zh": "如果一件事你已经放弃三次，问题可能不在毅力上。",
+        "en": "If you've abandoned the same thing three times, the problem probably isn't willpower."
+      }
+    },
+    "image": "w11.jpg"
+  },
+  {
+    "id": "w12",
+    "number": 12,
+    "name": "Knight of Wands",
+    "nameLocalized": "权杖骑士",
+    "arcana": "minor",
+    "suit": "wands",
+    "element": "fire",
+    "keywords": {
+      "upright": {
+        "zh": ["果断出击", "热情", "冒险", "说走就走"],
+        "en": ["decisive action", "passion", "risk-taking", "leaving on impulse"]
+      },
+      "reversed": {
+        "zh": ["鲁莽", "虎头蛇尾", "方向乱变", "冲动行事"],
+        "en": ["recklessness", "strong start weak finish", "constant course changes", "acting on impulse"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "骑士是火元素动起来的样子：目标明确、速度极快、不太回头。马前蹄扬起、人向前倾——这是全速冲刺的姿态。这张牌的力量在于它真的能把事情推动起来，代价是很少考虑落点。",
+        "en": "The Knight is fire in motion: clear target, high speed, little looking back. The horse rears and the rider leans forward — this is a sprint posture. The strength of this card is that it genuinely moves things; the cost is that it rarely considers where they'll land."
+      },
+      "reversed": {
+        "zh": "冲劲还在但失了准头。可能是换方向太频繁，也可能是冲出去之后才发现没想清楚。逆位的骑士不是没能力，是能量用错了地方。",
+        "en": "The drive is intact but the aim isn't. Either the direction keeps changing, or the charge started before the thinking did. The reversed Knight isn't short of capability — the energy is just pointed wrong."
+      }
+    },
+    "symbolism": {
+      "zh": "马几乎失控般扬起前蹄，而他并没有勒紧缰绳——这股冲劲来自放任，不是驾驭。",
+      "en": "The horse rears close to out of control and he isn't pulling the rein — this momentum comes from letting go, not from handling."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "出发前花五分钟确认目的地，通常不会拖慢你多少。",
+        "en": "Five minutes confirming the destination before you leave rarely costs you much."
+      },
+      "reversed": {
+        "zh": "频繁换方向的成本，比慢一点更高。",
+        "en": "Changing direction repeatedly costs more than moving slower would have."
+      }
+    },
+    "image": "w12.jpg"
+  },
+  {
+    "id": "w13",
+    "number": 13,
+    "name": "Queen of Wands",
+    "nameLocalized": "权杖皇后",
+    "arcana": "minor",
+    "suit": "wands",
+    "element": "fire",
+    "keywords": {
+      "upright": {
+        "zh": ["自信", "感染力", "笃定", "内在的火"],
+        "en": ["self-assurance", "warmth others feel", "certainty", "fire held inward"]
+      },
+      "reversed": {
+        "zh": ["自我怀疑", "情绪外溢", "独断", "热情耗尽"],
+        "en": ["self-doubt", "heat spilling outward", "insistence", "burnt-out warmth"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "皇后是火元素成熟后向内收的样子：她不需要证明什么，火在她身上是温度而不是火焰。正面端坐、手持向日葵，脚边卧着黑猫——她既有热度也有边界，知道什么该靠近、什么该挡在外面。",
+        "en": "The Queen is fire matured and turned inward: she has nothing to prove, and the fire in her reads as warmth rather than flame. She sits facing forward holding a sunflower, a black cat at her feet — heat and boundary together, clear about what to let close and what to keep out."
+      },
+      "reversed": {
+        "zh": "火失了准。可能向内烧成了自我怀疑，也可能向外烧成了控制欲。逆位的皇后往往是把本该照顾自己的能量全给了别人之后的状态。",
+        "en": "The fire has lost its aim — turned inward it becomes self-doubt, turned outward it becomes insistence. The reversed Queen is often what's left after the warmth meant for herself was spent entirely on other people."
+      }
+    },
+    "symbolism": {
+      "zh": "黑猫既是她的守卫，也是她不轻易示人的那一面——温暖不等于毫无防备。",
+      "en": "The black cat is both her guard and the part of her she doesn't show easily — warmth is not the same as being unguarded."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "你的笃定会影响身边的人。留意它有没有变成压力。",
+        "en": "Your certainty carries to the people near you. Notice if it has started landing as pressure."
+      },
+      "reversed": {
+        "zh": "先问自己：最近一次为自己花时间是什么时候？",
+        "en": "Start with a simple question: when did you last spend time on yourself?"
+      }
+    },
+    "image": "w13.jpg"
+  },
+  {
+    "id": "w14",
+    "number": 14,
+    "name": "King of Wands",
+    "nameLocalized": "权杖国王",
+    "arcana": "minor",
+    "suit": "wands",
+    "element": "fire",
+    "keywords": {
+      "upright": {
+        "zh": ["领导力", "远见", "决断", "能把人带起来"],
+        "en": ["leadership", "vision", "decisiveness", "getting others moving"]
+      },
+      "reversed": {
+        "zh": ["专断", "好高骛远", "承诺过多", "掌控欲"],
+        "en": ["autocracy", "overreach", "over-promising", "need for control"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "国王是火元素向外的完成形态：他不只是自己有热情，还能让一群人朝同一个方向燃烧。他侧身而坐，随时可以起身——即使在王座上，也保持着行动的姿态。这张牌讲的是有方向感的权威。",
+        "en": "The King is fire completed and turned outward: not merely burning himself, but able to get a group burning in the same direction. He sits angled, ready to rise — even on the throne he holds the posture of movement. This card is about authority that knows where it's going."
+      },
+      "reversed": {
+        "zh": "权威用过了头。可能是不再听人说话，也可能是画的饼超出了能兑现的范围。逆位的国王常见的不是能力问题，而是没意识到自己话的分量。",
+        "en": "The authority has been overused — either he's stopped listening, or the promises have outrun what can be delivered. The reversed King usually isn't a competence problem; it's not noticing how much his words weigh."
+      }
+    },
+    "symbolism": {
+      "zh": "王座和斗篷上都是火蜥蜴与狮子——他的权力来自本性里的热度，而不是外授的头衔。",
+      "en": "Salamanders and lions cover both throne and cloak — his authority comes from the heat in his nature, not from a title conferred on him."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "你的决断力越强，别人越不敢反驳。主动去问异见。",
+        "en": "The more decisive you are, the less people push back. Go and ask for the disagreement."
+      },
+      "reversed": {
+        "zh": "检查一下最近答应的事，有多少是真能交付的。",
+        "en": "Audit what you've recently agreed to and see how much of it can actually be delivered."
+      }
+    },
+    "image": "w14.jpg"
+  }
+]
