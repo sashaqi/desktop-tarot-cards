@@ -1,6 +1,6 @@
 // Vite eagerly resolves every card photo to its built asset URL, keyed by filename
 // (e.g. "m00.jpg"), so CardArt can look up any of the 78 images by the `image`
-// field stored in data/cards.json.
+// field stored on each card in data/cards/.
 const modules = import.meta.glob('../assets/cards/*.jpg', { eager: true, import: 'default' }) as Record<
   string,
   string
