@@ -6,22 +6,44 @@
     "nameLocalized": "愚者",
     "arcana": "major",
     "keywords": {
-      "upright": [
-        "新的开始",
-        "冒险",
-        "天真",
-        "自由"
-      ],
-      "reversed": [
-        "冲动",
-        "犹豫不决",
-        "考虑不周",
-        "错失良机"
-      ]
+      "upright": {
+        "zh": [
+          "新的开始",
+          "冒险",
+          "天真",
+          "自由"
+        ],
+        "en": [
+          "new beginnings",
+          "adventure",
+          "innocence",
+          "freedom"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "冲动",
+          "犹豫不决",
+          "考虑不周",
+          "错失良机"
+        ],
+        "en": [
+          "recklessness",
+          "hesitation",
+          "poor judgment",
+          "missed chance"
+        ]
+      }
     },
     "meaning": {
-      "upright": "一段全新的旅程即将展开，放下顾虑，带着好奇心迈出第一步。",
-      "reversed": "冲动行事或对未知的恐惧正让你裹足不前，出发前不妨再想清楚一点。"
+      "upright": {
+        "zh": "一段全新的旅程即将展开，放下顾虑，带着好奇心迈出第一步。",
+        "en": "A brand new journey is opening up — set your worries aside and take the first step with curiosity."
+      },
+      "reversed": {
+        "zh": "冲动行事或对未知的恐惧正让你裹足不前，出发前不妨再想清楚一点。",
+        "en": "Impulsiveness or fear of the unknown is holding you back; think things through before you leap."
+      }
     },
     "image": "m00.jpg"
   },
@@ -32,22 +54,44 @@
     "nameLocalized": "魔术师",
     "arcana": "major",
     "keywords": {
-      "upright": [
-        "创造力",
-        "行动力",
-        "资源",
-        "自信"
-      ],
-      "reversed": [
-        "空谈",
-        "能力被浪费",
-        "欺骗",
-        "计划落空"
-      ]
+      "upright": {
+        "zh": [
+          "创造力",
+          "行动力",
+          "资源",
+          "自信"
+        ],
+        "en": [
+          "creativity",
+          "action",
+          "resourcefulness",
+          "confidence"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "空谈",
+          "能力被浪费",
+          "欺骗",
+          "计划落空"
+        ],
+        "en": [
+          "empty talk",
+          "wasted potential",
+          "deception",
+          "plans falling through"
+        ]
+      }
     },
     "meaning": {
-      "upright": "你已具备实现目标所需的一切工具，是时候主动出击、把想法变成现实。",
-      "reversed": "才华或资源没有被善用，或是有人在操纵局面，需要重新审视自己的动机。"
+      "upright": {
+        "zh": "你已具备实现目标所需的一切工具，是时候主动出击、把想法变成现实。",
+        "en": "You already have every tool you need — it's time to act and turn intention into reality."
+      },
+      "reversed": {
+        "zh": "才华或资源没有被善用，或是有人在操纵局面，需要重新审视自己的动机。",
+        "en": "Talent or resources are being misused, or someone is manipulating the situation — check your motives."
+      }
     },
     "image": "m01.jpg"
   },
@@ -58,22 +102,44 @@
     "nameLocalized": "女祭司",
     "arcana": "major",
     "keywords": {
-      "upright": [
-        "直觉",
-        "潜意识",
-        "神秘",
-        "内在智慧"
-      ],
-      "reversed": [
-        "隐瞒",
-        "忽视直觉",
-        "表里不一",
-        "信息未明"
-      ]
+      "upright": {
+        "zh": [
+          "直觉",
+          "潜意识",
+          "神秘",
+          "内在智慧"
+        ],
+        "en": [
+          "intuition",
+          "the subconscious",
+          "mystery",
+          "inner wisdom"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "隐瞒",
+          "忽视直觉",
+          "表里不一",
+          "信息未明"
+        ],
+        "en": [
+          "concealment",
+          "ignored intuition",
+          "inconsistency",
+          "hidden information"
+        ]
+      }
     },
     "meaning": {
-      "upright": "答案已经在你心里，静下心来倾听直觉，而不是急着向外寻求。",
-      "reversed": "你可能在压抑真实的感受，或是有些事情被刻意隐瞒，真相尚未浮出水面。"
+      "upright": {
+        "zh": "答案已经在你心里，静下心来倾听直觉，而不是急着向外寻求。",
+        "en": "The answer is already within you — get quiet and listen to your intuition instead of searching outward."
+      },
+      "reversed": {
+        "zh": "你可能在压抑真实的感受，或是有些事情被刻意隐瞒，真相尚未浮出水面。",
+        "en": "You may be suppressing your true feelings, or something is being deliberately hidden from you."
+      }
     },
     "image": "m02.jpg"
   },
@@ -84,22 +150,44 @@
     "nameLocalized": "皇后",
     "arcana": "major",
     "keywords": {
-      "upright": [
-        "丰盛",
-        "滋养",
-        "创造",
-        "自然"
-      ],
-      "reversed": [
-        "停滞",
-        "过度依赖",
-        "缺乏自我照顾",
-        "创造力受阻"
-      ]
+      "upright": {
+        "zh": [
+          "丰盛",
+          "滋养",
+          "创造",
+          "自然"
+        ],
+        "en": [
+          "abundance",
+          "nurturing",
+          "creativity",
+          "nature"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "停滞",
+          "过度依赖",
+          "缺乏自我照顾",
+          "创造力受阻"
+        ],
+        "en": [
+          "stagnation",
+          "over-dependence",
+          "neglecting self-care",
+          "blocked creativity"
+        ]
+      }
     },
     "meaning": {
-      "upright": "生活正在多个层面开花结果，允许自己享受这份丰盛并悉心滋养身边的人事物。",
-      "reversed": "创造力或人际关系出现停滞，也可能是过度付出而忽略了照顾自己。"
+      "upright": {
+        "zh": "生活正在多个层面开花结果，允许自己享受这份丰盛并悉心滋养身边的人事物。",
+        "en": "Life is blossoming on several fronts — let yourself enjoy this abundance and nurture what's around you."
+      },
+      "reversed": {
+        "zh": "创造力或人际关系出现停滞，也可能是过度付出而忽略了照顾自己。",
+        "en": "Creativity or relationships have stalled, or you've been giving so much you forgot to care for yourself."
+      }
     },
     "image": "m03.jpg"
   },
@@ -110,22 +198,44 @@
     "nameLocalized": "皇帝",
     "arcana": "major",
     "keywords": {
-      "upright": [
-        "秩序",
-        "掌控",
-        "权威",
-        "结构"
-      ],
-      "reversed": [
-        "专制",
-        "僵化",
-        "失控",
-        "缺乏纪律"
-      ]
+      "upright": {
+        "zh": [
+          "秩序",
+          "掌控",
+          "权威",
+          "结构"
+        ],
+        "en": [
+          "order",
+          "control",
+          "authority",
+          "structure"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "专制",
+          "僵化",
+          "失控",
+          "缺乏纪律"
+        ],
+        "en": [
+          "tyranny",
+          "rigidity",
+          "loss of control",
+          "lack of discipline"
+        ]
+      }
     },
     "meaning": {
-      "upright": "建立清晰的规则与结构，用稳定的领导力把混乱局面收拾妥当。",
-      "reversed": "过度控制或固执己见正在造成压力，也可能是权威或秩序正在瓦解。"
+      "upright": {
+        "zh": "建立清晰的规则与结构，用稳定的领导力把混乱局面收拾妥当。",
+        "en": "Set clear rules and structure — steady leadership will bring an unruly situation back under control."
+      },
+      "reversed": {
+        "zh": "过度控制或固执己见正在造成压力，也可能是权威或秩序正在瓦解。",
+        "en": "Excessive control or stubbornness is creating strain, or an authority/structure is starting to crumble."
+      }
     },
     "image": "m04.jpg"
   },
@@ -136,22 +246,44 @@
     "nameLocalized": "教皇",
     "arcana": "major",
     "keywords": {
-      "upright": [
-        "传统",
-        "指导",
-        "信念",
-        "制度"
-      ],
-      "reversed": [
-        "墨守成规",
-        "叛逆",
-        "教条主义",
-        "打破常规"
-      ]
+      "upright": {
+        "zh": [
+          "传统",
+          "指导",
+          "信念",
+          "制度"
+        ],
+        "en": [
+          "tradition",
+          "guidance",
+          "belief",
+          "institutions"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "墨守成规",
+          "叛逆",
+          "教条主义",
+          "打破常规"
+        ],
+        "en": [
+          "blind conformity",
+          "rebellion",
+          "dogmatism",
+          "breaking convention"
+        ]
+      }
     },
     "meaning": {
-      "upright": "遵循经过检验的方法或寻求一位导师的建议，会让你少走弯路。",
-      "reversed": "是时候质疑传统规则，走出一条属于自己的路，而不是盲从既定框架。"
+      "upright": {
+        "zh": "遵循经过检验的方法或寻求一位导师的建议，会让你少走弯路。",
+        "en": "Following a tested method or a mentor's advice will save you from unnecessary detours."
+      },
+      "reversed": {
+        "zh": "是时候质疑传统规则，走出一条属于自己的路，而不是盲从既定框架。",
+        "en": "It's time to question convention and carve your own path instead of blindly following the rules."
+      }
     },
     "image": "m05.jpg"
   },
@@ -162,22 +294,44 @@
     "nameLocalized": "恋人",
     "arcana": "major",
     "keywords": {
-      "upright": [
-        "爱",
-        "和谐",
-        "选择",
-        "结合"
-      ],
-      "reversed": [
-        "失衡",
-        "价值观冲突",
-        "犹豫",
-        "关系破裂"
-      ]
+      "upright": {
+        "zh": [
+          "爱",
+          "和谐",
+          "选择",
+          "结合"
+        ],
+        "en": [
+          "love",
+          "harmony",
+          "choice",
+          "union"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "失衡",
+          "价值观冲突",
+          "犹豫",
+          "关系破裂"
+        ],
+        "en": [
+          "imbalance",
+          "conflicting values",
+          "indecision",
+          "broken relationship"
+        ]
+      }
     },
     "meaning": {
-      "upright": "一份重要的关系或抉择摆在眼前，跟随内心真正认同的价值去做出选择。",
-      "reversed": "关系中出现分歧或不平衡，一个艰难的选择正在考验你的价值观。"
+      "upright": {
+        "zh": "一份重要的关系或抉择摆在眼前，跟随内心真正认同的价值去做出选择。",
+        "en": "An important relationship or choice is in front of you — decide according to what you truly value."
+      },
+      "reversed": {
+        "zh": "关系中出现分歧或不平衡，一个艰难的选择正在考验你的价值观。",
+        "en": "There's friction or imbalance in a relationship, and a hard choice is testing your values."
+      }
     },
     "image": "m06.jpg"
   },
@@ -188,22 +342,44 @@
     "nameLocalized": "战车",
     "arcana": "major",
     "keywords": {
-      "upright": [
-        "意志力",
-        "掌控方向",
-        "决心",
-        "胜利"
-      ],
-      "reversed": [
-        "失去方向",
-        "缺乏自律",
-        "受挫",
-        "内耗"
-      ]
+      "upright": {
+        "zh": [
+          "意志力",
+          "掌控方向",
+          "决心",
+          "胜利"
+        ],
+        "en": [
+          "willpower",
+          "direction",
+          "determination",
+          "victory"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "失去方向",
+          "缺乏自律",
+          "受挫",
+          "内耗"
+        ],
+        "en": [
+          "losing direction",
+          "lack of discipline",
+          "setbacks",
+          "inner conflict"
+        ]
+      }
     },
     "meaning": {
-      "upright": "凭借坚定的意志和明确的方向，你能克服阻力、掌控局面并取得进展。",
-      "reversed": "内心的矛盾或外部的阻碍让你偏离了方向，需要重新找回专注与自律。"
+      "upright": {
+        "zh": "凭借坚定的意志和明确的方向，你能克服阻力、掌控局面并取得进展。",
+        "en": "With firm will and a clear direction, you can push through resistance and take charge."
+      },
+      "reversed": {
+        "zh": "内心的矛盾或外部的阻碍让你偏离了方向，需要重新找回专注与自律。",
+        "en": "Inner conflict or outside obstacles have pulled you off course — refocus and find your discipline again."
+      }
     },
     "image": "m07.jpg"
   },
@@ -214,22 +390,44 @@
     "nameLocalized": "力量",
     "arcana": "major",
     "keywords": {
-      "upright": [
-        "内在力量",
-        "勇气",
-        "耐心",
-        "温柔的坚定"
-      ],
-      "reversed": [
-        "自我怀疑",
-        "软弱",
-        "失控",
-        "缺乏耐心"
-      ]
+      "upright": {
+        "zh": [
+          "内在力量",
+          "勇气",
+          "耐心",
+          "温柔的坚定"
+        ],
+        "en": [
+          "inner strength",
+          "courage",
+          "patience",
+          "gentle resolve"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "自我怀疑",
+          "软弱",
+          "失控",
+          "缺乏耐心"
+        ],
+        "en": [
+          "self-doubt",
+          "weakness",
+          "loss of control",
+          "impatience"
+        ]
+      }
     },
     "meaning": {
-      "upright": "真正的力量来自温柔而坚定的耐心，用柔软化解困难比硬碰硬更有效。",
-      "reversed": "自我怀疑或情绪失控正在消耗你的力量，先安顿好自己的内心。"
+      "upright": {
+        "zh": "真正的力量来自温柔而坚定的耐心，用柔软化解困难比硬碰硬更有效。",
+        "en": "Real strength comes from gentle, steady patience — softness resolves more than force ever could."
+      },
+      "reversed": {
+        "zh": "自我怀疑或情绪失控正在消耗你的力量，先安顿好自己的内心。",
+        "en": "Self-doubt or an emotional flare-up is draining your strength — settle your own heart first."
+      }
     },
     "image": "m08.jpg"
   },
@@ -240,22 +438,44 @@
     "nameLocalized": "隐士",
     "arcana": "major",
     "keywords": {
-      "upright": [
-        "内省",
-        "独处",
-        "寻求真理",
-        "指引"
-      ],
-      "reversed": [
-        "孤立",
-        "逃避",
-        "迷失方向",
-        "拒绝帮助"
-      ]
+      "upright": {
+        "zh": [
+          "内省",
+          "独处",
+          "寻求真理",
+          "指引"
+        ],
+        "en": [
+          "introspection",
+          "solitude",
+          "seeking truth",
+          "guidance"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "孤立",
+          "逃避",
+          "迷失方向",
+          "拒绝帮助"
+        ],
+        "en": [
+          "isolation",
+          "avoidance",
+          "losing your way",
+          "refusing help"
+        ]
+      }
     },
     "meaning": {
-      "upright": "暂时退后一步、独自沉淀，答案会在安静的反思中慢慢清晰。",
-      "reversed": "过度的孤立让你与外界脱节，或是你在逃避该面对的问题。"
+      "upright": {
+        "zh": "暂时退后一步、独自沉淀，答案会在安静的反思中慢慢清晰。",
+        "en": "Step back and sit with yourself for a while — the answer will surface in quiet reflection."
+      },
+      "reversed": {
+        "zh": "过度的孤立让你与外界脱节，或是你在逃避该面对的问题。",
+        "en": "Too much isolation has cut you off from others, or you're avoiding something you need to face."
+      }
     },
     "image": "m09.jpg"
   },
@@ -266,22 +486,44 @@
     "nameLocalized": "命运之轮",
     "arcana": "major",
     "keywords": {
-      "upright": [
-        "转变",
-        "机遇",
-        "命运",
-        "周期"
-      ],
-      "reversed": [
-        "厄运",
-        "抗拒改变",
-        "失控的变化",
-        "停滞"
-      ]
+      "upright": {
+        "zh": [
+          "转变",
+          "机遇",
+          "命运",
+          "周期"
+        ],
+        "en": [
+          "change",
+          "opportunity",
+          "fate",
+          "cycles"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "厄运",
+          "抗拒改变",
+          "失控的变化",
+          "停滞"
+        ],
+        "en": [
+          "bad luck",
+          "resisting change",
+          "chaotic change",
+          "stagnation"
+        ]
+      }
     },
     "meaning": {
-      "upright": "命运的齿轮正在转动，一个新的周期或意外的机遇即将到来，顺势而为。",
-      "reversed": "变化带来的不是你期待的方向，或是你正在抗拒本该发生的转变。"
+      "upright": {
+        "zh": "命运的齿轮正在转动，一个新的周期或意外的机遇即将到来，顺势而为。",
+        "en": "The wheel is turning — a new cycle or unexpected opportunity is arriving, so move with it."
+      },
+      "reversed": {
+        "zh": "变化带来的不是你期待的方向，或是你正在抗拒本该发生的转变。",
+        "en": "Change isn't going the way you hoped, or you're resisting a shift that needs to happen."
+      }
     },
     "image": "m10.jpg"
   },
@@ -292,22 +534,44 @@
     "nameLocalized": "正义",
     "arcana": "major",
     "keywords": {
-      "upright": [
-        "公平",
-        "真相",
-        "因果",
-        "决断"
-      ],
-      "reversed": [
-        "不公",
-        "逃避责任",
-        "偏颇",
-        "延误的裁决"
-      ]
+      "upright": {
+        "zh": [
+          "公平",
+          "真相",
+          "因果",
+          "决断"
+        ],
+        "en": [
+          "fairness",
+          "truth",
+          "cause and effect",
+          "decisions"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "不公",
+          "逃避责任",
+          "偏颇",
+          "延误的裁决"
+        ],
+        "en": [
+          "unfairness",
+          "avoiding responsibility",
+          "bias",
+          "delayed judgment"
+        ]
+      }
     },
     "meaning": {
-      "upright": "以公正、诚实的态度面对当下的局面，过去的行为终将得到相应的结果。",
-      "reversed": "不公平的对待或是你在逃避应负的责任，真相仍需进一步厘清。"
+      "upright": {
+        "zh": "以公正、诚实的态度面对当下的局面，过去的行为终将得到相应的结果。",
+        "en": "Face the situation honestly and fairly — past actions are about to catch up with their consequences."
+      },
+      "reversed": {
+        "zh": "不公平的对待或是你在逃避应负的责任，真相仍需进一步厘清。",
+        "en": "You're facing unfair treatment, or avoiding a responsibility that's yours — the truth still needs sorting out."
+      }
     },
     "image": "m11.jpg"
   },
@@ -318,22 +582,44 @@
     "nameLocalized": "倒吊人",
     "arcana": "major",
     "keywords": {
-      "upright": [
-        "暂停",
-        "换个角度",
-        "顺其自然",
-        "牺牲"
-      ],
-      "reversed": [
-        "拖延",
-        "无谓的牺牲",
-        "抗拒暂停",
-        "停滞不前"
-      ]
+      "upright": {
+        "zh": [
+          "暂停",
+          "换个角度",
+          "顺其自然",
+          "牺牲"
+        ],
+        "en": [
+          "pause",
+          "new perspective",
+          "letting go",
+          "sacrifice"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "拖延",
+          "无谓的牺牲",
+          "抗拒暂停",
+          "停滞不前"
+        ],
+        "en": [
+          "procrastination",
+          "needless sacrifice",
+          "resisting pause",
+          "stuck in place"
+        ]
+      }
     },
     "meaning": {
-      "upright": "主动放慢脚步、换个视角看问题，牺牲眼前的执着能带来新的领悟。",
-      "reversed": "无谓的拖延或牺牲让你原地打转，是时候结束这种被动等待了。"
+      "upright": {
+        "zh": "主动放慢脚步、换个视角看问题，牺牲眼前的执着能带来新的领悟。",
+        "en": "Slow down on purpose and look from a new angle — letting go of what you're gripping brings insight."
+      },
+      "reversed": {
+        "zh": "无谓的拖延或牺牲让你原地打转，是时候结束这种被动等待了。",
+        "en": "Needless delay or sacrifice has you spinning in place — it's time to stop this passive waiting."
+      }
     },
     "image": "m12.jpg"
   },
@@ -344,22 +630,44 @@
     "nameLocalized": "死神",
     "arcana": "major",
     "keywords": {
-      "upright": [
-        "结束",
-        "转化",
-        "释放",
-        "新生"
-      ],
-      "reversed": [
-        "抗拒改变",
-        "停滞",
-        "未完成的告别",
-        "恐惧"
-      ]
+      "upright": {
+        "zh": [
+          "结束",
+          "转化",
+          "释放",
+          "新生"
+        ],
+        "en": [
+          "ending",
+          "transformation",
+          "release",
+          "renewal"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "抗拒改变",
+          "停滞",
+          "未完成的告别",
+          "恐惧"
+        ],
+        "en": [
+          "resisting change",
+          "stagnation",
+          "unfinished farewell",
+          "fear"
+        ]
+      }
     },
     "meaning": {
-      "upright": "一个阶段正在结束，唯有放手让旧的过去，新的可能才能真正开始。",
-      "reversed": "你正在抗拒一个必要的结束，迟迟不肯放手反而让自己更痛苦。"
+      "upright": {
+        "zh": "一个阶段正在结束，唯有放手让旧的过去，新的可能才能真正开始。",
+        "en": "A chapter is ending — only by letting the old go can something new truly begin."
+      },
+      "reversed": {
+        "zh": "你正在抗拒一个必要的结束，迟迟不肯放手反而让自己更痛苦。",
+        "en": "You're resisting an ending that needs to happen; refusing to let go is only prolonging the pain."
+      }
     },
     "image": "m13.jpg"
   },
@@ -370,22 +678,44 @@
     "nameLocalized": "节制",
     "arcana": "major",
     "keywords": {
-      "upright": [
-        "平衡",
-        "调和",
-        "耐心",
-        "融合"
-      ],
-      "reversed": [
-        "失衡",
-        "过度",
-        "缺乏耐心",
-        "冲突未解"
-      ]
+      "upright": {
+        "zh": [
+          "平衡",
+          "调和",
+          "耐心",
+          "融合"
+        ],
+        "en": [
+          "balance",
+          "moderation",
+          "patience",
+          "integration"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "失衡",
+          "过度",
+          "缺乏耐心",
+          "冲突未解"
+        ],
+        "en": [
+          "imbalance",
+          "excess",
+          "impatience",
+          "unresolved conflict"
+        ]
+      }
     },
     "meaning": {
-      "upright": "以耐心和中庸之道调和对立的两端，稳步前行会比走极端更长久。",
-      "reversed": "生活中的某些方面正走向极端或失衡，需要重新找回节奏与分寸。"
+      "upright": {
+        "zh": "以耐心和中庸之道调和对立的两端，稳步前行会比走极端更长久。",
+        "en": "Blend opposites with patience and moderation — steady progress will outlast any extreme."
+      },
+      "reversed": {
+        "zh": "生活中的某些方面正走向极端或失衡，需要重新找回节奏与分寸。",
+        "en": "Some part of your life is tipping into excess or imbalance — find your rhythm and proportion again."
+      }
     },
     "image": "m14.jpg"
   },
@@ -396,22 +726,44 @@
     "nameLocalized": "恶魔",
     "arcana": "major",
     "keywords": {
-      "upright": [
-        "束缚",
-        "欲望",
-        "物质",
-        "阴影面"
-      ],
-      "reversed": [
-        "挣脱束缚",
-        "觉察",
-        "解放",
-        "重拾掌控"
-      ]
+      "upright": {
+        "zh": [
+          "束缚",
+          "欲望",
+          "物质",
+          "阴影面"
+        ],
+        "en": [
+          "bondage",
+          "desire",
+          "materialism",
+          "the shadow self"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "挣脱束缚",
+          "觉察",
+          "解放",
+          "重拾掌控"
+        ],
+        "en": [
+          "breaking free",
+          "awareness",
+          "liberation",
+          "reclaiming control"
+        ]
+      }
     },
     "meaning": {
-      "upright": "留意让你上瘾或困住你的执念，它可能以诱惑或恐惧的形式悄悄控制你。",
-      "reversed": "你正开始意识到那些束缚，并有勇气挣脱不健康的关系或习惯。"
+      "upright": {
+        "zh": "留意让你上瘾或困住你的执念，它可能以诱惑或恐惧的形式悄悄控制你。",
+        "en": "Notice what's got a hold on you — it may be controlling you quietly through temptation or fear."
+      },
+      "reversed": {
+        "zh": "你正开始意识到那些束缚，并有勇气挣脱不健康的关系或习惯。",
+        "en": "You're starting to see those chains clearly, and finding the courage to break an unhealthy pattern."
+      }
     },
     "image": "m15.jpg"
   },
@@ -422,22 +774,44 @@
     "nameLocalized": "高塔",
     "arcana": "major",
     "keywords": {
-      "upright": [
-        "突变",
-        "崩塌",
-        "觉醒",
-        "真相大白"
-      ],
-      "reversed": [
-        "逃避崩溃",
-        "延迟的灾难",
-        "恐惧改变",
-        "劫后余生"
-      ]
+      "upright": {
+        "zh": [
+          "突变",
+          "崩塌",
+          "觉醒",
+          "真相大白"
+        ],
+        "en": [
+          "sudden upheaval",
+          "collapse",
+          "awakening",
+          "revelation"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "逃避崩溃",
+          "延迟的灾难",
+          "恐惧改变",
+          "劫后余生"
+        ],
+        "en": [
+          "avoiding collapse",
+          "delayed disaster",
+          "fear of change",
+          "aftermath"
+        ]
+      }
     },
     "meaning": {
-      "upright": "一场突如其来的变故打破了原本的假象，废墟之上才能建立更真实的基础。",
-      "reversed": "你在竭力回避一场迟早会到来的崩塌，或正从上一次的震荡中慢慢恢复。"
+      "upright": {
+        "zh": "一场突如其来的变故打破了原本的假象，废墟之上才能建立更真实的基础。",
+        "en": "A sudden upheaval has shattered the illusion — something truer can be built on the rubble."
+      },
+      "reversed": {
+        "zh": "你在竭力回避一场迟早会到来的崩塌，或正从上一次的震荡中慢慢恢复。",
+        "en": "You're working hard to avoid a collapse that's coming anyway, or slowly recovering from the last one."
+      }
     },
     "image": "m16.jpg"
   },
@@ -448,22 +822,44 @@
     "nameLocalized": "星星",
     "arcana": "major",
     "keywords": {
-      "upright": [
-        "希望",
-        "疗愈",
-        "灵感",
-        "信任未来"
-      ],
-      "reversed": [
-        "失望",
-        "缺乏信心",
-        "灵感枯竭",
-        "绝望"
-      ]
+      "upright": {
+        "zh": [
+          "希望",
+          "疗愈",
+          "灵感",
+          "信任未来"
+        ],
+        "en": [
+          "hope",
+          "healing",
+          "inspiration",
+          "trust in the future"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "失望",
+          "缺乏信心",
+          "灵感枯竭",
+          "绝望"
+        ],
+        "en": [
+          "disappointment",
+          "lack of confidence",
+          "creative block",
+          "despair"
+        ]
+      }
     },
     "meaning": {
-      "upright": "风暴过后，希望重新降临，保持信心，疗愈与灵感正在悄然回归。",
-      "reversed": "你对未来感到灰心失望，或是暂时失去了继续前行的信心。"
+      "upright": {
+        "zh": "风暴过后，希望重新降临，保持信心，疗愈与灵感正在悄然回归。",
+        "en": "After the storm, hope returns — stay confident, healing and inspiration are quietly on their way back."
+      },
+      "reversed": {
+        "zh": "你对未来感到灰心失望，或是暂时失去了继续前行的信心。",
+        "en": "You feel discouraged about the future, or have temporarily lost the confidence to keep going."
+      }
     },
     "image": "m17.jpg"
   },
@@ -474,22 +870,44 @@
     "nameLocalized": "月亮",
     "arcana": "major",
     "keywords": {
-      "upright": [
-        "潜意识",
-        "幻象",
-        "恐惧",
-        "直觉"
-      ],
-      "reversed": [
-        "真相浮现",
-        "困惑消散",
-        "内心不安",
-        "误解"
-      ]
+      "upright": {
+        "zh": [
+          "潜意识",
+          "幻象",
+          "恐惧",
+          "直觉"
+        ],
+        "en": [
+          "the subconscious",
+          "illusion",
+          "fear",
+          "intuition"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "真相浮现",
+          "困惑消散",
+          "内心不安",
+          "误解"
+        ],
+        "en": [
+          "truth emerging",
+          "confusion clearing",
+          "unease",
+          "misunderstanding"
+        ]
+      }
     },
     "meaning": {
-      "upright": "眼前的局面并不完全清晰，留意潜意识和梦境透露出的线索，谨慎前行。",
-      "reversed": "笼罩已久的迷雾正在散去，真相逐渐浮现，但仍需警惕残留的困惑与误解。"
+      "upright": {
+        "zh": "眼前的局面并不完全清晰，留意潜意识和梦境透露出的线索，谨慎前行。",
+        "en": "Things aren't fully clear yet — pay attention to what your subconscious and dreams reveal, and tread carefully."
+      },
+      "reversed": {
+        "zh": "笼罩已久的迷雾正在散去，真相逐渐浮现，但仍需警惕残留的困惑与误解。",
+        "en": "A long-standing fog is finally lifting and the truth is emerging, though some confusion still lingers."
+      }
     },
     "image": "m18.jpg"
   },
@@ -500,22 +918,44 @@
     "nameLocalized": "太阳",
     "arcana": "major",
     "keywords": {
-      "upright": [
-        "喜悦",
-        "成功",
-        "活力",
-        "真实"
-      ],
-      "reversed": [
-        "暂时的低落",
-        "过度乐观",
-        "延迟的喜悦",
-        "自我怀疑"
-      ]
+      "upright": {
+        "zh": [
+          "喜悦",
+          "成功",
+          "活力",
+          "真实"
+        ],
+        "en": [
+          "joy",
+          "success",
+          "vitality",
+          "authenticity"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "暂时的低落",
+          "过度乐观",
+          "延迟的喜悦",
+          "自我怀疑"
+        ],
+        "en": [
+          "temporary low",
+          "over-optimism",
+          "delayed joy",
+          "self-doubt"
+        ]
+      }
     },
     "meaning": {
-      "upright": "喜悦、成功与活力正照耀着你，尽情享受这份明朗与真实的自信。",
-      "reversed": "本该有的喜悦被暂时遮蔽，或是盲目乐观让你忽略了一些细节。"
+      "upright": {
+        "zh": "喜悦、成功与活力正照耀着你，尽情享受这份明朗与真实的自信。",
+        "en": "Joy, success, and vitality are shining on you — enjoy this clarity and well-earned confidence."
+      },
+      "reversed": {
+        "zh": "本该有的喜悦被暂时遮蔽，或是盲目乐观让你忽略了一些细节。",
+        "en": "The joy you deserve is temporarily overshadowed, or blind optimism is making you miss some details."
+      }
     },
     "image": "m19.jpg"
   },
@@ -526,22 +966,44 @@
     "nameLocalized": "审判",
     "arcana": "major",
     "keywords": {
-      "upright": [
-        "觉醒",
-        "重生",
-        "反思",
-        "召唤"
-      ],
-      "reversed": [
-        "自我批判",
-        "犹豫不决",
-        "逃避召唤",
-        "错失反思"
-      ]
+      "upright": {
+        "zh": [
+          "觉醒",
+          "重生",
+          "反思",
+          "召唤"
+        ],
+        "en": [
+          "awakening",
+          "rebirth",
+          "reflection",
+          "a calling"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "自我批判",
+          "犹豫不决",
+          "逃避召唤",
+          "错失反思"
+        ],
+        "en": [
+          "self-criticism",
+          "indecision",
+          "avoiding the call",
+          "missed reflection"
+        ]
+      }
     },
     "meaning": {
-      "upright": "一次重要的觉醒或转折召唤着你，认真回顾过去，勇敢迎接新的篇章。",
-      "reversed": "过度的自我批判或对改变的犹豫，让你难以回应内心真正的召唤。"
+      "upright": {
+        "zh": "一次重要的觉醒或转折召唤着你，认真回顾过去，勇敢迎接新的篇章。",
+        "en": "An important awakening is calling you — look back honestly and step bravely into a new chapter."
+      },
+      "reversed": {
+        "zh": "过度的自我批判或对改变的犹豫，让你难以回应内心真正的召唤。",
+        "en": "Excessive self-criticism or hesitation about change is keeping you from answering a real calling."
+      }
     },
     "image": "m20.jpg"
   },
@@ -552,22 +1014,44 @@
     "nameLocalized": "世界",
     "arcana": "major",
     "keywords": {
-      "upright": [
-        "圆满",
-        "完成",
-        "整合",
-        "成就"
-      ],
-      "reversed": [
-        "未竟之事",
-        "缺乏收尾",
-        "延迟的完成",
-        "停滞不前"
-      ]
+      "upright": {
+        "zh": [
+          "圆满",
+          "完成",
+          "整合",
+          "成就"
+        ],
+        "en": [
+          "completion",
+          "fulfillment",
+          "integration",
+          "accomplishment"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "未竟之事",
+          "缺乏收尾",
+          "延迟的完成",
+          "停滞不前"
+        ],
+        "en": [
+          "unfinished business",
+          "lack of closure",
+          "delayed completion",
+          "stagnation"
+        ]
+      }
     },
     "meaning": {
-      "upright": "一个重要的旅程或阶段圆满完成，尽情庆祝这份来之不易的成就与完整。",
-      "reversed": "还有一些事情尚未收尾，完成的时刻被延迟，或是你难以真正感到满足。"
+      "upright": {
+        "zh": "一个重要的旅程或阶段圆满完成，尽情庆祝这份来之不易的成就与完整。",
+        "en": "An important journey has reached fulfillment — celebrate this hard-won sense of wholeness."
+      },
+      "reversed": {
+        "zh": "还有一些事情尚未收尾，完成的时刻被延迟，或是你难以真正感到满足。",
+        "en": "Something is still unfinished, completion is delayed, or true satisfaction is hard to feel right now."
+      }
     },
     "image": "m21.jpg"
   },
@@ -579,20 +1063,40 @@
     "arcana": "minor",
     "suit": "wands",
     "keywords": {
-      "upright": [
-        "新起点",
-        "潜力",
-        "灵感"
-      ],
-      "reversed": [
-        "错失开端",
-        "犹豫",
-        "能量受阻"
-      ]
+      "upright": {
+        "zh": [
+          "新起点",
+          "潜力",
+          "灵感"
+        ],
+        "en": [
+          "new start",
+          "potential",
+          "inspiration"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "错失开端",
+          "犹豫",
+          "能量受阻"
+        ],
+        "en": [
+          "missed start",
+          "hesitation",
+          "blocked energy"
+        ]
+      }
     },
     "meaning": {
-      "upright": "一份全新的行动与热情正蓬勃萌发，全心投入这份初生的干劲。",
-      "reversed": "这份行动与热情的萌芽被压抑，停滞的热情让你迟迟无法真正开始。"
+      "upright": {
+        "zh": "一份全新的行动与热情正蓬勃萌发，全心投入这份初生的干劲。",
+        "en": "A brand new spark of action and passion is emerging — throw yourself into this early drive."
+      },
+      "reversed": {
+        "zh": "这份行动与热情的萌芽被压抑，停滞的热情让你迟迟无法真正开始。",
+        "en": "This spark of action and passion is being held back, and stalled drive keeps you from truly starting."
+      }
     },
     "image": "w01.jpg"
   },
@@ -604,20 +1108,40 @@
     "arcana": "minor",
     "suit": "wands",
     "keywords": {
-      "upright": [
-        "抉择",
-        "平衡",
-        "伙伴关系"
-      ],
-      "reversed": [
-        "失衡",
-        "犹豫不决",
-        "关系停滞"
-      ]
+      "upright": {
+        "zh": [
+          "抉择",
+          "平衡",
+          "伙伴关系"
+        ],
+        "en": [
+          "choice",
+          "balance",
+          "partnership"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "失衡",
+          "犹豫不决",
+          "关系停滞"
+        ],
+        "en": [
+          "imbalance",
+          "indecision",
+          "stalled relationship"
+        ]
+      }
     },
     "meaning": {
-      "upright": "你正面临一个关于事业或创作的选择或需要找到平衡的伙伴关系。",
-      "reversed": "选择陷入僵局，或事业或创作中的平衡被打破。"
+      "upright": {
+        "zh": "你正面临一个关于事业或创作的选择或需要找到平衡的伙伴关系。",
+        "en": "You're facing a choice about your career or creative work, or need to find balance with a partner."
+      },
+      "reversed": {
+        "zh": "选择陷入僵局，或事业或创作中的平衡被打破。",
+        "en": "A choice has stalled, or the balance around your career or creative work has been thrown off."
+      }
     },
     "image": "w02.jpg"
   },
@@ -629,20 +1153,40 @@
     "arcana": "minor",
     "suit": "wands",
     "keywords": {
-      "upright": [
-        "成长",
-        "合作",
-        "初步成果"
-      ],
-      "reversed": [
-        "延误",
-        "缺乏支持",
-        "计划受阻"
-      ]
+      "upright": {
+        "zh": [
+          "成长",
+          "合作",
+          "初步成果"
+        ],
+        "en": [
+          "growth",
+          "collaboration",
+          "early results"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "延误",
+          "缺乏支持",
+          "计划受阻"
+        ],
+        "en": [
+          "delay",
+          "lack of support",
+          "stalled plans"
+        ]
+      }
     },
     "meaning": {
-      "upright": "初步的努力开始显现成果，事业或创作正稳步向前扩展。",
-      "reversed": "扩展的计划遇到延迟，团队或计划中出现协作上的落差。"
+      "upright": {
+        "zh": "初步的努力开始显现成果，事业或创作正稳步向前扩展。",
+        "en": "Early effort is starting to pay off — your career or creative work is steadily expanding."
+      },
+      "reversed": {
+        "zh": "扩展的计划遇到延迟，团队或计划中出现协作上的落差。",
+        "en": "An expanding plan hits a delay, or a team effort loses coordination."
+      }
     },
     "image": "w03.jpg"
   },
@@ -654,20 +1198,40 @@
     "arcana": "minor",
     "suit": "wands",
     "keywords": {
-      "upright": [
-        "稳定",
-        "基础",
-        "小憩"
-      ],
-      "reversed": [
-        "停滞",
-        "不安",
-        "根基动摇"
-      ]
+      "upright": {
+        "zh": [
+          "稳定",
+          "基础",
+          "小憩"
+        ],
+        "en": [
+          "stability",
+          "foundation",
+          "rest"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "停滞",
+          "不安",
+          "根基动摇"
+        ],
+        "en": [
+          "stagnation",
+          "unease",
+          "shaky ground"
+        ]
+      }
     },
     "meaning": {
-      "upright": "是时候稳固已有的成果，在事业或创作中找到一个安稳的立足点。",
-      "reversed": "过度安于现状，或稳定的基础正被打破。"
+      "upright": {
+        "zh": "是时候稳固已有的成果，在事业或创作中找到一个安稳的立足点。",
+        "en": "It's time to secure what you've built and find stable footing in your career or creative work."
+      },
+      "reversed": {
+        "zh": "过度安于现状，或稳定的基础正被打破。",
+        "en": "You're too comfortable with the status quo, or a stable foundation is being shaken."
+      }
     },
     "image": "w04.jpg"
   },
@@ -679,20 +1243,40 @@
     "arcana": "minor",
     "suit": "wands",
     "keywords": {
-      "upright": [
-        "冲突",
-        "竞争",
-        "挑战"
-      ],
-      "reversed": [
-        "和解",
-        "残留的怨气",
-        "疲惫"
-      ]
+      "upright": {
+        "zh": [
+          "冲突",
+          "竞争",
+          "挑战"
+        ],
+        "en": [
+          "conflict",
+          "competition",
+          "challenge"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "和解",
+          "残留的怨气",
+          "疲惫"
+        ],
+        "en": [
+          "reconciliation",
+          "lingering resentment",
+          "fatigue"
+        ]
+      }
     },
     "meaning": {
-      "upright": "事业或创作中出现了摩擦与竞争，一次挑战正在考验你的干劲。",
-      "reversed": "冲突正在平息，或你仍困在过去的争执中难以释怀。"
+      "upright": {
+        "zh": "事业或创作中出现了摩擦与竞争，一次挑战正在考验你的干劲。",
+        "en": "Friction and competition have surfaced around your career or creative work, testing your drive."
+      },
+      "reversed": {
+        "zh": "冲突正在平息，或你仍困在过去的争执中难以释怀。",
+        "en": "A conflict is settling down, or you're still stuck in a past argument."
+      }
     },
     "image": "w05.jpg"
   },
@@ -704,20 +1288,40 @@
     "arcana": "minor",
     "suit": "wands",
     "keywords": {
-      "upright": [
-        "回报",
-        "和谐",
-        "分享"
-      ],
-      "reversed": [
-        "失衡",
-        "旧事重提",
-        "认可延迟"
-      ]
+      "upright": {
+        "zh": [
+          "回报",
+          "和谐",
+          "分享"
+        ],
+        "en": [
+          "reward",
+          "harmony",
+          "sharing"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "失衡",
+          "旧事重提",
+          "认可延迟"
+        ],
+        "en": [
+          "imbalance",
+          "rehashing the past",
+          "delayed recognition"
+        ]
+      }
     },
     "meaning": {
-      "upright": "努力开始得到回报，事业或创作迎来和谐、分享或众人认可的时刻。",
-      "reversed": "付出与回报暂时失衡，旧日的经历重新浮上心头。"
+      "upright": {
+        "zh": "努力开始得到回报，事业或创作迎来和谐、分享或众人认可的时刻。",
+        "en": "Effort is starting to pay off — your career or creative work brings harmony, sharing, or recognition."
+      },
+      "reversed": {
+        "zh": "付出与回报暂时失衡，旧日的经历重新浮上心头。",
+        "en": "Giving and receiving are briefly out of balance, or the past resurfaces."
+      }
     },
     "image": "w06.jpg"
   },
@@ -729,20 +1333,40 @@
     "arcana": "minor",
     "suit": "wands",
     "keywords": {
-      "upright": [
-        "评估",
-        "坚持",
-        "策略"
-      ],
-      "reversed": [
-        "焦虑",
-        "分心",
-        "拖延"
-      ]
+      "upright": {
+        "zh": [
+          "评估",
+          "坚持",
+          "策略"
+        ],
+        "en": [
+          "assessment",
+          "persistence",
+          "strategy"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "焦虑",
+          "分心",
+          "拖延"
+        ],
+        "en": [
+          "anxiety",
+          "distraction",
+          "procrastination"
+        ]
+      }
     },
     "meaning": {
-      "upright": "需要静下心评估事业或创作中的进展，耐心和坚持会带来突破。",
-      "reversed": "焦虑或三心二意让事业或创作的进展被拖慢。"
+      "upright": {
+        "zh": "需要静下心评估事业或创作中的进展，耐心和坚持会带来突破。",
+        "en": "Take time to assess progress on your career or creative work — patience and persistence will pay off."
+      },
+      "reversed": {
+        "zh": "焦虑或三心二意让事业或创作的进展被拖慢。",
+        "en": "Anxiety or indecision is slowing down progress on your career or creative work."
+      }
     },
     "image": "w07.jpg"
   },
@@ -754,20 +1378,40 @@
     "arcana": "minor",
     "suit": "wands",
     "keywords": {
-      "upright": [
-        "推进",
-        "专注",
-        "效率"
-      ],
-      "reversed": [
-        "延误",
-        "急躁",
-        "分散"
-      ]
+      "upright": {
+        "zh": [
+          "推进",
+          "专注",
+          "效率"
+        ],
+        "en": [
+          "momentum",
+          "focus",
+          "efficiency"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "延误",
+          "急躁",
+          "分散"
+        ],
+        "en": [
+          "delay",
+          "impatience",
+          "scattered effort"
+        ]
+      }
     },
     "meaning": {
-      "upright": "事业或创作进入快速推进的阶段，专注和效率会带来明显进展。",
-      "reversed": "进展被延误，或是过于急躁反而让事业或创作停滞。"
+      "upright": {
+        "zh": "事业或创作进入快速推进的阶段，专注和效率会带来明显进展。",
+        "en": "your career or creative work is moving into a fast, focused phase — efficiency brings clear progress."
+      },
+      "reversed": {
+        "zh": "进展被延误，或是过于急躁反而让事业或创作停滞。",
+        "en": "Progress is delayed, or rushing has actually stalled your career or creative work."
+      }
     },
     "image": "w08.jpg"
   },
@@ -779,20 +1423,40 @@
     "arcana": "minor",
     "suit": "wands",
     "keywords": {
-      "upright": [
-        "坚韧",
-        "接近完成",
-        "警惕"
-      ],
-      "reversed": [
-        "倦怠",
-        "不安全感",
-        "过度防备"
-      ]
+      "upright": {
+        "zh": [
+          "坚韧",
+          "接近完成",
+          "警惕"
+        ],
+        "en": [
+          "resilience",
+          "near completion",
+          "vigilance"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "倦怠",
+          "不安全感",
+          "过度防备"
+        ],
+        "en": [
+          "fatigue",
+          "insecurity",
+          "over-guardedness"
+        ]
+      }
     },
     "meaning": {
-      "upright": "你已接近事业或创作的目标，即便疲惫也要保持这份坚韧。",
-      "reversed": "长期的压力带来倦怠或不安，需要适度放下戒备、寻求支持。"
+      "upright": {
+        "zh": "你已接近事业或创作的目标，即便疲惫也要保持这份坚韧。",
+        "en": "You're close to your goal in your career or creative work — stay resilient even if you're tired."
+      },
+      "reversed": {
+        "zh": "长期的压力带来倦怠或不安，需要适度放下戒备、寻求支持。",
+        "en": "Sustained pressure has brought fatigue or unease; it's okay to lower your guard and ask for support."
+      }
     },
     "image": "w09.jpg"
   },
@@ -804,20 +1468,40 @@
     "arcana": "minor",
     "suit": "wands",
     "keywords": {
-      "upright": [
-        "圆满",
-        "负担",
-        "结果"
-      ],
-      "reversed": [
-        "卸下重担",
-        "过渡",
-        "解脱"
-      ]
+      "upright": {
+        "zh": [
+          "圆满",
+          "负担",
+          "结果"
+        ],
+        "en": [
+          "fulfillment",
+          "burden",
+          "outcome"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "卸下重担",
+          "过渡",
+          "解脱"
+        ],
+        "en": [
+          "releasing a burden",
+          "transition",
+          "relief"
+        ]
+      }
     },
     "meaning": {
-      "upright": "事业或创作中的努力迎来圆满的结果，但也可能伴随沉重的负担。",
-      "reversed": "是时候放下不再需要的重担，为事业或创作的新篇章腾出空间。"
+      "upright": {
+        "zh": "事业或创作中的努力迎来圆满的结果，但也可能伴随沉重的负担。",
+        "en": "Effort in your career or creative work reaches a fulfilling result, though it may come with a heavy load."
+      },
+      "reversed": {
+        "zh": "是时候放下不再需要的重担，为事业或创作的新篇章腾出空间。",
+        "en": "It's time to set down a burden you no longer need, to make room for a new chapter in your career or creative work."
+      }
     },
     "image": "w10.jpg"
   },
@@ -829,20 +1513,40 @@
     "arcana": "minor",
     "suit": "wands",
     "keywords": {
-      "upright": [
-        "讯息",
-        "好奇",
-        "学习"
-      ],
-      "reversed": [
-        "犹豫",
-        "消息延迟",
-        "准备不足"
-      ]
+      "upright": {
+        "zh": [
+          "讯息",
+          "好奇",
+          "学习"
+        ],
+        "en": [
+          "a message",
+          "curiosity",
+          "learning"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "犹豫",
+          "消息延迟",
+          "准备不足"
+        ],
+        "en": [
+          "hesitation",
+          "delayed news",
+          "underprepared"
+        ]
+      }
     },
     "meaning": {
-      "upright": "一个关于事业或创作的新消息或学习机会正在到来，保持好奇心去探索。",
-      "reversed": "消息尚未成熟，或你在事业或创作上还需要更多耐心去学习。"
+      "upright": {
+        "zh": "一个关于事业或创作的新消息或学习机会正在到来，保持好奇心去探索。",
+        "en": "News or a chance to learn something about your career or creative work is arriving — stay curious."
+      },
+      "reversed": {
+        "zh": "消息尚未成熟，或你在事业或创作上还需要更多耐心去学习。",
+        "en": "The news isn't ready yet, or you need more patience to learn about your career or creative work."
+      }
     },
     "image": "w11.jpg"
   },
@@ -854,20 +1558,40 @@
     "arcana": "minor",
     "suit": "wands",
     "keywords": {
-      "upright": [
-        "行动力",
-        "热情",
-        "追求"
-      ],
-      "reversed": [
-        "鲁莽",
-        "半途而废",
-        "方向不明"
-      ]
+      "upright": {
+        "zh": [
+          "行动力",
+          "热情",
+          "追求"
+        ],
+        "en": [
+          "drive",
+          "passion",
+          "pursuit"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "鲁莽",
+          "半途而废",
+          "方向不明"
+        ],
+        "en": [
+          "recklessness",
+          "giving up midway",
+          "unclear direction"
+        ]
+      }
     },
     "meaning": {
-      "upright": "以充沛的干劲主动出击，在事业或创作上大胆采取行动。",
-      "reversed": "行动过于急躁鲁莽，或是事业或创作上的推进突然停滞。"
+      "upright": {
+        "zh": "以充沛的干劲主动出击，在事业或创作上大胆采取行动。",
+        "en": "Ride your drive and take bold action on your career or creative work."
+      },
+      "reversed": {
+        "zh": "行动过于急躁鲁莽，或是事业或创作上的推进突然停滞。",
+        "en": "Action has become reckless, or momentum on your career or creative work has suddenly stalled."
+      }
     },
     "image": "w12.jpg"
   },
@@ -879,20 +1603,40 @@
     "arcana": "minor",
     "suit": "wands",
     "keywords": {
-      "upright": [
-        "成熟",
-        "包容",
-        "直觉"
-      ],
-      "reversed": [
-        "情绪化",
-        "过度操心",
-        "内心不安"
-      ]
+      "upright": {
+        "zh": [
+          "成熟",
+          "包容",
+          "直觉"
+        ],
+        "en": [
+          "maturity",
+          "compassion",
+          "intuition"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "情绪化",
+          "过度操心",
+          "内心不安"
+        ],
+        "en": [
+          "moodiness",
+          "over-worrying",
+          "inner unease"
+        ]
+      }
     },
     "meaning": {
-      "upright": "以成熟、包容的姿态照顾好事业或创作，凭直觉与耐心稳住局面。",
-      "reversed": "情绪化或过度操心让事业或创作失去平衡，需要照顾好自己。"
+      "upright": {
+        "zh": "以成熟、包容的姿态照顾好事业或创作，凭直觉与耐心稳住局面。",
+        "en": "Care for your career or creative work with maturity and intuition, holding steady with patience."
+      },
+      "reversed": {
+        "zh": "情绪化或过度操心让事业或创作失去平衡，需要照顾好自己。",
+        "en": "Emotion or over-worrying has thrown your career or creative work off balance — take care of yourself too."
+      }
     },
     "image": "w13.jpg"
   },
@@ -904,20 +1648,40 @@
     "arcana": "minor",
     "suit": "wands",
     "keywords": {
-      "upright": [
-        "领导力",
-        "掌控",
-        "经验"
-      ],
-      "reversed": [
-        "专断",
-        "滥用权力",
-        "缺乏掌控"
-      ]
+      "upright": {
+        "zh": [
+          "领导力",
+          "掌控",
+          "经验"
+        ],
+        "en": [
+          "leadership",
+          "mastery",
+          "experience"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "专断",
+          "滥用权力",
+          "缺乏掌控"
+        ],
+        "en": [
+          "overbearing",
+          "abuse of power",
+          "lack of control"
+        ]
+      }
     },
     "meaning": {
-      "upright": "以稳健的领导力和丰富的经验，在事业或创作中建立起权威与秩序。",
-      "reversed": "权威被滥用，或是在事业或创作上缺乏足够的掌控力。"
+      "upright": {
+        "zh": "以稳健的领导力和丰富的经验，在事业或创作中建立起权威与秩序。",
+        "en": "Bring steady leadership and hard-won experience to build authority in your career or creative work."
+      },
+      "reversed": {
+        "zh": "权威被滥用，或是在事业或创作上缺乏足够的掌控力。",
+        "en": "Authority is being misused, or you lack real control over your career or creative work right now."
+      }
     },
     "image": "w14.jpg"
   },
@@ -929,20 +1693,40 @@
     "arcana": "minor",
     "suit": "cups",
     "keywords": {
-      "upright": [
-        "新起点",
-        "潜力",
-        "灵感"
-      ],
-      "reversed": [
-        "错失开端",
-        "犹豫",
-        "能量受阻"
-      ]
+      "upright": {
+        "zh": [
+          "新起点",
+          "潜力",
+          "灵感"
+        ],
+        "en": [
+          "new start",
+          "potential",
+          "inspiration"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "错失开端",
+          "犹豫",
+          "能量受阻"
+        ],
+        "en": [
+          "missed start",
+          "hesitation",
+          "blocked energy"
+        ]
+      }
     },
     "meaning": {
-      "upright": "一份全新的情感与关系正蓬勃萌发，全心投入这份初生的心意。",
-      "reversed": "这份情感与关系的萌芽被压抑，情绪的淤积让你迟迟无法真正开始。"
+      "upright": {
+        "zh": "一份全新的情感与关系正蓬勃萌发，全心投入这份初生的心意。",
+        "en": "A brand new spark of emotion and connection is emerging — throw yourself into this early feelings."
+      },
+      "reversed": {
+        "zh": "这份情感与关系的萌芽被压抑，停滞的热情让你迟迟无法真正开始。",
+        "en": "This spark of emotion and connection is being held back, and stalled feelings keeps you from truly starting."
+      }
     },
     "image": "c01.jpg"
   },
@@ -954,20 +1738,40 @@
     "arcana": "minor",
     "suit": "cups",
     "keywords": {
-      "upright": [
-        "抉择",
-        "平衡",
-        "伙伴关系"
-      ],
-      "reversed": [
-        "失衡",
-        "犹豫不决",
-        "关系停滞"
-      ]
+      "upright": {
+        "zh": [
+          "抉择",
+          "平衡",
+          "伙伴关系"
+        ],
+        "en": [
+          "choice",
+          "balance",
+          "partnership"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "失衡",
+          "犹豫不决",
+          "关系停滞"
+        ],
+        "en": [
+          "imbalance",
+          "indecision",
+          "stalled relationship"
+        ]
+      }
     },
     "meaning": {
-      "upright": "你正面临一个关于感情或人际的选择或需要找到平衡的伙伴关系。",
-      "reversed": "选择陷入僵局，或感情或人际中的平衡被打破。"
+      "upright": {
+        "zh": "你正面临一个关于感情或人际的选择或需要找到平衡的伙伴关系。",
+        "en": "You're facing a choice about a relationship, or need to find balance with a partner."
+      },
+      "reversed": {
+        "zh": "选择陷入僵局，或感情或人际中的平衡被打破。",
+        "en": "A choice has stalled, or the balance around a relationship has been thrown off."
+      }
     },
     "image": "c02.jpg"
   },
@@ -979,20 +1783,40 @@
     "arcana": "minor",
     "suit": "cups",
     "keywords": {
-      "upright": [
-        "成长",
-        "合作",
-        "初步成果"
-      ],
-      "reversed": [
-        "延误",
-        "缺乏支持",
-        "计划受阻"
-      ]
+      "upright": {
+        "zh": [
+          "成长",
+          "合作",
+          "初步成果"
+        ],
+        "en": [
+          "growth",
+          "collaboration",
+          "early results"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "延误",
+          "缺乏支持",
+          "计划受阻"
+        ],
+        "en": [
+          "delay",
+          "lack of support",
+          "stalled plans"
+        ]
+      }
     },
     "meaning": {
-      "upright": "初步的努力开始显现成果，感情或人际正稳步向前扩展。",
-      "reversed": "扩展的计划遇到延迟，团队或计划中出现协作上的落差。"
+      "upright": {
+        "zh": "初步的努力开始显现成果，感情或人际正稳步向前扩展。",
+        "en": "Early effort is starting to pay off — a relationship is steadily expanding."
+      },
+      "reversed": {
+        "zh": "扩展的计划遇到延迟，团队或计划中出现协作上的落差。",
+        "en": "An expanding plan hits a delay, or a team effort loses coordination."
+      }
     },
     "image": "c03.jpg"
   },
@@ -1004,20 +1828,40 @@
     "arcana": "minor",
     "suit": "cups",
     "keywords": {
-      "upright": [
-        "稳定",
-        "基础",
-        "小憩"
-      ],
-      "reversed": [
-        "停滞",
-        "不安",
-        "根基动摇"
-      ]
+      "upright": {
+        "zh": [
+          "稳定",
+          "基础",
+          "小憩"
+        ],
+        "en": [
+          "stability",
+          "foundation",
+          "rest"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "停滞",
+          "不安",
+          "根基动摇"
+        ],
+        "en": [
+          "stagnation",
+          "unease",
+          "shaky ground"
+        ]
+      }
     },
     "meaning": {
-      "upright": "是时候稳固已有的成果，在感情或人际中找到一个安稳的立足点。",
-      "reversed": "过度安于现状，或稳定的基础正被打破。"
+      "upright": {
+        "zh": "是时候稳固已有的成果，在感情或人际中找到一个安稳的立足点。",
+        "en": "It's time to secure what you've built and find stable footing in a relationship."
+      },
+      "reversed": {
+        "zh": "过度安于现状，或稳定的基础正被打破。",
+        "en": "You're too comfortable with the status quo, or a stable foundation is being shaken."
+      }
     },
     "image": "c04.jpg"
   },
@@ -1029,20 +1873,40 @@
     "arcana": "minor",
     "suit": "cups",
     "keywords": {
-      "upright": [
-        "冲突",
-        "竞争",
-        "挑战"
-      ],
-      "reversed": [
-        "和解",
-        "残留的怨气",
-        "疲惫"
-      ]
+      "upright": {
+        "zh": [
+          "冲突",
+          "竞争",
+          "挑战"
+        ],
+        "en": [
+          "conflict",
+          "competition",
+          "challenge"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "和解",
+          "残留的怨气",
+          "疲惫"
+        ],
+        "en": [
+          "reconciliation",
+          "lingering resentment",
+          "fatigue"
+        ]
+      }
     },
     "meaning": {
-      "upright": "感情或人际中出现了摩擦与竞争，一次挑战正在考验你的心意。",
-      "reversed": "冲突正在平息，或你仍困在过去的争执中难以释怀。"
+      "upright": {
+        "zh": "感情或人际中出现了摩擦与竞争，一次挑战正在考验你的心意。",
+        "en": "Friction and competition have surfaced around a relationship, testing your feelings."
+      },
+      "reversed": {
+        "zh": "冲突正在平息，或你仍困在过去的争执中难以释怀。",
+        "en": "A conflict is settling down, or you're still stuck in a past argument."
+      }
     },
     "image": "c05.jpg"
   },
@@ -1054,20 +1918,40 @@
     "arcana": "minor",
     "suit": "cups",
     "keywords": {
-      "upright": [
-        "回报",
-        "和谐",
-        "分享"
-      ],
-      "reversed": [
-        "失衡",
-        "旧事重提",
-        "认可延迟"
-      ]
+      "upright": {
+        "zh": [
+          "回报",
+          "和谐",
+          "分享"
+        ],
+        "en": [
+          "reward",
+          "harmony",
+          "sharing"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "失衡",
+          "旧事重提",
+          "认可延迟"
+        ],
+        "en": [
+          "imbalance",
+          "rehashing the past",
+          "delayed recognition"
+        ]
+      }
     },
     "meaning": {
-      "upright": "努力开始得到回报，感情或人际迎来和谐、分享或众人认可的时刻。",
-      "reversed": "付出与回报暂时失衡，旧日的经历重新浮上心头。"
+      "upright": {
+        "zh": "努力开始得到回报，感情或人际迎来和谐、分享或众人认可的时刻。",
+        "en": "Effort is starting to pay off — a relationship brings harmony, sharing, or recognition."
+      },
+      "reversed": {
+        "zh": "付出与回报暂时失衡，旧日的经历重新浮上心头。",
+        "en": "Giving and receiving are briefly out of balance, or the past resurfaces."
+      }
     },
     "image": "c06.jpg"
   },
@@ -1079,20 +1963,40 @@
     "arcana": "minor",
     "suit": "cups",
     "keywords": {
-      "upright": [
-        "评估",
-        "坚持",
-        "策略"
-      ],
-      "reversed": [
-        "焦虑",
-        "分心",
-        "拖延"
-      ]
+      "upright": {
+        "zh": [
+          "评估",
+          "坚持",
+          "策略"
+        ],
+        "en": [
+          "assessment",
+          "persistence",
+          "strategy"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "焦虑",
+          "分心",
+          "拖延"
+        ],
+        "en": [
+          "anxiety",
+          "distraction",
+          "procrastination"
+        ]
+      }
     },
     "meaning": {
-      "upright": "需要静下心评估感情或人际中的进展，耐心和坚持会带来突破。",
-      "reversed": "焦虑或三心二意让感情或人际的进展被拖慢。"
+      "upright": {
+        "zh": "需要静下心评估感情或人际中的进展，耐心和坚持会带来突破。",
+        "en": "Take time to assess progress on a relationship — patience and persistence will pay off."
+      },
+      "reversed": {
+        "zh": "焦虑或三心二意让感情或人际的进展被拖慢。",
+        "en": "Anxiety or indecision is slowing down progress on a relationship."
+      }
     },
     "image": "c07.jpg"
   },
@@ -1104,20 +2008,40 @@
     "arcana": "minor",
     "suit": "cups",
     "keywords": {
-      "upright": [
-        "推进",
-        "专注",
-        "效率"
-      ],
-      "reversed": [
-        "延误",
-        "急躁",
-        "分散"
-      ]
+      "upright": {
+        "zh": [
+          "推进",
+          "专注",
+          "效率"
+        ],
+        "en": [
+          "momentum",
+          "focus",
+          "efficiency"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "延误",
+          "急躁",
+          "分散"
+        ],
+        "en": [
+          "delay",
+          "impatience",
+          "scattered effort"
+        ]
+      }
     },
     "meaning": {
-      "upright": "感情或人际进入快速推进的阶段，专注和效率会带来明显进展。",
-      "reversed": "进展被延误，或是过于急躁反而让感情或人际停滞。"
+      "upright": {
+        "zh": "感情或人际进入快速推进的阶段，专注和效率会带来明显进展。",
+        "en": "a relationship is moving into a fast, focused phase — efficiency brings clear progress."
+      },
+      "reversed": {
+        "zh": "进展被延误，或是过于急躁反而让感情或人际停滞。",
+        "en": "Progress is delayed, or rushing has actually stalled a relationship."
+      }
     },
     "image": "c08.jpg"
   },
@@ -1129,20 +2053,40 @@
     "arcana": "minor",
     "suit": "cups",
     "keywords": {
-      "upright": [
-        "坚韧",
-        "接近完成",
-        "警惕"
-      ],
-      "reversed": [
-        "倦怠",
-        "不安全感",
-        "过度防备"
-      ]
+      "upright": {
+        "zh": [
+          "坚韧",
+          "接近完成",
+          "警惕"
+        ],
+        "en": [
+          "resilience",
+          "near completion",
+          "vigilance"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "倦怠",
+          "不安全感",
+          "过度防备"
+        ],
+        "en": [
+          "fatigue",
+          "insecurity",
+          "over-guardedness"
+        ]
+      }
     },
     "meaning": {
-      "upright": "你已接近感情或人际的目标，即便疲惫也要保持这份坚韧。",
-      "reversed": "长期的压力带来倦怠或不安，需要适度放下戒备、寻求支持。"
+      "upright": {
+        "zh": "你已接近感情或人际的目标，即便疲惫也要保持这份坚韧。",
+        "en": "You're close to your goal in a relationship — stay resilient even if you're tired."
+      },
+      "reversed": {
+        "zh": "长期的压力带来倦怠或不安，需要适度放下戒备、寻求支持。",
+        "en": "Sustained pressure has brought fatigue or unease; it's okay to lower your guard and ask for support."
+      }
     },
     "image": "c09.jpg"
   },
@@ -1154,20 +2098,40 @@
     "arcana": "minor",
     "suit": "cups",
     "keywords": {
-      "upright": [
-        "圆满",
-        "负担",
-        "结果"
-      ],
-      "reversed": [
-        "卸下重担",
-        "过渡",
-        "解脱"
-      ]
+      "upright": {
+        "zh": [
+          "圆满",
+          "负担",
+          "结果"
+        ],
+        "en": [
+          "fulfillment",
+          "burden",
+          "outcome"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "卸下重担",
+          "过渡",
+          "解脱"
+        ],
+        "en": [
+          "releasing a burden",
+          "transition",
+          "relief"
+        ]
+      }
     },
     "meaning": {
-      "upright": "感情或人际中的努力迎来圆满的结果，但也可能伴随沉重的负担。",
-      "reversed": "是时候放下不再需要的重担，为感情或人际的新篇章腾出空间。"
+      "upright": {
+        "zh": "感情或人际中的努力迎来圆满的结果，但也可能伴随沉重的负担。",
+        "en": "Effort in a relationship reaches a fulfilling result, though it may come with a heavy load."
+      },
+      "reversed": {
+        "zh": "是时候放下不再需要的重担，为感情或人际的新篇章腾出空间。",
+        "en": "It's time to set down a burden you no longer need, to make room for a new chapter in a relationship."
+      }
     },
     "image": "c10.jpg"
   },
@@ -1179,20 +2143,40 @@
     "arcana": "minor",
     "suit": "cups",
     "keywords": {
-      "upright": [
-        "讯息",
-        "好奇",
-        "学习"
-      ],
-      "reversed": [
-        "犹豫",
-        "消息延迟",
-        "准备不足"
-      ]
+      "upright": {
+        "zh": [
+          "讯息",
+          "好奇",
+          "学习"
+        ],
+        "en": [
+          "a message",
+          "curiosity",
+          "learning"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "犹豫",
+          "消息延迟",
+          "准备不足"
+        ],
+        "en": [
+          "hesitation",
+          "delayed news",
+          "underprepared"
+        ]
+      }
     },
     "meaning": {
-      "upright": "一个关于感情或人际的新消息或学习机会正在到来，保持好奇心去探索。",
-      "reversed": "消息尚未成熟，或你在感情或人际上还需要更多耐心去学习。"
+      "upright": {
+        "zh": "一个关于感情或人际的新消息或学习机会正在到来，保持好奇心去探索。",
+        "en": "News or a chance to learn something about a relationship is arriving — stay curious."
+      },
+      "reversed": {
+        "zh": "消息尚未成熟，或你在感情或人际上还需要更多耐心去学习。",
+        "en": "The news isn't ready yet, or you need more patience to learn about a relationship."
+      }
     },
     "image": "c11.jpg"
   },
@@ -1204,20 +2188,40 @@
     "arcana": "minor",
     "suit": "cups",
     "keywords": {
-      "upright": [
-        "行动力",
-        "热情",
-        "追求"
-      ],
-      "reversed": [
-        "鲁莽",
-        "半途而废",
-        "方向不明"
-      ]
+      "upright": {
+        "zh": [
+          "行动力",
+          "热情",
+          "追求"
+        ],
+        "en": [
+          "drive",
+          "passion",
+          "pursuit"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "鲁莽",
+          "半途而废",
+          "方向不明"
+        ],
+        "en": [
+          "recklessness",
+          "giving up midway",
+          "unclear direction"
+        ]
+      }
     },
     "meaning": {
-      "upright": "以充沛的心意主动出击，在感情或人际上大胆采取行动。",
-      "reversed": "行动过于急躁鲁莽，或是感情或人际上的推进突然停滞。"
+      "upright": {
+        "zh": "以充沛的心意主动出击，在感情或人际上大胆采取行动。",
+        "en": "Ride your feelings and take bold action on a relationship."
+      },
+      "reversed": {
+        "zh": "行动过于急躁鲁莽，或是感情或人际上的推进突然停滞。",
+        "en": "Action has become reckless, or momentum on a relationship has suddenly stalled."
+      }
     },
     "image": "c12.jpg"
   },
@@ -1229,20 +2233,40 @@
     "arcana": "minor",
     "suit": "cups",
     "keywords": {
-      "upright": [
-        "成熟",
-        "包容",
-        "直觉"
-      ],
-      "reversed": [
-        "情绪化",
-        "过度操心",
-        "内心不安"
-      ]
+      "upright": {
+        "zh": [
+          "成熟",
+          "包容",
+          "直觉"
+        ],
+        "en": [
+          "maturity",
+          "compassion",
+          "intuition"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "情绪化",
+          "过度操心",
+          "内心不安"
+        ],
+        "en": [
+          "moodiness",
+          "over-worrying",
+          "inner unease"
+        ]
+      }
     },
     "meaning": {
-      "upright": "以成熟、包容的姿态照顾好感情或人际，凭直觉与耐心稳住局面。",
-      "reversed": "情绪化或过度操心让感情或人际失去平衡，需要照顾好自己。"
+      "upright": {
+        "zh": "以成熟、包容的姿态照顾好感情或人际，凭直觉与耐心稳住局面。",
+        "en": "Care for a relationship with maturity and intuition, holding steady with patience."
+      },
+      "reversed": {
+        "zh": "情绪化或过度操心让感情或人际失去平衡，需要照顾好自己。",
+        "en": "Emotion or over-worrying has thrown a relationship off balance — take care of yourself too."
+      }
     },
     "image": "c13.jpg"
   },
@@ -1254,20 +2278,40 @@
     "arcana": "minor",
     "suit": "cups",
     "keywords": {
-      "upright": [
-        "领导力",
-        "掌控",
-        "经验"
-      ],
-      "reversed": [
-        "专断",
-        "滥用权力",
-        "缺乏掌控"
-      ]
+      "upright": {
+        "zh": [
+          "领导力",
+          "掌控",
+          "经验"
+        ],
+        "en": [
+          "leadership",
+          "mastery",
+          "experience"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "专断",
+          "滥用权力",
+          "缺乏掌控"
+        ],
+        "en": [
+          "overbearing",
+          "abuse of power",
+          "lack of control"
+        ]
+      }
     },
     "meaning": {
-      "upright": "以稳健的领导力和丰富的经验，在感情或人际中建立起权威与秩序。",
-      "reversed": "权威被滥用，或是在感情或人际上缺乏足够的掌控力。"
+      "upright": {
+        "zh": "以稳健的领导力和丰富的经验，在感情或人际中建立起权威与秩序。",
+        "en": "Bring steady leadership and hard-won experience to build authority in a relationship."
+      },
+      "reversed": {
+        "zh": "权威被滥用，或是在感情或人际上缺乏足够的掌控力。",
+        "en": "Authority is being misused, or you lack real control over a relationship right now."
+      }
     },
     "image": "c14.jpg"
   },
@@ -1279,20 +2323,40 @@
     "arcana": "minor",
     "suit": "swords",
     "keywords": {
-      "upright": [
-        "新起点",
-        "潜力",
-        "灵感"
-      ],
-      "reversed": [
-        "错失开端",
-        "犹豫",
-        "能量受阻"
-      ]
+      "upright": {
+        "zh": [
+          "新起点",
+          "潜力",
+          "灵感"
+        ],
+        "en": [
+          "new start",
+          "potential",
+          "inspiration"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "错失开端",
+          "犹豫",
+          "能量受阻"
+        ],
+        "en": [
+          "missed start",
+          "hesitation",
+          "blocked energy"
+        ]
+      }
     },
     "meaning": {
-      "upright": "一份全新的思维与言语正蓬勃萌发，全心投入这份初生的思路。",
-      "reversed": "这份思维与言语的萌芽被压抑，内耗的念头让你迟迟无法真正开始。"
+      "upright": {
+        "zh": "一份全新的思维与言语正蓬勃萌发，全心投入这份初生的思路。",
+        "en": "A brand new spark of thought and communication is emerging — throw yourself into this early thinking."
+      },
+      "reversed": {
+        "zh": "这份思维与言语的萌芽被压抑，停滞的热情让你迟迟无法真正开始。",
+        "en": "This spark of thought and communication is being held back, and stalled thinking keeps you from truly starting."
+      }
     },
     "image": "s01.jpg"
   },
@@ -1304,20 +2368,40 @@
     "arcana": "minor",
     "suit": "swords",
     "keywords": {
-      "upright": [
-        "抉择",
-        "平衡",
-        "伙伴关系"
-      ],
-      "reversed": [
-        "失衡",
-        "犹豫不决",
-        "关系停滞"
-      ]
+      "upright": {
+        "zh": [
+          "抉择",
+          "平衡",
+          "伙伴关系"
+        ],
+        "en": [
+          "choice",
+          "balance",
+          "partnership"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "失衡",
+          "犹豫不决",
+          "关系停滞"
+        ],
+        "en": [
+          "imbalance",
+          "indecision",
+          "stalled relationship"
+        ]
+      }
     },
     "meaning": {
-      "upright": "你正面临一个关于沟通或决策的选择或需要找到平衡的伙伴关系。",
-      "reversed": "选择陷入僵局，或沟通或决策中的平衡被打破。"
+      "upright": {
+        "zh": "你正面临一个关于沟通或决策的选择或需要找到平衡的伙伴关系。",
+        "en": "You're facing a choice about a decision or conversation, or need to find balance with a partner."
+      },
+      "reversed": {
+        "zh": "选择陷入僵局，或沟通或决策中的平衡被打破。",
+        "en": "A choice has stalled, or the balance around a decision or conversation has been thrown off."
+      }
     },
     "image": "s02.jpg"
   },
@@ -1329,20 +2413,40 @@
     "arcana": "minor",
     "suit": "swords",
     "keywords": {
-      "upright": [
-        "成长",
-        "合作",
-        "初步成果"
-      ],
-      "reversed": [
-        "延误",
-        "缺乏支持",
-        "计划受阻"
-      ]
+      "upright": {
+        "zh": [
+          "成长",
+          "合作",
+          "初步成果"
+        ],
+        "en": [
+          "growth",
+          "collaboration",
+          "early results"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "延误",
+          "缺乏支持",
+          "计划受阻"
+        ],
+        "en": [
+          "delay",
+          "lack of support",
+          "stalled plans"
+        ]
+      }
     },
     "meaning": {
-      "upright": "初步的努力开始显现成果，沟通或决策正稳步向前扩展。",
-      "reversed": "扩展的计划遇到延迟，团队或计划中出现协作上的落差。"
+      "upright": {
+        "zh": "初步的努力开始显现成果，沟通或决策正稳步向前扩展。",
+        "en": "Early effort is starting to pay off — a decision or conversation is steadily expanding."
+      },
+      "reversed": {
+        "zh": "扩展的计划遇到延迟，团队或计划中出现协作上的落差。",
+        "en": "An expanding plan hits a delay, or a team effort loses coordination."
+      }
     },
     "image": "s03.jpg"
   },
@@ -1354,20 +2458,40 @@
     "arcana": "minor",
     "suit": "swords",
     "keywords": {
-      "upright": [
-        "稳定",
-        "基础",
-        "小憩"
-      ],
-      "reversed": [
-        "停滞",
-        "不安",
-        "根基动摇"
-      ]
+      "upright": {
+        "zh": [
+          "稳定",
+          "基础",
+          "小憩"
+        ],
+        "en": [
+          "stability",
+          "foundation",
+          "rest"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "停滞",
+          "不安",
+          "根基动摇"
+        ],
+        "en": [
+          "stagnation",
+          "unease",
+          "shaky ground"
+        ]
+      }
     },
     "meaning": {
-      "upright": "是时候稳固已有的成果，在沟通或决策中找到一个安稳的立足点。",
-      "reversed": "过度安于现状，或稳定的基础正被打破。"
+      "upright": {
+        "zh": "是时候稳固已有的成果，在沟通或决策中找到一个安稳的立足点。",
+        "en": "It's time to secure what you've built and find stable footing in a decision or conversation."
+      },
+      "reversed": {
+        "zh": "过度安于现状，或稳定的基础正被打破。",
+        "en": "You're too comfortable with the status quo, or a stable foundation is being shaken."
+      }
     },
     "image": "s04.jpg"
   },
@@ -1379,20 +2503,40 @@
     "arcana": "minor",
     "suit": "swords",
     "keywords": {
-      "upright": [
-        "冲突",
-        "竞争",
-        "挑战"
-      ],
-      "reversed": [
-        "和解",
-        "残留的怨气",
-        "疲惫"
-      ]
+      "upright": {
+        "zh": [
+          "冲突",
+          "竞争",
+          "挑战"
+        ],
+        "en": [
+          "conflict",
+          "competition",
+          "challenge"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "和解",
+          "残留的怨气",
+          "疲惫"
+        ],
+        "en": [
+          "reconciliation",
+          "lingering resentment",
+          "fatigue"
+        ]
+      }
     },
     "meaning": {
-      "upright": "沟通或决策中出现了摩擦与竞争，一次挑战正在考验你的思路。",
-      "reversed": "冲突正在平息，或你仍困在过去的争执中难以释怀。"
+      "upright": {
+        "zh": "沟通或决策中出现了摩擦与竞争，一次挑战正在考验你的思路。",
+        "en": "Friction and competition have surfaced around a decision or conversation, testing your thinking."
+      },
+      "reversed": {
+        "zh": "冲突正在平息，或你仍困在过去的争执中难以释怀。",
+        "en": "A conflict is settling down, or you're still stuck in a past argument."
+      }
     },
     "image": "s05.jpg"
   },
@@ -1404,20 +2548,40 @@
     "arcana": "minor",
     "suit": "swords",
     "keywords": {
-      "upright": [
-        "回报",
-        "和谐",
-        "分享"
-      ],
-      "reversed": [
-        "失衡",
-        "旧事重提",
-        "认可延迟"
-      ]
+      "upright": {
+        "zh": [
+          "回报",
+          "和谐",
+          "分享"
+        ],
+        "en": [
+          "reward",
+          "harmony",
+          "sharing"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "失衡",
+          "旧事重提",
+          "认可延迟"
+        ],
+        "en": [
+          "imbalance",
+          "rehashing the past",
+          "delayed recognition"
+        ]
+      }
     },
     "meaning": {
-      "upright": "努力开始得到回报，沟通或决策迎来和谐、分享或众人认可的时刻。",
-      "reversed": "付出与回报暂时失衡，旧日的经历重新浮上心头。"
+      "upright": {
+        "zh": "努力开始得到回报，沟通或决策迎来和谐、分享或众人认可的时刻。",
+        "en": "Effort is starting to pay off — a decision or conversation brings harmony, sharing, or recognition."
+      },
+      "reversed": {
+        "zh": "付出与回报暂时失衡，旧日的经历重新浮上心头。",
+        "en": "Giving and receiving are briefly out of balance, or the past resurfaces."
+      }
     },
     "image": "s06.jpg"
   },
@@ -1429,20 +2593,40 @@
     "arcana": "minor",
     "suit": "swords",
     "keywords": {
-      "upright": [
-        "评估",
-        "坚持",
-        "策略"
-      ],
-      "reversed": [
-        "焦虑",
-        "分心",
-        "拖延"
-      ]
+      "upright": {
+        "zh": [
+          "评估",
+          "坚持",
+          "策略"
+        ],
+        "en": [
+          "assessment",
+          "persistence",
+          "strategy"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "焦虑",
+          "分心",
+          "拖延"
+        ],
+        "en": [
+          "anxiety",
+          "distraction",
+          "procrastination"
+        ]
+      }
     },
     "meaning": {
-      "upright": "需要静下心评估沟通或决策中的进展，耐心和坚持会带来突破。",
-      "reversed": "焦虑或三心二意让沟通或决策的进展被拖慢。"
+      "upright": {
+        "zh": "需要静下心评估沟通或决策中的进展，耐心和坚持会带来突破。",
+        "en": "Take time to assess progress on a decision or conversation — patience and persistence will pay off."
+      },
+      "reversed": {
+        "zh": "焦虑或三心二意让沟通或决策的进展被拖慢。",
+        "en": "Anxiety or indecision is slowing down progress on a decision or conversation."
+      }
     },
     "image": "s07.jpg"
   },
@@ -1454,20 +2638,40 @@
     "arcana": "minor",
     "suit": "swords",
     "keywords": {
-      "upright": [
-        "推进",
-        "专注",
-        "效率"
-      ],
-      "reversed": [
-        "延误",
-        "急躁",
-        "分散"
-      ]
+      "upright": {
+        "zh": [
+          "推进",
+          "专注",
+          "效率"
+        ],
+        "en": [
+          "momentum",
+          "focus",
+          "efficiency"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "延误",
+          "急躁",
+          "分散"
+        ],
+        "en": [
+          "delay",
+          "impatience",
+          "scattered effort"
+        ]
+      }
     },
     "meaning": {
-      "upright": "沟通或决策进入快速推进的阶段，专注和效率会带来明显进展。",
-      "reversed": "进展被延误，或是过于急躁反而让沟通或决策停滞。"
+      "upright": {
+        "zh": "沟通或决策进入快速推进的阶段，专注和效率会带来明显进展。",
+        "en": "a decision or conversation is moving into a fast, focused phase — efficiency brings clear progress."
+      },
+      "reversed": {
+        "zh": "进展被延误，或是过于急躁反而让沟通或决策停滞。",
+        "en": "Progress is delayed, or rushing has actually stalled a decision or conversation."
+      }
     },
     "image": "s08.jpg"
   },
@@ -1479,20 +2683,40 @@
     "arcana": "minor",
     "suit": "swords",
     "keywords": {
-      "upright": [
-        "坚韧",
-        "接近完成",
-        "警惕"
-      ],
-      "reversed": [
-        "倦怠",
-        "不安全感",
-        "过度防备"
-      ]
+      "upright": {
+        "zh": [
+          "坚韧",
+          "接近完成",
+          "警惕"
+        ],
+        "en": [
+          "resilience",
+          "near completion",
+          "vigilance"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "倦怠",
+          "不安全感",
+          "过度防备"
+        ],
+        "en": [
+          "fatigue",
+          "insecurity",
+          "over-guardedness"
+        ]
+      }
     },
     "meaning": {
-      "upright": "你已接近沟通或决策的目标，即便疲惫也要保持这份坚韧。",
-      "reversed": "长期的压力带来倦怠或不安，需要适度放下戒备、寻求支持。"
+      "upright": {
+        "zh": "你已接近沟通或决策的目标，即便疲惫也要保持这份坚韧。",
+        "en": "You're close to your goal in a decision or conversation — stay resilient even if you're tired."
+      },
+      "reversed": {
+        "zh": "长期的压力带来倦怠或不安，需要适度放下戒备、寻求支持。",
+        "en": "Sustained pressure has brought fatigue or unease; it's okay to lower your guard and ask for support."
+      }
     },
     "image": "s09.jpg"
   },
@@ -1504,20 +2728,40 @@
     "arcana": "minor",
     "suit": "swords",
     "keywords": {
-      "upright": [
-        "圆满",
-        "负担",
-        "结果"
-      ],
-      "reversed": [
-        "卸下重担",
-        "过渡",
-        "解脱"
-      ]
+      "upright": {
+        "zh": [
+          "圆满",
+          "负担",
+          "结果"
+        ],
+        "en": [
+          "fulfillment",
+          "burden",
+          "outcome"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "卸下重担",
+          "过渡",
+          "解脱"
+        ],
+        "en": [
+          "releasing a burden",
+          "transition",
+          "relief"
+        ]
+      }
     },
     "meaning": {
-      "upright": "沟通或决策中的努力迎来圆满的结果，但也可能伴随沉重的负担。",
-      "reversed": "是时候放下不再需要的重担，为沟通或决策的新篇章腾出空间。"
+      "upright": {
+        "zh": "沟通或决策中的努力迎来圆满的结果，但也可能伴随沉重的负担。",
+        "en": "Effort in a decision or conversation reaches a fulfilling result, though it may come with a heavy load."
+      },
+      "reversed": {
+        "zh": "是时候放下不再需要的重担，为沟通或决策的新篇章腾出空间。",
+        "en": "It's time to set down a burden you no longer need, to make room for a new chapter in a decision or conversation."
+      }
     },
     "image": "s10.jpg"
   },
@@ -1529,20 +2773,40 @@
     "arcana": "minor",
     "suit": "swords",
     "keywords": {
-      "upright": [
-        "讯息",
-        "好奇",
-        "学习"
-      ],
-      "reversed": [
-        "犹豫",
-        "消息延迟",
-        "准备不足"
-      ]
+      "upright": {
+        "zh": [
+          "讯息",
+          "好奇",
+          "学习"
+        ],
+        "en": [
+          "a message",
+          "curiosity",
+          "learning"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "犹豫",
+          "消息延迟",
+          "准备不足"
+        ],
+        "en": [
+          "hesitation",
+          "delayed news",
+          "underprepared"
+        ]
+      }
     },
     "meaning": {
-      "upright": "一个关于沟通或决策的新消息或学习机会正在到来，保持好奇心去探索。",
-      "reversed": "消息尚未成熟，或你在沟通或决策上还需要更多耐心去学习。"
+      "upright": {
+        "zh": "一个关于沟通或决策的新消息或学习机会正在到来，保持好奇心去探索。",
+        "en": "News or a chance to learn something about a decision or conversation is arriving — stay curious."
+      },
+      "reversed": {
+        "zh": "消息尚未成熟，或你在沟通或决策上还需要更多耐心去学习。",
+        "en": "The news isn't ready yet, or you need more patience to learn about a decision or conversation."
+      }
     },
     "image": "s11.jpg"
   },
@@ -1554,20 +2818,40 @@
     "arcana": "minor",
     "suit": "swords",
     "keywords": {
-      "upright": [
-        "行动力",
-        "热情",
-        "追求"
-      ],
-      "reversed": [
-        "鲁莽",
-        "半途而废",
-        "方向不明"
-      ]
+      "upright": {
+        "zh": [
+          "行动力",
+          "热情",
+          "追求"
+        ],
+        "en": [
+          "drive",
+          "passion",
+          "pursuit"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "鲁莽",
+          "半途而废",
+          "方向不明"
+        ],
+        "en": [
+          "recklessness",
+          "giving up midway",
+          "unclear direction"
+        ]
+      }
     },
     "meaning": {
-      "upright": "以充沛的思路主动出击，在沟通或决策上大胆采取行动。",
-      "reversed": "行动过于急躁鲁莽，或是沟通或决策上的推进突然停滞。"
+      "upright": {
+        "zh": "以充沛的思路主动出击，在沟通或决策上大胆采取行动。",
+        "en": "Ride your thinking and take bold action on a decision or conversation."
+      },
+      "reversed": {
+        "zh": "行动过于急躁鲁莽，或是沟通或决策上的推进突然停滞。",
+        "en": "Action has become reckless, or momentum on a decision or conversation has suddenly stalled."
+      }
     },
     "image": "s12.jpg"
   },
@@ -1579,20 +2863,40 @@
     "arcana": "minor",
     "suit": "swords",
     "keywords": {
-      "upright": [
-        "成熟",
-        "包容",
-        "直觉"
-      ],
-      "reversed": [
-        "情绪化",
-        "过度操心",
-        "内心不安"
-      ]
+      "upright": {
+        "zh": [
+          "成熟",
+          "包容",
+          "直觉"
+        ],
+        "en": [
+          "maturity",
+          "compassion",
+          "intuition"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "情绪化",
+          "过度操心",
+          "内心不安"
+        ],
+        "en": [
+          "moodiness",
+          "over-worrying",
+          "inner unease"
+        ]
+      }
     },
     "meaning": {
-      "upright": "以成熟、包容的姿态照顾好沟通或决策，凭直觉与耐心稳住局面。",
-      "reversed": "情绪化或过度操心让沟通或决策失去平衡，需要照顾好自己。"
+      "upright": {
+        "zh": "以成熟、包容的姿态照顾好沟通或决策，凭直觉与耐心稳住局面。",
+        "en": "Care for a decision or conversation with maturity and intuition, holding steady with patience."
+      },
+      "reversed": {
+        "zh": "情绪化或过度操心让沟通或决策失去平衡，需要照顾好自己。",
+        "en": "Emotion or over-worrying has thrown a decision or conversation off balance — take care of yourself too."
+      }
     },
     "image": "s13.jpg"
   },
@@ -1604,20 +2908,40 @@
     "arcana": "minor",
     "suit": "swords",
     "keywords": {
-      "upright": [
-        "领导力",
-        "掌控",
-        "经验"
-      ],
-      "reversed": [
-        "专断",
-        "滥用权力",
-        "缺乏掌控"
-      ]
+      "upright": {
+        "zh": [
+          "领导力",
+          "掌控",
+          "经验"
+        ],
+        "en": [
+          "leadership",
+          "mastery",
+          "experience"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "专断",
+          "滥用权力",
+          "缺乏掌控"
+        ],
+        "en": [
+          "overbearing",
+          "abuse of power",
+          "lack of control"
+        ]
+      }
     },
     "meaning": {
-      "upright": "以稳健的领导力和丰富的经验，在沟通或决策中建立起权威与秩序。",
-      "reversed": "权威被滥用，或是在沟通或决策上缺乏足够的掌控力。"
+      "upright": {
+        "zh": "以稳健的领导力和丰富的经验，在沟通或决策中建立起权威与秩序。",
+        "en": "Bring steady leadership and hard-won experience to build authority in a decision or conversation."
+      },
+      "reversed": {
+        "zh": "权威被滥用，或是在沟通或决策上缺乏足够的掌控力。",
+        "en": "Authority is being misused, or you lack real control over a decision or conversation right now."
+      }
     },
     "image": "s14.jpg"
   },
@@ -1629,20 +2953,40 @@
     "arcana": "minor",
     "suit": "pentacles",
     "keywords": {
-      "upright": [
-        "新起点",
-        "潜力",
-        "灵感"
-      ],
-      "reversed": [
-        "错失开端",
-        "犹豫",
-        "能量受阻"
-      ]
+      "upright": {
+        "zh": [
+          "新起点",
+          "潜力",
+          "灵感"
+        ],
+        "en": [
+          "new start",
+          "potential",
+          "inspiration"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "错失开端",
+          "犹豫",
+          "能量受阻"
+        ],
+        "en": [
+          "missed start",
+          "hesitation",
+          "blocked energy"
+        ]
+      }
     },
     "meaning": {
-      "upright": "一份全新的现实与资源正蓬勃萌发，全心投入这份初生的踏实感。",
-      "reversed": "这份现实与资源的萌芽被压抑，现实的压力让你迟迟无法真正开始。"
+      "upright": {
+        "zh": "一份全新的现实与资源正蓬勃萌发，全心投入这份初生的踏实感。",
+        "en": "A brand new spark of material life and resources is emerging — throw yourself into this early groundedness."
+      },
+      "reversed": {
+        "zh": "这份现实与资源的萌芽被压抑，停滞的热情让你迟迟无法真正开始。",
+        "en": "This spark of material life and resources is being held back, and stalled groundedness keeps you from truly starting."
+      }
     },
     "image": "p01.jpg"
   },
@@ -1654,20 +2998,40 @@
     "arcana": "minor",
     "suit": "pentacles",
     "keywords": {
-      "upright": [
-        "抉择",
-        "平衡",
-        "伙伴关系"
-      ],
-      "reversed": [
-        "失衡",
-        "犹豫不决",
-        "关系停滞"
-      ]
+      "upright": {
+        "zh": [
+          "抉择",
+          "平衡",
+          "伙伴关系"
+        ],
+        "en": [
+          "choice",
+          "balance",
+          "partnership"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "失衡",
+          "犹豫不决",
+          "关系停滞"
+        ],
+        "en": [
+          "imbalance",
+          "indecision",
+          "stalled relationship"
+        ]
+      }
     },
     "meaning": {
-      "upright": "你正面临一个关于金钱或健康的选择或需要找到平衡的伙伴关系。",
-      "reversed": "选择陷入僵局，或金钱或健康中的平衡被打破。"
+      "upright": {
+        "zh": "你正面临一个关于金钱或健康的选择或需要找到平衡的伙伴关系。",
+        "en": "You're facing a choice about money or health, or need to find balance with a partner."
+      },
+      "reversed": {
+        "zh": "选择陷入僵局，或金钱或健康中的平衡被打破。",
+        "en": "A choice has stalled, or the balance around money or health has been thrown off."
+      }
     },
     "image": "p02.jpg"
   },
@@ -1679,20 +3043,40 @@
     "arcana": "minor",
     "suit": "pentacles",
     "keywords": {
-      "upright": [
-        "成长",
-        "合作",
-        "初步成果"
-      ],
-      "reversed": [
-        "延误",
-        "缺乏支持",
-        "计划受阻"
-      ]
+      "upright": {
+        "zh": [
+          "成长",
+          "合作",
+          "初步成果"
+        ],
+        "en": [
+          "growth",
+          "collaboration",
+          "early results"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "延误",
+          "缺乏支持",
+          "计划受阻"
+        ],
+        "en": [
+          "delay",
+          "lack of support",
+          "stalled plans"
+        ]
+      }
     },
     "meaning": {
-      "upright": "初步的努力开始显现成果，金钱或健康正稳步向前扩展。",
-      "reversed": "扩展的计划遇到延迟，团队或计划中出现协作上的落差。"
+      "upright": {
+        "zh": "初步的努力开始显现成果，金钱或健康正稳步向前扩展。",
+        "en": "Early effort is starting to pay off — money or health is steadily expanding."
+      },
+      "reversed": {
+        "zh": "扩展的计划遇到延迟，团队或计划中出现协作上的落差。",
+        "en": "An expanding plan hits a delay, or a team effort loses coordination."
+      }
     },
     "image": "p03.jpg"
   },
@@ -1704,20 +3088,40 @@
     "arcana": "minor",
     "suit": "pentacles",
     "keywords": {
-      "upright": [
-        "稳定",
-        "基础",
-        "小憩"
-      ],
-      "reversed": [
-        "停滞",
-        "不安",
-        "根基动摇"
-      ]
+      "upright": {
+        "zh": [
+          "稳定",
+          "基础",
+          "小憩"
+        ],
+        "en": [
+          "stability",
+          "foundation",
+          "rest"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "停滞",
+          "不安",
+          "根基动摇"
+        ],
+        "en": [
+          "stagnation",
+          "unease",
+          "shaky ground"
+        ]
+      }
     },
     "meaning": {
-      "upright": "是时候稳固已有的成果，在金钱或健康中找到一个安稳的立足点。",
-      "reversed": "过度安于现状，或稳定的基础正被打破。"
+      "upright": {
+        "zh": "是时候稳固已有的成果，在金钱或健康中找到一个安稳的立足点。",
+        "en": "It's time to secure what you've built and find stable footing in money or health."
+      },
+      "reversed": {
+        "zh": "过度安于现状，或稳定的基础正被打破。",
+        "en": "You're too comfortable with the status quo, or a stable foundation is being shaken."
+      }
     },
     "image": "p04.jpg"
   },
@@ -1729,20 +3133,40 @@
     "arcana": "minor",
     "suit": "pentacles",
     "keywords": {
-      "upright": [
-        "冲突",
-        "竞争",
-        "挑战"
-      ],
-      "reversed": [
-        "和解",
-        "残留的怨气",
-        "疲惫"
-      ]
+      "upright": {
+        "zh": [
+          "冲突",
+          "竞争",
+          "挑战"
+        ],
+        "en": [
+          "conflict",
+          "competition",
+          "challenge"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "和解",
+          "残留的怨气",
+          "疲惫"
+        ],
+        "en": [
+          "reconciliation",
+          "lingering resentment",
+          "fatigue"
+        ]
+      }
     },
     "meaning": {
-      "upright": "金钱或健康中出现了摩擦与竞争，一次挑战正在考验你的踏实感。",
-      "reversed": "冲突正在平息，或你仍困在过去的争执中难以释怀。"
+      "upright": {
+        "zh": "金钱或健康中出现了摩擦与竞争，一次挑战正在考验你的踏实感。",
+        "en": "Friction and competition have surfaced around money or health, testing your groundedness."
+      },
+      "reversed": {
+        "zh": "冲突正在平息，或你仍困在过去的争执中难以释怀。",
+        "en": "A conflict is settling down, or you're still stuck in a past argument."
+      }
     },
     "image": "p05.jpg"
   },
@@ -1754,20 +3178,40 @@
     "arcana": "minor",
     "suit": "pentacles",
     "keywords": {
-      "upright": [
-        "回报",
-        "和谐",
-        "分享"
-      ],
-      "reversed": [
-        "失衡",
-        "旧事重提",
-        "认可延迟"
-      ]
+      "upright": {
+        "zh": [
+          "回报",
+          "和谐",
+          "分享"
+        ],
+        "en": [
+          "reward",
+          "harmony",
+          "sharing"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "失衡",
+          "旧事重提",
+          "认可延迟"
+        ],
+        "en": [
+          "imbalance",
+          "rehashing the past",
+          "delayed recognition"
+        ]
+      }
     },
     "meaning": {
-      "upright": "努力开始得到回报，金钱或健康迎来和谐、分享或众人认可的时刻。",
-      "reversed": "付出与回报暂时失衡，旧日的经历重新浮上心头。"
+      "upright": {
+        "zh": "努力开始得到回报，金钱或健康迎来和谐、分享或众人认可的时刻。",
+        "en": "Effort is starting to pay off — money or health brings harmony, sharing, or recognition."
+      },
+      "reversed": {
+        "zh": "付出与回报暂时失衡，旧日的经历重新浮上心头。",
+        "en": "Giving and receiving are briefly out of balance, or the past resurfaces."
+      }
     },
     "image": "p06.jpg"
   },
@@ -1779,20 +3223,40 @@
     "arcana": "minor",
     "suit": "pentacles",
     "keywords": {
-      "upright": [
-        "评估",
-        "坚持",
-        "策略"
-      ],
-      "reversed": [
-        "焦虑",
-        "分心",
-        "拖延"
-      ]
+      "upright": {
+        "zh": [
+          "评估",
+          "坚持",
+          "策略"
+        ],
+        "en": [
+          "assessment",
+          "persistence",
+          "strategy"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "焦虑",
+          "分心",
+          "拖延"
+        ],
+        "en": [
+          "anxiety",
+          "distraction",
+          "procrastination"
+        ]
+      }
     },
     "meaning": {
-      "upright": "需要静下心评估金钱或健康中的进展，耐心和坚持会带来突破。",
-      "reversed": "焦虑或三心二意让金钱或健康的进展被拖慢。"
+      "upright": {
+        "zh": "需要静下心评估金钱或健康中的进展，耐心和坚持会带来突破。",
+        "en": "Take time to assess progress on money or health — patience and persistence will pay off."
+      },
+      "reversed": {
+        "zh": "焦虑或三心二意让金钱或健康的进展被拖慢。",
+        "en": "Anxiety or indecision is slowing down progress on money or health."
+      }
     },
     "image": "p07.jpg"
   },
@@ -1804,20 +3268,40 @@
     "arcana": "minor",
     "suit": "pentacles",
     "keywords": {
-      "upright": [
-        "推进",
-        "专注",
-        "效率"
-      ],
-      "reversed": [
-        "延误",
-        "急躁",
-        "分散"
-      ]
+      "upright": {
+        "zh": [
+          "推进",
+          "专注",
+          "效率"
+        ],
+        "en": [
+          "momentum",
+          "focus",
+          "efficiency"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "延误",
+          "急躁",
+          "分散"
+        ],
+        "en": [
+          "delay",
+          "impatience",
+          "scattered effort"
+        ]
+      }
     },
     "meaning": {
-      "upright": "金钱或健康进入快速推进的阶段，专注和效率会带来明显进展。",
-      "reversed": "进展被延误，或是过于急躁反而让金钱或健康停滞。"
+      "upright": {
+        "zh": "金钱或健康进入快速推进的阶段，专注和效率会带来明显进展。",
+        "en": "money or health is moving into a fast, focused phase — efficiency brings clear progress."
+      },
+      "reversed": {
+        "zh": "进展被延误，或是过于急躁反而让金钱或健康停滞。",
+        "en": "Progress is delayed, or rushing has actually stalled money or health."
+      }
     },
     "image": "p08.jpg"
   },
@@ -1829,20 +3313,40 @@
     "arcana": "minor",
     "suit": "pentacles",
     "keywords": {
-      "upright": [
-        "坚韧",
-        "接近完成",
-        "警惕"
-      ],
-      "reversed": [
-        "倦怠",
-        "不安全感",
-        "过度防备"
-      ]
+      "upright": {
+        "zh": [
+          "坚韧",
+          "接近完成",
+          "警惕"
+        ],
+        "en": [
+          "resilience",
+          "near completion",
+          "vigilance"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "倦怠",
+          "不安全感",
+          "过度防备"
+        ],
+        "en": [
+          "fatigue",
+          "insecurity",
+          "over-guardedness"
+        ]
+      }
     },
     "meaning": {
-      "upright": "你已接近金钱或健康的目标，即便疲惫也要保持这份坚韧。",
-      "reversed": "长期的压力带来倦怠或不安，需要适度放下戒备、寻求支持。"
+      "upright": {
+        "zh": "你已接近金钱或健康的目标，即便疲惫也要保持这份坚韧。",
+        "en": "You're close to your goal in money or health — stay resilient even if you're tired."
+      },
+      "reversed": {
+        "zh": "长期的压力带来倦怠或不安，需要适度放下戒备、寻求支持。",
+        "en": "Sustained pressure has brought fatigue or unease; it's okay to lower your guard and ask for support."
+      }
     },
     "image": "p09.jpg"
   },
@@ -1854,20 +3358,40 @@
     "arcana": "minor",
     "suit": "pentacles",
     "keywords": {
-      "upright": [
-        "圆满",
-        "负担",
-        "结果"
-      ],
-      "reversed": [
-        "卸下重担",
-        "过渡",
-        "解脱"
-      ]
+      "upright": {
+        "zh": [
+          "圆满",
+          "负担",
+          "结果"
+        ],
+        "en": [
+          "fulfillment",
+          "burden",
+          "outcome"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "卸下重担",
+          "过渡",
+          "解脱"
+        ],
+        "en": [
+          "releasing a burden",
+          "transition",
+          "relief"
+        ]
+      }
     },
     "meaning": {
-      "upright": "金钱或健康中的努力迎来圆满的结果，但也可能伴随沉重的负担。",
-      "reversed": "是时候放下不再需要的重担，为金钱或健康的新篇章腾出空间。"
+      "upright": {
+        "zh": "金钱或健康中的努力迎来圆满的结果，但也可能伴随沉重的负担。",
+        "en": "Effort in money or health reaches a fulfilling result, though it may come with a heavy load."
+      },
+      "reversed": {
+        "zh": "是时候放下不再需要的重担，为金钱或健康的新篇章腾出空间。",
+        "en": "It's time to set down a burden you no longer need, to make room for a new chapter in money or health."
+      }
     },
     "image": "p10.jpg"
   },
@@ -1879,20 +3403,40 @@
     "arcana": "minor",
     "suit": "pentacles",
     "keywords": {
-      "upright": [
-        "讯息",
-        "好奇",
-        "学习"
-      ],
-      "reversed": [
-        "犹豫",
-        "消息延迟",
-        "准备不足"
-      ]
+      "upright": {
+        "zh": [
+          "讯息",
+          "好奇",
+          "学习"
+        ],
+        "en": [
+          "a message",
+          "curiosity",
+          "learning"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "犹豫",
+          "消息延迟",
+          "准备不足"
+        ],
+        "en": [
+          "hesitation",
+          "delayed news",
+          "underprepared"
+        ]
+      }
     },
     "meaning": {
-      "upright": "一个关于金钱或健康的新消息或学习机会正在到来，保持好奇心去探索。",
-      "reversed": "消息尚未成熟，或你在金钱或健康上还需要更多耐心去学习。"
+      "upright": {
+        "zh": "一个关于金钱或健康的新消息或学习机会正在到来，保持好奇心去探索。",
+        "en": "News or a chance to learn something about money or health is arriving — stay curious."
+      },
+      "reversed": {
+        "zh": "消息尚未成熟，或你在金钱或健康上还需要更多耐心去学习。",
+        "en": "The news isn't ready yet, or you need more patience to learn about money or health."
+      }
     },
     "image": "p11.jpg"
   },
@@ -1904,20 +3448,40 @@
     "arcana": "minor",
     "suit": "pentacles",
     "keywords": {
-      "upright": [
-        "行动力",
-        "热情",
-        "追求"
-      ],
-      "reversed": [
-        "鲁莽",
-        "半途而废",
-        "方向不明"
-      ]
+      "upright": {
+        "zh": [
+          "行动力",
+          "热情",
+          "追求"
+        ],
+        "en": [
+          "drive",
+          "passion",
+          "pursuit"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "鲁莽",
+          "半途而废",
+          "方向不明"
+        ],
+        "en": [
+          "recklessness",
+          "giving up midway",
+          "unclear direction"
+        ]
+      }
     },
     "meaning": {
-      "upright": "以充沛的踏实感主动出击，在金钱或健康上大胆采取行动。",
-      "reversed": "行动过于急躁鲁莽，或是金钱或健康上的推进突然停滞。"
+      "upright": {
+        "zh": "以充沛的踏实感主动出击，在金钱或健康上大胆采取行动。",
+        "en": "Ride your groundedness and take bold action on money or health."
+      },
+      "reversed": {
+        "zh": "行动过于急躁鲁莽，或是金钱或健康上的推进突然停滞。",
+        "en": "Action has become reckless, or momentum on money or health has suddenly stalled."
+      }
     },
     "image": "p12.jpg"
   },
@@ -1929,20 +3493,40 @@
     "arcana": "minor",
     "suit": "pentacles",
     "keywords": {
-      "upright": [
-        "成熟",
-        "包容",
-        "直觉"
-      ],
-      "reversed": [
-        "情绪化",
-        "过度操心",
-        "内心不安"
-      ]
+      "upright": {
+        "zh": [
+          "成熟",
+          "包容",
+          "直觉"
+        ],
+        "en": [
+          "maturity",
+          "compassion",
+          "intuition"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "情绪化",
+          "过度操心",
+          "内心不安"
+        ],
+        "en": [
+          "moodiness",
+          "over-worrying",
+          "inner unease"
+        ]
+      }
     },
     "meaning": {
-      "upright": "以成熟、包容的姿态照顾好金钱或健康，凭直觉与耐心稳住局面。",
-      "reversed": "情绪化或过度操心让金钱或健康失去平衡，需要照顾好自己。"
+      "upright": {
+        "zh": "以成熟、包容的姿态照顾好金钱或健康，凭直觉与耐心稳住局面。",
+        "en": "Care for money or health with maturity and intuition, holding steady with patience."
+      },
+      "reversed": {
+        "zh": "情绪化或过度操心让金钱或健康失去平衡，需要照顾好自己。",
+        "en": "Emotion or over-worrying has thrown money or health off balance — take care of yourself too."
+      }
     },
     "image": "p13.jpg"
   },
@@ -1954,20 +3538,40 @@
     "arcana": "minor",
     "suit": "pentacles",
     "keywords": {
-      "upright": [
-        "领导力",
-        "掌控",
-        "经验"
-      ],
-      "reversed": [
-        "专断",
-        "滥用权力",
-        "缺乏掌控"
-      ]
+      "upright": {
+        "zh": [
+          "领导力",
+          "掌控",
+          "经验"
+        ],
+        "en": [
+          "leadership",
+          "mastery",
+          "experience"
+        ]
+      },
+      "reversed": {
+        "zh": [
+          "专断",
+          "滥用权力",
+          "缺乏掌控"
+        ],
+        "en": [
+          "overbearing",
+          "abuse of power",
+          "lack of control"
+        ]
+      }
     },
     "meaning": {
-      "upright": "以稳健的领导力和丰富的经验，在金钱或健康中建立起权威与秩序。",
-      "reversed": "权威被滥用，或是在金钱或健康上缺乏足够的掌控力。"
+      "upright": {
+        "zh": "以稳健的领导力和丰富的经验，在金钱或健康中建立起权威与秩序。",
+        "en": "Bring steady leadership and hard-won experience to build authority in money or health."
+      },
+      "reversed": {
+        "zh": "权威被滥用，或是在金钱或健康上缺乏足够的掌控力。",
+        "en": "Authority is being misused, or you lack real control over money or health right now."
+      }
     },
     "image": "p14.jpg"
   }
