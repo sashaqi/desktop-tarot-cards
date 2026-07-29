@@ -150,16 +150,16 @@ body {
 
 /* ---------- Deck screen ---------- */
 
+/* Warm wood tabletop: light enough that the deep-blue card backs pop. */
 .deck-screen {
   padding-bottom: 16px;
   border-radius: 20px;
   border: 4px solid #1a1414;
   background:
-    radial-gradient(ellipse at 50% 0%, rgba(255, 255, 255, 0.1), transparent 60%),
-    repeating-linear-gradient(45deg, rgba(0, 0, 0, 0.06) 0, rgba(0, 0, 0, 0.06) 2px, transparent 2px, transparent 8px),
-    repeating-linear-gradient(-45deg, rgba(255, 255, 255, 0.05) 0, rgba(255, 255, 255, 0.05) 2px, transparent 2px, transparent 8px),
-    linear-gradient(180deg, #2f6b4f, #1f4d38);
-  box-shadow: inset 0 0 50px rgba(0, 0, 0, 0.35);
+    repeating-linear-gradient(90deg, rgba(70, 35, 10, 0.16) 0, rgba(70, 35, 10, 0.16) 3px, transparent 3px, transparent 27px),
+    repeating-linear-gradient(90deg, rgba(255, 240, 210, 0.09) 0, rgba(255, 240, 210, 0.09) 1px, transparent 1px, transparent 11px),
+    linear-gradient(180deg, #cb8c4d, #9c5f2c);
+  box-shadow: inset 0 0 46px rgba(60, 28, 8, 0.42);
 }
 
 .deck-header {
@@ -168,6 +168,17 @@ body {
   align-items: center;
   gap: 6px;
   margin-bottom: 4px;
+}
+
+/* Yellow washes out on the light wood — cream reads far better there. */
+.deck-screen .comic-title--small {
+  color: #fff6e2;
+  text-shadow:
+    -1.5px -1.5px 0 #1a1414,
+    1.5px -1.5px 0 #1a1414,
+    -1.5px 1.5px 0 #1a1414,
+    1.5px 1.5px 0 #1a1414,
+    0 3px 0 #6d3b16;
 }
 
 .pick-progress {
@@ -224,12 +235,18 @@ body {
   opacity: 0.35;
 }
 
+/* Picked cards lift off the table — the glow alone is too subtle on wood. */
 .fan-card--picked {
   opacity: 1 !important;
+  transform: translateY(-9px) rotate(0deg) !important;
+  z-index: 3;
 }
 
 .fan-card--picked svg {
-  filter: drop-shadow(0 0 0 transparent) drop-shadow(0 0 6px #f5b700);
+  filter:
+    drop-shadow(0 0 3px #fff6e2)
+    drop-shadow(0 0 9px #f5b700)
+    drop-shadow(2px 6px 4px rgba(60, 28, 8, 0.55));
 }
 
 .fan-card__badge {
