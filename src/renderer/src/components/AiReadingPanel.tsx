@@ -2,6 +2,11 @@ import { useEffect, useState } from 'react'
 import { DrawnCard } from '../types/reading'
 import { CategoryDefinition } from '../types/spread'
 import { useLanguage } from '../context/LanguageContext'
+import { analyseSpread } from '../utils/spreadAnalysis'
+import { Localized } from '../types/card'
+import positionLens from '../data/positionLens.json'
+
+const lenses = positionLens as Record<string, Localized<string>>
 
 interface AiReadingPanelProps {
   category: CategoryDefinition
@@ -44,13 +49,21 @@ export function AiReadingPanel({
       language,
       question: question || (language === 'zh' ? category.nameLocalized : category.name),
       categoryName: language === 'zh' ? category.nameLocalized : category.name,
+      signals: analyseSpread(draws),
       cards: draws.map((d) => ({
         position: language === 'zh' ? d.position.labelLocalized : d.position.label,
         positionDescription: d.position.description[language],
+        positionLens: lenses[d.position.id]?.[language] ?? '',
         name: d.card.name,
+        arcana: d.card.arcana,
+        suit: d.card.suit,
+        element: d.card.element,
+        number: d.card.number,
         orientation: d.orientation,
         keywords: d.card.keywords[d.orientation][language],
-        localMeaning: d.card.meaning[d.orientation][language]
+        localMeaning: d.card.meaning[d.orientation][language],
+        symbolism: d.card.symbolism[language],
+        watchFor: d.card.watchFor[d.orientation][language]
       }))
     })
 

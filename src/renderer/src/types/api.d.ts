@@ -1,10 +1,17 @@
 export interface AiReadingCard {
   position: string
   positionDescription: string
+  positionLens: string
   name: string
+  arcana: 'major' | 'minor'
+  suit?: string
+  element?: string
+  number: number
   orientation: 'upright' | 'reversed'
   keywords: string[]
   localMeaning: string
+  symbolism: string
+  watchFor: string
 }
 
 export interface AiReadingRequest {
@@ -12,6 +19,13 @@ export interface AiReadingRequest {
   question: string
   categoryName: string
   cards: AiReadingCard[]
+  signals: {
+    majorCount: number
+    reversedCount: number
+    dominantSuit: string | null
+    dominantElement: string | null
+    repeatedNumbers: number[]
+  }
 }
 
 declare global {
