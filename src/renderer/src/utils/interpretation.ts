@@ -2,6 +2,7 @@ import { DrawnCard } from '../types/reading'
 import { CategoryId } from '../types/spread'
 import { Language } from '../types/card'
 import { routeQuestion, RoutedTone } from './questionRouter'
+import { analyseSpread, describeSignals } from './spreadAnalysis'
 
 const openers: Record<RoutedTone, Record<Language, string>> = {
   love: { zh: '关于这段感情，三张牌是这样说的：', en: "Here's what the three cards say about this relationship:" },
@@ -71,6 +72,10 @@ const closers: Record<RoutedTone, Record<Tone, Record<Language, string>>> = {
   }
 }
 
+/**
+ * Builds the summary the way a reader works: the shape of the whole spread
+ * first, then the cards in their positions, then where to put your attention.
+ */
 export function buildSummary(
   categoryId: CategoryId,
   draws: DrawnCard[],
@@ -83,6 +88,9 @@ export function buildSummary(
 
   const orientationLabel = { zh: { upright: '正位', reversed: '逆位' }, en: { upright: 'upright', reversed: 'reversed' } }
 
+  const signals = analyseSpread(draws)
+  const overview = describeSignals(signals, draws.length, lang)
+
   const lines = draws.map((d) => {
     const kw = d.card.keywords[d.orientation][lang][0]
     const posLabel = lang === 'zh' ? d.position.labelLocalized : d.position.label
@@ -93,8 +101,10 @@ export function buildSummary(
       : `"${posLabel}" is the ${cardName} (${orientation}), pointing to ${kw}.`
   })
 
-  const reversedCount = draws.filter((d) => d.orientation === 'reversed').length
-  const mood: Tone = reversedCount >= 2 ? 'mostlyReversed' : reversedCount === 0 ? 'mostlyUpright' : 'mixed'
+  const mood: Tone =
+    signals.reversedCount >= 2 ? 'mostlyReversed' : signals.reversedCount === 0 ? 'mostlyUpright' : 'mixed'
 
-  return [openers[tone][lang], ...lines, closers[tone][mood][lang]].join(' ')
+  return [overview, openers[tone][lang], ...lines, closers[tone][mood][lang]]
+    .filter(Boolean)
+    .join(' ')
 }

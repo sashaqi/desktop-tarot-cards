@@ -1,0 +1,54 @@
+{
+  "self": {
+    "zh": "放在「我」这个位置，它描述的是你自己带进这段关系里的状态，而不是对方造成的。",
+    "en": "In the Self position, this describes what you are bringing into the situation rather than what was done to you."
+  },
+  "other": {
+    "zh": "放在「对方」这个位置，它描述的是对方的处境和动机——未必是对方对你的态度。",
+    "en": "In the Other position, this describes their situation and motives — which is not the same as their feelings toward you."
+  },
+  "relationship": {
+    "zh": "放在「关系」这个位置，它描述的是你们之间那个共同体本身，不属于任何一方。",
+    "en": "In the Relationship position, this describes the thing the two of you make together — which belongs to neither of you alone."
+  },
+  "situation": {
+    "zh": "放在「现状」这个位置，它描述的是事情此刻实际的样子，不含判断。",
+    "en": "In the Situation position, this describes how things actually stand right now, without a verdict attached."
+  },
+  "challenge": {
+    "zh": "放在「挑战」这个位置，它指出的是需要被正视的那个阻力——即使这张牌本身是正面的。",
+    "en": "In the Challenge position, this names the resistance that has to be faced — even when the card itself reads positively."
+  },
+  "advice": {
+    "zh": "放在「建议」这个位置，它要被当作行动方向来读：这张牌在描述你可以采取的姿态。",
+    "en": "In the Advice position, read this as a direction to move in: it describes a stance available to you."
+  },
+  "current": {
+    "zh": "放在「现状」这个位置，它描述的是当前的实际条件，包括你手上已经有的资源。",
+    "en": "In the Current position, this describes the actual conditions you're working with, including what you already have."
+  },
+  "opportunity": {
+    "zh": "放在「机遇」这个位置，它指向的是尚未被充分利用的那一面，而不是已经发生的事。",
+    "en": "In the Opportunity position, this points at what hasn't been used yet rather than at what has already happened."
+  },
+  "past": {
+    "zh": "放在「过去」这个位置，它描述的是已经完成、但仍在影响现在的东西。",
+    "en": "In the Past position, this describes something already finished that is still shaping the present."
+  },
+  "present": {
+    "zh": "放在「现在」这个位置，它描述的是此刻正在起作用的力量，还没有定型。",
+    "en": "In the Present position, this describes the force currently at work — still in motion, not yet settled."
+  },
+  "future": {
+    "zh": "放在「未来」这个位置，它描述的是照当前趋势会走向的方向，不是注定的结局。",
+    "en": "In the Future position, this describes where the current trajectory leads — a direction, not a verdict."
+  },
+  "influence": {
+    "zh": "放在「影响」这个位置，它指出的是推动或阻碍这件事的力量，可能来自外部，也可能来自你自己。",
+    "en": "In the Influence position, this names what is pushing this along or holding it back — which may be external or may be you."
+  },
+  "guidance": {
+    "zh": "放在「指引」这个位置，它要被当作可执行的方向来读，而不是预测。",
+    "en": "In the Guidance position, read this as something actionable rather than as a prediction."
+  }
+}
