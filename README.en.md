@@ -2,7 +2,7 @@
 
 # 🔮 Desktop Tarot · 桌面塔罗
 
-**Read your own cards.** A comic-styled desktop tarot app — all 78 cards, fully offline, no account, no subscription.
+**Read your own cards.** A comic-styled desktop tarot app — all 78 cards, fully offline, instant readings, optional AI.
 
 *English · [简体中文](README.md)*
 
