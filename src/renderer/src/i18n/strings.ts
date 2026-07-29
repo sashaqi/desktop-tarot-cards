@@ -42,6 +42,8 @@ export const ui = {
   },
   apiKeySaved: { zh: '已保存', en: 'Saved' },
   storedAt: { zh: '保存位置', en: 'Stored at' },
+  symbolism: { zh: '牌面象征', en: 'In the image' },
+  watchFor: { zh: '需要留意', en: 'Watch for' },
   save: { zh: '保存', en: 'Save' },
   clear: { zh: '清除', en: 'Clear' },
   close: { zh: '关闭', en: 'Close' }

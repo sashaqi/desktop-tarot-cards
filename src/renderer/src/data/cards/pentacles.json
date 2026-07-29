@@ -1,0 +1,618 @@
+[
+  {
+    "id": "p01",
+    "number": 1,
+    "name": "Ace of Pentacles",
+    "nameLocalized": "星币首牌",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "element": "earth",
+    "keywords": {
+      "upright": {
+        "zh": ["具体的机会", "务实的开端", "资源到位", "可以落地"],
+        "en": ["a concrete opportunity", "a practical start", "resources in hand", "it can be built"]
+      },
+      "reversed": {
+        "zh": ["机会错过", "根基不牢", "只停在计划", "时机未熟"],
+        "en": ["a missed opening", "shaky foundation", "still only a plan", "not ripe yet"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "云中伸出的手托着一枚金币，下方是围墙花园和通往远山的拱门——土元素最实在的形态。这里给的不是灵感也不是感受，而是一件能拿在手上的东西：一笔钱、一个机会、一份工作。它不炫目，但它是真的。",
+        "en": "A hand from the clouds holds out a single coin above a walled garden with an arch opening onto distant hills — earth at its most literal. What's offered here isn't inspiration or feeling but something you can hold: money, an opening, a job. It isn't dazzling. It is real."
+      },
+      "reversed": {
+        "zh": "东西没接住。可能是机会来了但条件不合适，也可能是计划一直停在纸上没有动工。土元素逆位很少是资源不够，更多是没有真的开始。",
+        "en": "It didn't get picked up. The opportunity may have come with the wrong conditions, or the plan may still be entirely on paper. Reversed earth is rarely about insufficient resources — more often nothing has actually been started."
+      }
+    },
+    "symbolism": {
+      "zh": "花园是修整过的，拱门之外是野山——眼前这份稳妥是有边界的，真正的路在围墙之外。",
+      "en": "The garden is tended and beyond the arch the hills are wild — the security in view has an edge to it, and the road out runs past the wall."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "具体的机会需要具体的第一步。今天就能做的那件小事是什么？",
+        "en": "A concrete opportunity needs a concrete first step. What is the small thing you could do today?"
+      },
+      "reversed": {
+        "zh": "如果一件事你已经计划了三个月还没开始，问题不在计划上。",
+        "en": "If you've been planning something for three months without starting, the problem isn't the plan."
+      }
+    },
+    "image": "p01.jpg"
+  },
+  {
+    "id": "p02",
+    "number": 2,
+    "name": "Two of Pentacles",
+    "nameLocalized": "星币二",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "element": "earth",
+    "keywords": {
+      "upright": {
+        "zh": ["兼顾", "灵活调度", "动态平衡", "一心多用"],
+        "en": ["juggling", "flexible allocation", "balance in motion", "several things at once"]
+      },
+      "reversed": {
+        "zh": ["顾此失彼", "过载", "节奏失衡", "该放下一个"],
+        "en": ["dropping one", "overloaded", "rhythm lost", "time to put one down"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "他一边跳舞一边抛接两枚金币，身后海上的船在浪里起伏——二的张力在土元素里是资源和时间的调度。他做得到，但注意他是在动的：这种平衡靠的是持续调整，不是站着不动。",
+        "en": "He dances while tossing two coins, ships heaving on the waves behind him — the Two's tension, in earth, is the allocation of time and money. He can do it, and note that he is moving: this balance is maintained by constant adjustment, not by standing still."
+      },
+      "reversed": {
+        "zh": "接不住了。可能是同时开的事情超出了容量，也可能是节奏被打乱后再没调回来。逆位的二通常不需要更强的能力，需要的是减少一件事。",
+        "en": "One has dropped. Either more got started than there is capacity for, or the rhythm broke and never came back. The reversed Two rarely calls for more skill — it calls for one fewer commitment."
+      }
+    },
+    "symbolism": {
+      "zh": "两枚金币被一条无限符号形状的带子连起来——它们不是两件事，而是同一件事的两端，此消彼长。",
+      "en": "A looping band in the shape of an infinity sign connects the two coins — they aren't two separate things but two ends of one, each rising as the other falls."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "能同时转起来不代表可以一直转。给自己排一个休息的位置。",
+        "en": "Being able to keep them up doesn't mean indefinitely. Schedule the pause in."
+      },
+      "reversed": {
+        "zh": "在提高效率之前，先看看有没有哪件事其实可以不做。",
+        "en": "Before optimising, check whether one of these could simply not happen."
+      }
+    },
+    "image": "p02.jpg"
+  },
+  {
+    "id": "p03",
+    "number": 3,
+    "name": "Three of Pentacles",
+    "nameLocalized": "星币三",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "element": "earth",
+    "keywords": {
+      "upright": {
+        "zh": ["协作", "技艺被认可", "各司其职", "打好基础"],
+        "en": ["collaboration", "craft recognised", "each to their part", "laying the base"]
+      },
+      "reversed": {
+        "zh": ["配合不良", "标准不一", "单打独斗", "返工"],
+        "en": ["poor coordination", "different standards", "going it alone", "rework"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "石匠站在长凳上，修士和设计者拿着图纸和他讨论——三在土元素里是第一批实际成果，而且这成果是合作出来的。这张牌的核心是「技艺被当回事」：出钱的、画图的和动手的坐在了同一个场景里。",
+        "en": "A mason stands on a bench while a cleric and a designer consult him over the plans — Three in earth is the first real output, and it is a collaborative one. The heart of this card is craft being taken seriously: the person paying, the person designing and the person building are in the same conversation."
+      },
+      "reversed": {
+        "zh": "配合出了问题。可能是各方对「做好了」的定义不同，也可能是有人被排除在讨论之外、事后才被要求返工。逆位的三很少是能力问题，多半是没对齐。",
+        "en": "The collaboration is failing. The parties may hold different definitions of 'done', or someone may have been left out of the conversation and asked to redo the work afterwards. The reversed Three is seldom a competence problem; it's an alignment one."
+      }
+    },
+    "symbolism": {
+      "zh": "他站在凳子上，比另外两人都高——动手的人此刻在最高处。这是这张牌给工匠的敬意。",
+      "en": "The mason stands on the bench, higher than the other two — the person doing the work is, in this moment, above the others. That is the card's respect for craft."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "趁大家还在同一个房间里，把标准说清楚。",
+        "en": "While everyone is still in the room, get the standard stated out loud."
+      },
+      "reversed": {
+        "zh": "返工之前先确认是谁的期待没被说出来。",
+        "en": "Before redoing it, find out whose expectation went unspoken."
+      }
+    },
+    "image": "p03.jpg"
+  },
+  {
+    "id": "p04",
+    "number": 4,
+    "name": "Four of Pentacles",
+    "nameLocalized": "星币四",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "element": "earth",
+    "keywords": {
+      "upright": {
+        "zh": ["守成", "抓得很紧", "安全感", "储备"],
+        "en": ["holding on", "a tight grip", "security", "reserves"]
+      },
+      "reversed": {
+        "zh": ["松手", "过度节俭", "愿意给出", "失去掌控"],
+        "en": ["loosening", "excessive thrift", "willing to give", "losing the grip"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "他抱紧一枚金币，头顶顶着一枚，双脚各踩一枚，身后是城市——四在土元素里是稳定，但这里的稳定靠的是握住不放。他确实安全了，代价是这个姿势既不能拥抱别人，也不能拿起新的东西。",
+        "en": "He clutches one coin, balances another on his head and stands on two more, the city behind him — Four in earth is stability, and here the stability comes from not letting go. He is genuinely secure. The cost is that in this posture he can neither embrace anyone nor pick anything new up."
+      },
+      "reversed": {
+        "zh": "手开始松了。可能是终于愿意花、愿意给，也可能是抓得太紧反而失去。逆位的四两个方向都常见，区别在于是主动松手还是被掰开。",
+        "en": "The grip is loosening. Either there's finally a willingness to spend or to give, or the holding was so tight it caused the loss. Both readings are common; the difference is whether the hand opened or was prised."
+      }
+    },
+    "symbolism": {
+      "zh": "他背对城市而坐——为了守住手里的，他把自己挪到了人群外面。",
+      "en": "He sits with his back to the city — keeping hold of what he has has moved him to the outside of it."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "安全感有它的价格。算一算这份紧张让你错过了什么。",
+        "en": "Security has a price. Total up what the tension has cost you in missed things."
+      },
+      "reversed": {
+        "zh": "慷慨和失控不是一回事。给出去之前先看清自己的底线。",
+        "en": "Generosity and losing control aren't the same. Know your floor before you give."
+      }
+    },
+    "image": "p04.jpg"
+  },
+  {
+    "id": "p05",
+    "number": 5,
+    "name": "Five of Pentacles",
+    "nameLocalized": "星币五",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "element": "earth",
+    "keywords": {
+      "upright": {
+        "zh": ["匮乏", "被排除在外", "困难时期", "求助无门的感觉"],
+        "en": ["scarcity", "shut out", "a hard season", "feeling there's nowhere to ask"]
+      },
+      "reversed": {
+        "zh": ["境况好转", "找到援助", "走进门里", "熬过来了"],
+        "en": ["conditions easing", "help found", "coming inside", "the worst passed"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "两个人在雪夜里经过一扇亮着彩窗的教堂，一个拄拐、一个赤脚，谁都没有抬头——五打破四的稳固，土元素让这种打破表现为实实在在的匮乏。而这张牌最要紧的细节是：窗就在他们身边，只是他们没看。",
+        "en": "Two figures pass beneath a lit stained-glass window in the snow, one on crutches and one barefoot, neither looking up — Five breaks the Four's solidity, and in earth the break is material want. The detail that matters most: the window is right beside them and neither has looked."
+      },
+      "reversed": {
+        "zh": "开始回暖。可能是终于开口求助，也可能是熬过了最冷的一段。逆位的五常提醒：门一直开着，难的从来不是有没有门，而是承认自己需要进去。",
+        "en": "It is warming. Either you finally asked, or the coldest stretch has passed. Reversed, the Five points out that the door was open the whole time — the hard part was never the door but admitting you needed to go in."
+      }
+    },
+    "symbolism": {
+      "zh": "彩窗上有五枚金币的图案——他们需要的东西，正亮在头顶。",
+      "en": "The window is patterned with five coins — the thing they need is lit up directly above their heads."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "困难时期最容易做的事是不告诉任何人。这通常也是最贵的选择。",
+        "en": "The easiest thing in a hard season is to tell no one. It is also usually the most expensive."
+      },
+      "reversed": {
+        "zh": "接受帮助之后，别急着为它做等价交换。",
+        "en": "Once you've accepted help, resist rushing to square the ledger."
+      }
+    },
+    "image": "p05.jpg"
+  },
+  {
+    "id": "p06",
+    "number": 6,
+    "name": "Six of Pentacles",
+    "nameLocalized": "星币六",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "element": "earth",
+    "keywords": {
+      "upright": {
+        "zh": ["给予与接受", "公平分配", "慷慨", "有来有往"],
+        "en": ["giving and receiving", "fair distribution", "generosity", "reciprocity"]
+      },
+      "reversed": {
+        "zh": ["附带条件的给予", "施与受不平等", "债务关系", "施舍感"],
+        "en": ["strings attached", "an unequal exchange", "indebtedness", "charity that stings"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "商人一手持天平、一手向跪着的人分发钱币——六是五的匮乏之后重新达成的平衡。这张牌讲的是资源开始流动，但它同时提出一个问题：天平握在谁手里？给予是好事，前提是双方都清楚这份关系的结构。",
+        "en": "A merchant holds scales in one hand and distributes coins with the other to two kneeling figures — Six is the balance restored after the Five's want. Resources are flowing again, and the card poses a question alongside that: who is holding the scales? Giving is good, provided both sides understand the shape of the arrangement."
+      },
+      "reversed": {
+        "zh": "流动出了问题。可能是给予附带了没说出口的条件，也可能是一方长期只在接受、渐渐失去了立场。逆位的六值得问：这段关系里，谁欠着谁？",
+        "en": "The flow has gone wrong. The giving may carry unspoken conditions, or one side may have been receiving long enough to lose standing. The reversed Six asks plainly who is in whose debt here."
+      }
+    },
+    "symbolism": {
+      "zh": "两个接受者跪着而商人站着——高度差就是这张牌没说出口的部分。",
+      "en": "The recipients kneel while the merchant stands — the difference in height is the part of this card that goes unsaid."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "给予的时候顺便想想：如果对方永远还不了，你还会给吗？",
+        "en": "While giving, ask yourself whether you'd still give if it were never returned."
+      },
+      "reversed": {
+        "zh": "如果一份帮助让你不敢说真话，那它的价格比看上去高。",
+        "en": "If accepting the help has made you unable to speak honestly, it cost more than it appeared to."
+      }
+    },
+    "image": "p06.jpg"
+  },
+  {
+    "id": "p07",
+    "number": 7,
+    "name": "Seven of Pentacles",
+    "nameLocalized": "星币七",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "element": "earth",
+    "keywords": {
+      "upright": {
+        "zh": ["耐心等待", "评估投入", "长线经营", "还没到收成"],
+        "en": ["patience", "assessing the investment", "playing long", "not harvest time yet"]
+      },
+      "reversed": {
+        "zh": ["失去耐心", "投入打水漂", "该止损了", "回报不成正比"],
+        "en": ["patience running out", "sunk effort", "time to cut losses", "returns not matching input"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "他拄着锄头，看着藤上结出的七枚金币——七是评估的位置，土元素让评估的对象变成了「我投进去的东西长得怎么样」。作物在长，只是还不能摘。这张牌最难的部分不是干活，是等。",
+        "en": "He leans on his hoe and looks at seven coins growing on the vine — Seven is assessment, and in earth what's being assessed is how the thing you put in is coming along. It's growing; it just can't be picked yet. The hard part of this card isn't the labour, it's the waiting."
+      },
+      "reversed": {
+        "zh": "等不下去了。可能是确实该止损——投入很久但长势明显不对，也可能只是还没到时候而你先失去了耐心。逆位的七值得分清这两者，它们的答案完全相反。",
+        "en": "The waiting has run out. It may genuinely be time to cut — long input with visibly wrong growth — or it may simply not be time yet and your patience went first. The reversed Seven is worth separating: the two situations have opposite answers."
+      }
+    },
+    "symbolism": {
+      "zh": "他的姿势是停下来的，不是弯腰劳作的——这个阶段的正确动作确实是站着看，而不是继续挖。",
+      "en": "His posture is paused rather than bent to work — at this stage standing and looking really is the correct action, not more digging."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "定一个复查的时间点，而不是每天都去看它长了没有。",
+        "en": "Set a date to review it, rather than checking daily whether it has grown."
+      },
+      "reversed": {
+        "zh": "已经投进去的收不回来了。只用「从今天起」的角度算这笔账。",
+        "en": "What's already in is not recoverable. Do the maths only from today forward."
+      }
+    },
+    "image": "p07.jpg"
+  },
+  {
+    "id": "p08",
+    "number": 8,
+    "name": "Eight of Pentacles",
+    "nameLocalized": "星币八",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "element": "earth",
+    "keywords": {
+      "upright": {
+        "zh": ["专注打磨", "重复中精进", "扎实的努力", "学手艺"],
+        "en": ["focused practice", "getting better by repetition", "solid work", "learning the craft"]
+      },
+      "reversed": {
+        "zh": ["机械重复", "钻牛角尖", "失去意义感", "赶工"],
+        "en": ["going through the motions", "perfectionist spiral", "losing the point", "rushing it"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "工匠低头敲打第八枚金币，已完成的六枚整齐挂在身边，一枚放在脚下——八是推进，土元素让推进表现为重复。这张牌不谈天赋，只谈把同一件事做很多遍之后自然发生的变化。它枯燥，也可靠。",
+        "en": "A craftsman bends over the eighth coin, six finished ones mounted neatly beside him and one at his feet — Eight is momentum, and in earth momentum looks like repetition. This card has nothing to say about talent. It's about what happens on its own after you've done the same thing many times. It is dull, and it works."
+      },
+      "reversed": {
+        "zh": "重复失去了方向。可能是磨得太细、忘了要做什么，也可能是赶工牺牲了质量。逆位的八提醒：勤奋本身不是目的，它需要一个够好的目标才值得。",
+        "en": "The repetition has lost its aim. Either the polishing has become so fine the purpose is out of view, or the pace has started costing quality. Reversed, the Eight notes that diligence isn't its own justification — it needs a target worth the hours."
+      }
+    },
+    "symbolism": {
+      "zh": "远处有一座城，而他背对着它——这个阶段需要暂时不看别人在干什么。",
+      "en": "A town sits in the distance with his back to it — this stage requires not watching what everyone else is doing for a while."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "记录你的进步，否则重复会让你以为自己在原地。",
+        "en": "Keep a record of the progress, or the repetition will convince you there isn't any."
+      },
+      "reversed": {
+        "zh": "问一句：这件事再打磨一遍，真的会更好吗？",
+        "en": "Ask whether one more pass genuinely makes it better."
+      }
+    },
+    "image": "p08.jpg"
+  },
+  {
+    "id": "p09",
+    "number": 9,
+    "name": "Nine of Pentacles",
+    "nameLocalized": "星币九",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "element": "earth",
+    "keywords": {
+      "upright": {
+        "zh": ["自给自足", "独立", "享受成果", "有品质的独处"],
+        "en": ["self-sufficiency", "independence", "enjoying what you built", "solitude with quality"]
+      },
+      "reversed": {
+        "zh": ["依赖", "过度工作", "享受不了", "表面体面"],
+        "en": ["dependence", "overwork", "unable to enjoy it", "appearance over substance"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "她独自站在结满葡萄的园中，手上停着一只戴罩的猎鹰——九是接近完成，土元素在这里给的是「靠自己挣来的从容」。这份富足的关键词不是多，而是独立：这些是她自己的，不需要向谁解释。",
+        "en": "She stands alone in a vineyard heavy with grapes, a hooded falcon on her glove — Nine is near-completion, and in earth it delivers ease that was earned. The keyword of this abundance isn't quantity but independence: this is hers, and it needs explaining to no one."
+      },
+      "reversed": {
+        "zh": "自给自足出了裂缝。可能是表面体面但内里靠外力撑着，也可能是拥有了却一刻没享受过。逆位的九常提醒：把自己逼得太紧的人，往往最不允许自己停下来看看已经有的东西。",
+        "en": "A crack in the self-sufficiency. It may look composed while being propped from outside, or it may all be there without a single hour of enjoying it. Reversed, the Nine notes that people who drive themselves hardest are the least likely to let themselves stop and look at what they already have."
+      }
+    },
+    "symbolism": {
+      "zh": "猎鹰戴着眼罩停在她手上——她驯服了自己那些野的部分，但没有杀掉它们。",
+      "en": "The falcon sits hooded on her hand — she has trained her wilder parts rather than killed them."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "独立久了容易忘记怎么求助。这不是缺点，只是需要留意。",
+        "en": "Long independence makes asking hard to remember. That's not a flaw — just something to watch."
+      },
+      "reversed": {
+        "zh": "把已经拥有的列出来，你可能会发现问题不在还不够。",
+        "en": "List what you already have. The problem may turn out not to be that it isn't enough."
+      }
+    },
+    "image": "p09.jpg"
+  },
+  {
+    "id": "p10",
+    "number": 10,
+    "name": "Ten of Pentacles",
+    "nameLocalized": "星币十",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "element": "earth",
+    "keywords": {
+      "upright": {
+        "zh": ["长久的稳固", "家业", "传承", "系统建成"],
+        "en": ["lasting security", "an estate", "legacy", "the system is built"]
+      },
+      "reversed": {
+        "zh": ["家庭财务纠纷", "守成的压力", "结构僵化", "价值观冲突"],
+        "en": ["money friction in the family", "the weight of upkeep", "a rigid structure", "clashing values"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "老人坐在拱门下，一家三代与狗都在画面里，十枚金币铺满整幅牌——十是这个花色的终点：不再是个人的成就，而是能传下去的结构。这张牌的丰盛是有时间厚度的，它包含了别人的付出，也将超出你自己。",
+        "en": "An old man sits under the archway with three generations and the dogs in frame, ten coins filling the whole card — Ten completes the suit: no longer personal achievement but a structure that can be handed on. This abundance has depth in time. It contains other people's work, and it will outlast yours."
+      },
+      "reversed": {
+        "zh": "结构出了问题。可能是钱和家庭搅在一起产生了摩擦，也可能是维持这套体系的压力盖过了它带来的好处。逆位的十值得问：这份稳固，是谁在承担成本？",
+        "en": "The structure is straining. Money and family may have tangled into friction, or the effort of maintaining the system may have overtaken what it provides. The reversed Ten asks who is carrying the cost of this security."
+      }
+    },
+    "symbolism": {
+      "zh": "只有老人和狗注意到彼此，年轻的一对没看他——传承常常是在被继承者还没意识到的时候发生的。",
+      "en": "Only the old man and the dogs notice each other; the young couple aren't looking at him. Inheritance usually happens before the inheritors have registered it."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "建立系统的人容易变成系统的一部分。留意你还是不是自由的。",
+        "en": "People who build systems tend to become part of them. Check that you're still free to leave."
+      },
+      "reversed": {
+        "zh": "把钱的事和感情的事分开谈，两件事混在一起谁都说不清。",
+        "en": "Hold the money conversation separately from the relationship one; together, neither gets resolved."
+      }
+    },
+    "image": "p10.jpg"
+  },
+  {
+    "id": "p11",
+    "number": 11,
+    "name": "Page of Pentacles",
+    "nameLocalized": "星币侍从",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "element": "earth",
+    "keywords": {
+      "upright": {
+        "zh": ["专注学习", "务实的好奇", "新的技能", "认真起步"],
+        "en": ["studying", "practical curiosity", "a new skill", "starting in earnest"]
+      },
+      "reversed": {
+        "zh": ["三心二意", "光说不练", "进展缓慢", "眼高手低"],
+        "en": ["divided attention", "all talk", "slow progress", "ambition beyond practice"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "少年双手捧着一枚金币，专注地端详它，脚下是刚翻过的田地——侍从是土元素最年轻的形态：慢、认真、愿意从头学。他还没有产出，但他的注意力是完整地放在一件事上的，这在四位侍从里最难得。",
+        "en": "A youth holds a coin in both hands and studies it, freshly turned soil at his feet — the Page is earth at its youngest: slow, serious, willing to learn from the beginning. He has produced nothing yet, and his attention is wholly on one thing, which is the rarest quality among the four pages."
+      },
+      "reversed": {
+        "zh": "专注散掉了。可能是同时想学太多样，也可能是停在「了解」阶段迟迟不动手。逆位的侍从常提醒：读十本书不如做完一件小事。",
+        "en": "The focus has scattered. Either too many things are being learned at once, or it has stalled at reading about it. Reversed, the Page notes that ten books read is worth less than one small thing finished."
+      }
+    },
+    "symbolism": {
+      "zh": "田已经翻好但还没播种——准备工作做得很足，接下来需要的是真的把种子放下去。",
+      "en": "The field is ploughed and not yet sown — the preparation has been thorough; what remains is actually putting the seed in."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "学到的东西找个地方用一次，它才真的属于你。",
+        "en": "Use what you've learned once, somewhere real — that's when it becomes yours."
+      },
+      "reversed": {
+        "zh": "选一件事做到能拿得出手，再开始下一件。",
+        "en": "Take one thing to the point where you could show it, then start the next."
+      }
+    },
+    "image": "p11.jpg"
+  },
+  {
+    "id": "p12",
+    "number": 12,
+    "name": "Knight of Pentacles",
+    "nameLocalized": "星币骑士",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "element": "earth",
+    "keywords": {
+      "upright": {
+        "zh": ["可靠", "按部就班", "有始有终", "慢而稳"],
+        "en": ["dependable", "methodical", "finishes what he starts", "slow and steady"]
+      },
+      "reversed": {
+        "zh": ["停滞", "过于保守", "固执", "拖沓"],
+        "en": ["stalled", "overly cautious", "stubborn", "dragging"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "四位骑士里只有他的马站着不动——这不是懈怠，是土元素的行动方式：先看清地形再走，走了就一定到。他捧着金币望向前方的耕地。这张牌讲的是那种不激动人心但从不掉链子的可靠。",
+        "en": "His is the only horse standing still among the four knights — not sloth but how earth moves: read the ground first, then go, and arrive. He holds his coin and looks out over ploughed fields. This card is the unexciting reliability that never drops anything."
+      },
+      "reversed": {
+        "zh": "稳变成了不动。可能是过于谨慎错过了窗口，也可能是认准一个方法之后再听不进别的。逆位的骑士值得问：现在的慢，是审慎还是拖延？",
+        "en": "Steady has become stationary. Excessive caution may have cost a window, or one method may have hardened past hearing alternatives. The reversed Knight asks whether the slowness is prudence or delay."
+      }
+    },
+    "symbolism": {
+      "zh": "他的马是四匹里最壮实、也最不起眼的一匹——这张牌的力量从来不在气势上。",
+      "en": "His horse is the heaviest and least striking of the four — this card's strength was never in the presentation."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "可靠的人容易被派最多的活。留意工作量是不是悄悄涨上去了。",
+        "en": "Dependable people quietly get assigned the most. Check whether the load has crept up."
+      },
+      "reversed": {
+        "zh": "给自己定一个「即使没准备好也要开始」的日期。",
+        "en": "Set a date to begin whether or not you feel ready."
+      }
+    },
+    "image": "p12.jpg"
+  },
+  {
+    "id": "p13",
+    "number": 13,
+    "name": "Queen of Pentacles",
+    "nameLocalized": "星币皇后",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "element": "earth",
+    "keywords": {
+      "upright": {
+        "zh": ["务实的照顾", "把日子过好", "资源管理", "脚踏实地的温暖"],
+        "en": ["practical care", "making daily life work", "stewardship", "grounded warmth"]
+      },
+      "reversed": {
+        "zh": ["照顾过度", "为琐事所困", "忽略自己", "以物质衡量关系"],
+        "en": ["over-caretaking", "buried in the details", "self-neglect", "measuring bonds in things"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "她坐在开满花的凉亭中，低头看着腿上的金币，一只兔子从草丛跳过——皇后是土元素成熟后向内的样子：她的能力体现在把周围的一切照料得井井有条。这不是宏大的成就，而是让人可以安心生活的那种本事。",
+        "en": "She sits in a flowering bower looking down at the coin in her lap, a rabbit crossing the grass beside her — the Queen is earth matured and turned inward: her capability shows in how well-tended everything around her is. Not a grand achievement, but the skill that makes it possible for people to live steadily."
+      },
+      "reversed": {
+        "zh": "照顾失了衡。可能是把所有人的事都揽了过来、自己的事一件没办，也可能是用「我为你付出了多少」来衡量关系。逆位的皇后常见的问题不是不够能干，是太能干了没人替她分担。",
+        "en": "The care has tipped. Everyone else's business may have been taken on while her own goes untouched, or the bond may be getting measured in what was provided. The reversed Queen's problem usually isn't insufficient capability — it's that she's capable enough that nobody steps in."
+      }
+    },
+    "symbolism": {
+      "zh": "兔子是丰饶多产的象征，也是唯一没被她管理的东西——花园里总得留一块地方是野的。",
+      "en": "The rabbit is a symbol of fertility and the one thing in the scene she isn't managing — a garden needs a corner left wild."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "把自己也列进要照顾的名单里。",
+        "en": "Put yourself on the list of people being looked after."
+      },
+      "reversed": {
+        "zh": "问一句：如果你不做，事情真的会塌吗？",
+        "en": "Ask honestly whether it would actually collapse if you didn't do it."
+      }
+    },
+    "image": "p13.jpg"
+  },
+  {
+    "id": "p14",
+    "number": 14,
+    "name": "King of Pentacles",
+    "nameLocalized": "星币国王",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "element": "earth",
+    "keywords": {
+      "upright": {
+        "zh": ["实力雄厚", "经营有方", "可靠的供养者", "把事做成"],
+        "en": ["solid means", "sound management", "a reliable provider", "gets it built"]
+      },
+      "reversed": {
+        "zh": ["以钱衡量一切", "固守成规", "过度控制", "被财富定义"],
+        "en": ["pricing everything", "set in his ways", "controlling", "defined by what he owns"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "国王坐在缀满葡萄藤的王座上，一手持权杖一手扶金币，脚边是城堡与丰饶的花园——土元素向外的完成形态。他的权威来自「他确实建成了东西」，不是靠头衔。这张牌讲的是把想法变成产业的那种能力。",
+        "en": "The King sits on a throne twined with grapevines, sceptre in one hand and coin steadied by the other, his castle and gardens behind him — earth completed and turned outward. His authority rests on having actually built the thing rather than on a title. This card is the capacity to convert an idea into an operating concern."
+      },
+      "reversed": {
+        "zh": "价值观窄了。可能是把所有事都换算成钱来判断，也可能是守着已经建成的东西不肯让它变。逆位的国王常见的不是失败，而是成功之后被自己建的东西困住。",
+        "en": "The frame has narrowed — everything converted into money to be judged, or what's built held so firmly it can't change. The reversed King usually hasn't failed; he has been enclosed by what his success built."
+      }
+    },
+    "symbolism": {
+      "zh": "他的袍子上绣满葡萄藤，人几乎和王座长在一起——他和他建立的东西已经难分彼此。",
+      "en": "Vines cover his robe until he and the throne have nearly grown together — he and what he built are no longer easy to separate."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "你能解决的问题越多，别人越不告诉你难处。主动去问。",
+        "en": "The more problems you can solve, the less people mention theirs. Go and ask."
+      },
+      "reversed": {
+        "zh": "算一算有哪些重要的事，是没法用数字衡量的。",
+        "en": "Take stock of what matters to you that no number can express."
+      }
+    },
+    "image": "p14.jpg"
+  }
+]

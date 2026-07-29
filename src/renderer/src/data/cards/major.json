@@ -1,0 +1,948 @@
+[
+  {
+    "id": "m00",
+    "number": 0,
+    "name": "The Fool",
+    "nameLocalized": "愚者",
+    "arcana": "major",
+    "element": "air",
+    "keywords": {
+      "upright": {
+        "zh": ["新的开始", "纵身一跃", "天真", "无所背负"],
+        "en": ["a beginning", "the leap", "innocence", "carrying nothing"]
+      },
+      "reversed": {
+        "zh": ["鲁莽", "不肯出发", "考虑不周", "错失时机"],
+        "en": ["recklessness", "refusing to go", "leaping blind", "the moment passing"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "编号为零的牌——他不在序列之内，因此可以从任何地方开始。他仰头望天、脚已经踏在悬崖边上，行囊很小，白狗在脚边叫。这张牌讲的不是准备好了，而是「还没准备好但依然要走」。愚者的力量恰恰来自他不知道前面有多难。",
+        "en": "The card numbered zero — outside the sequence, and therefore able to begin anywhere. He looks up at the sky with one foot already at the cliff edge, his bundle small, a white dog barking at his heel. This card isn't about being ready; it's about going while unready. The Fool's power comes precisely from not knowing how hard it gets."
+      },
+      "reversed": {
+        "zh": "跃与不跃都出了问题。可能是纵身之前该看一眼却没看，也可能是站在崖边站太久，把一次真正的机会站没了。逆位的愚者值得分清：你是在冲动，还是在用「再想想」拖延？",
+        "en": "Something has gone wrong at the edge — either the look before the leap never happened, or you've stood there long enough that a real opening has closed. The reversed Fool is worth separating: is this impulse, or is 'let me think about it' doing the work of avoidance?"
+      }
+    },
+    "symbolism": {
+      "zh": "他手里的白玫瑰是纯净而非无知；那只狗通常被读作本能的警告——注意他并没有回头看它。",
+      "en": "The white rose in his hand is purity rather than ignorance; the dog is usually read as instinct sounding a warning — note that he hasn't turned to look at it."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "轻装上路是优点，但至少确认一下你带的是不是必需品。",
+        "en": "Travelling light is a strength — check at least that what you did pack is what you'll need."
+      },
+      "reversed": {
+        "zh": "如果每次都是「时机不对」，那可能时机不是真正的原因。",
+        "en": "If it's always 'the timing is wrong', timing probably isn't the real reason."
+      }
+    },
+    "image": "m00.jpg"
+  },
+  {
+    "id": "m01",
+    "number": 1,
+    "name": "The Magician",
+    "nameLocalized": "魔术师",
+    "arcana": "major",
+    "element": "air",
+    "keywords": {
+      "upright": {
+        "zh": ["把想法变成现实", "资源齐备", "专注的意志", "行动力"],
+        "en": ["turning idea into thing", "everything to hand", "focused will", "capability"]
+      },
+      "reversed": {
+        "zh": ["空有想法", "才能被浪费", "操纵", "自我怀疑"],
+        "en": ["all idea no execution", "wasted capability", "manipulation", "doubting yourself"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "桌上摆着权杖、圣杯、宝剑、星币——四大元素齐全，也就是说他不缺任何工具。他一手指天一手指地，是「把上面的带到下面来」的姿势。这张牌讲的是转化的能力：想法本身没有价值，把它做出来才有。",
+        "en": "A wand, cup, sword and coin lie on his table — all four elements, which is to say he is missing no tool. One hand points up and the other down: the posture of bringing what's above into what's below. This card is about conversion. The idea itself isn't worth anything; making it exist is."
+      },
+      "reversed": {
+        "zh": "工具还在，转化没发生。可能是想法一直停留在想法阶段，也可能是能力被用在了说服别人而不是做成事情上。逆位的魔术师最需要问的是：你是在创造，还是在表演？",
+        "en": "The tools are still there and the conversion isn't happening. The idea may have stayed an idea, or the capability may be going into persuading people rather than building the thing. The question for the reversed Magician: are you creating, or performing?"
+      }
+    },
+    "symbolism": {
+      "zh": "他头顶悬着无限符号，腰间缠着衔尾蛇——能量是循环不尽的，但需要有人给它一个方向。",
+      "en": "An infinity sign floats above his head and an ouroboros circles his waist — the energy renews without end, and it still needs someone to give it a direction."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "工具齐全的时候最容易同时开太多。选一件先做完。",
+        "en": "Having every tool makes it easy to start too many things. Finish one."
+      },
+      "reversed": {
+        "zh": "把「我在准备」和「我在拖延」分开，通常只差一个具体动作。",
+        "en": "The line between preparing and stalling is usually one concrete action wide."
+      }
+    },
+    "image": "m01.jpg"
+  },
+  {
+    "id": "m02",
+    "number": 2,
+    "name": "The High Priestess",
+    "nameLocalized": "女祭司",
+    "arcana": "major",
+    "element": "water",
+    "keywords": {
+      "upright": {
+        "zh": ["直觉", "尚未说破的事", "内在的知晓", "静观"],
+        "en": ["intuition", "what hasn't been said", "inner knowing", "watching quietly"]
+      },
+      "reversed": {
+        "zh": ["忽视直觉", "秘密", "表里不一", "与自己失联"],
+        "en": ["ignoring the gut", "secrets", "surface not matching depth", "out of touch with yourself"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "她端坐在黑白双柱之间，膝上摊着半掩的卷轴，身后一整幅帷幕隔开了后面的水域——魔术师把东西做出来，她则守着还不能说出口的部分。这张牌不要求你行动，它要求你先安静下来，听听自己其实早就知道的东西。",
+        "en": "She sits between a black pillar and a white one, a partly hidden scroll in her lap, a full curtain behind her screening the water beyond — where the Magician makes things, she keeps what cannot yet be spoken. This card doesn't ask for action. It asks you to go quiet and listen to what you already know."
+      },
+      "reversed": {
+        "zh": "内外断了线。可能是明明有感觉却用道理把它压了下去，也可能是有些事被刻意隐瞒——包括你对自己隐瞒的那部分。逆位的女祭司常出现在「你其实早就有数」的时刻。",
+        "en": "The line inward has been cut. A clear feeling may have been argued down, or something is being kept from view — including whatever you're keeping from yourself. The reversed High Priestess tends to show up exactly when you already knew."
+      }
+    },
+    "symbolism": {
+      "zh": "帷幕上的石榴是冥后的果实，象征进入之后就无法完全退回；卷轴只露出一角，说明知识是分次给的。",
+      "en": "The pomegranates on the curtain are Persephone's fruit — once you enter you can't fully return; only a corner of the scroll shows, because this knowledge is given in instalments."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "直觉需要安静才听得见。这几天少安排一点事。",
+        "en": "Intuition needs quiet to be audible. Put fewer things in the next few days."
+      },
+      "reversed": {
+        "zh": "你最近一次「早知道就好了」，其实当时知道吗？",
+        "en": "The last time you thought 'I should have known' — did you, actually?"
+      }
+    },
+    "image": "m02.jpg"
+  },
+  {
+    "id": "m03",
+    "number": 3,
+    "name": "The Empress",
+    "nameLocalized": "皇后",
+    "arcana": "major",
+    "element": "earth",
+    "keywords": {
+      "upright": {
+        "zh": ["丰饶", "滋养", "创造力落地", "感官的享受"],
+        "en": ["abundance", "nurture", "creativity made physical", "sensual pleasure"]
+      },
+      "reversed": {
+        "zh": ["创造力受阻", "过度付出", "忽略自己", "停滞"],
+        "en": ["blocked creativity", "giving too much", "self-neglect", "stagnation"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "她半躺在结实的麦田与流水之间，衣袍宽松、姿态放松——女祭司守着看不见的，皇后则让东西真的长出来。这张牌的丰盛是身体性的：能吃能睡、有人可抱、做的东西有人用。它提醒你，创造不只是脑力活。",
+        "en": "She reclines among ripe wheat beside running water, robe loose, posture unhurried — where the High Priestess guards the unseen, the Empress makes things actually grow. This abundance is bodily: eating, sleeping, being held, making something people use. It's a reminder that creation isn't only mental work."
+      },
+      "reversed": {
+        "zh": "生长停住了。可能是创造力卡住，也可能是把所有养分都给了别人，自己这块地荒着。逆位的皇后最常见的处境是：照顾了所有人，唯独没照顾自己。",
+        "en": "Growth has stalled. Creativity may be blocked, or all the nourishment may be going outward while your own ground lies fallow. The most common reversed Empress situation: everyone tended to except you."
+      }
+    },
+    "symbolism": {
+      "zh": "她的盾牌上是金星符号，脚下是成熟待割的麦——丰饶不是永久状态，它有季节。",
+      "en": "The shield beside her carries the sign of Venus and the wheat at her feet is ripe for cutting — abundance isn't a permanent state; it has a season."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "丰盛的时候记得收成。长得好也需要有人去摘。",
+        "en": "In abundant stretches, remember to harvest. Growing well still needs someone to pick it."
+      },
+      "reversed": {
+        "zh": "先补自己。空的容器倒不出东西。",
+        "en": "Refill yourself first. An empty vessel pours nothing."
+      }
+    },
+    "image": "m03.jpg"
+  },
+  {
+    "id": "m04",
+    "number": 4,
+    "name": "The Emperor",
+    "nameLocalized": "皇帝",
+    "arcana": "major",
+    "element": "fire",
+    "keywords": {
+      "upright": {
+        "zh": ["秩序", "结构", "权威", "说了算"],
+        "en": ["order", "structure", "authority", "the buck stops here"]
+      },
+      "reversed": {
+        "zh": ["专断", "僵化", "失去掌控", "缺乏纪律"],
+        "en": ["autocracy", "rigidity", "control slipping", "no discipline"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "他端坐在石造王座上，背后是寸草不生的山，身上还穿着铠甲——皇后让东西生长，皇帝给它划定边界。这张牌讲的是结构的价值：规则本身很枯燥，但没有规则，前面那些丰盛守不住。",
+        "en": "He sits on a stone throne against barren mountains, still wearing armour beneath the robe — where the Empress lets things grow, the Emperor draws the boundary around them. This card is about the value of structure: rules are dull, and without them the abundance before this card doesn't keep."
+      },
+      "reversed": {
+        "zh": "结构出了问题。可能是控制得太死，把秩序变成了压制，也可能是反过来——该有的框架散了，事情开始失控。逆位的皇帝两个极端都常见。",
+        "en": "The structure has failed — either held so tightly that order became suppression, or the opposite: the frame has gone and things are drifting. Both extremes are common in the reversed Emperor."
+      }
+    },
+    "symbolism": {
+      "zh": "王座四角是白羊头，象征开创与冲劲；但王座是石头做的、山是荒的——秩序的代价是不那么生机勃勃。",
+      "en": "Ram heads mark the corners of the throne for initiative and drive; the throne is stone and the mountains are bare — order costs some of the life around it."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "定规则的人也要守规则，否则规则不成立。",
+        "en": "Whoever sets the rule has to keep it, or it isn't one."
+      },
+      "reversed": {
+        "zh": "问一句：这条规矩现在还在解决问题，还是只是习惯？",
+        "en": "Ask whether this rule is still solving something or has simply become habit."
+      }
+    },
+    "image": "m04.jpg"
+  },
+  {
+    "id": "m05",
+    "number": 5,
+    "name": "The Hierophant",
+    "nameLocalized": "教皇",
+    "arcana": "major",
+    "element": "earth",
+    "keywords": {
+      "upright": {
+        "zh": ["传统", "师承", "既有体系", "共同的信念"],
+        "en": ["tradition", "mentorship", "the established way", "shared belief"]
+      },
+      "reversed": {
+        "zh": ["墨守成规", "质疑权威", "自立门户", "形式大于内容"],
+        "en": ["going through the motions", "questioning authority", "going your own way", "form over substance"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "他坐在两根石柱之间，两位修士跪在脚下，手势是传授的姿态——皇帝立规矩，教皇负责把规矩传下去。这张牌讲的是「前人已经走过」：有些路不必自己重新趟一遍，找个师父、进个体系，会快得多。",
+        "en": "He sits between two pillars with two initiates kneeling below, his hand raised in the gesture of instruction — where the Emperor sets the rule, the Hierophant passes it on. This card is about the road already walked: some paths don't need re-discovering. A teacher or an established system will get you there faster."
+      },
+      "reversed": {
+        "zh": "体系不再合身。可能是照着做但已经不信了，也可能是你确实该走一条不一样的路。逆位的教皇不一定是叛逆，很多时候只是长大了：老师教的东西，你已经用得比他熟。",
+        "en": "The system no longer fits. You may be following it without believing it, or your path may genuinely diverge. The reversed Hierophant isn't necessarily rebellion — often it's simply outgrowing: you now use the teaching better than the teacher did."
+      }
+    },
+    "symbolism": {
+      "zh": "两位修士的袍子上分别是玫瑰与百合——欲望与纯净。体系要处理的从来是这两者之间的张力。",
+      "en": "The two initiates wear roses and lilies respectively — desire and purity. What any tradition exists to manage is the tension between them."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "遵循传统之前，先弄清它当初是为了解决什么问题。",
+        "en": "Before following the convention, find out what problem it was invented to solve."
+      },
+      "reversed": {
+        "zh": "推翻一套规则之前，先确认你能建一套更好的。",
+        "en": "Before discarding a system, be sure you can build a better one."
+      }
+    },
+    "image": "m05.jpg"
+  },
+  {
+    "id": "m06",
+    "number": 6,
+    "name": "The Lovers",
+    "nameLocalized": "恋人",
+    "arcana": "major",
+    "element": "air",
+    "keywords": {
+      "upright": {
+        "zh": ["关系", "重要的选择", "价值观一致", "坦诚相对"],
+        "en": ["union", "a defining choice", "aligned values", "standing exposed"]
+      },
+      "reversed": {
+        "zh": ["失衡", "价值观冲突", "逃避选择", "关系裂痕"],
+        "en": ["imbalance", "clashing values", "dodging the choice", "a rift"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "一男一女赤裸站在树前，天使在上方张开双臂——这张牌被叫做恋人，但它的核心是选择：要和什么结合，就要放弃另一些东西。它出现时提出的问题往往是「你真正在意的是什么」，而不是「他喜不喜欢你」。",
+        "en": "A man and a woman stand naked before their trees, an angel above with arms spread — it's called the Lovers, and its core is choice: to join with one thing is to forgo others. When it appears, the question it poses is usually what you actually value, not whether someone likes you."
+      },
+      "reversed": {
+        "zh": "选择出了问题。可能是两个人要的东西根本不同，也可能是你在回避一个必须做的决定。逆位的恋人常提醒：不做选择，等于让别人替你选。",
+        "en": "The choosing has gone wrong. The two of you may want fundamentally different things, or you may be avoiding a decision that has to be made. Reversed, the Lovers notes that declining to choose hands the choice to someone else."
+      }
+    },
+    "symbolism": {
+      "zh": "她身后是知识之树缠着蛇，他身后是燃烧的生命之树——两人看向的方向不同：她望向天使，他望向她。",
+      "en": "Behind her is the tree of knowledge with its serpent; behind him the tree of life in flame. They look in different directions — she at the angel, he at her."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "关系里的选择，选的其实是你想成为什么样的人。",
+        "en": "The choice inside a relationship is usually a choice about who you intend to be."
+      },
+      "reversed": {
+        "zh": "把两个人各自要的东西写下来，看看是不是同一件事。",
+        "en": "Write down what each of you wants and see whether it's the same thing."
+      }
+    },
+    "image": "m06.jpg"
+  },
+  {
+    "id": "m07",
+    "number": 7,
+    "name": "The Chariot",
+    "nameLocalized": "战车",
+    "arcana": "major",
+    "element": "water",
+    "keywords": {
+      "upright": {
+        "zh": ["意志力", "掌控方向", "胜利", "把矛盾拉到一处"],
+        "en": ["will", "steering it", "victory", "holding opposites together"]
+      },
+      "reversed": {
+        "zh": ["失去方向", "内耗", "硬撑", "被拉扯"],
+        "en": ["off course", "pulling against yourself", "forcing it", "pulled two ways"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "他站在战车上，前面一黑一白两只斯芬克斯朝着不同方向——注意他手里没有缰绳。这张牌讲的不是驾驭外物，而是靠意志把相反的力量拉在同一个方向上。胜利是可能的，但它靠的是持续用力，不是天生顺遂。",
+        "en": "He stands in the chariot behind a black sphinx and a white one facing different ways — and note that he holds no reins. This card isn't about controlling the outside; it's about holding opposing forces on one heading by will alone. Victory is available here, and it runs on sustained effort rather than favourable conditions."
+      },
+      "reversed": {
+        "zh": "拉不住了。可能是两股力量把你扯向不同方向，也可能是方向本身没想清楚就先冲了出去。逆位的战车值得先停车：确认要去哪，比开得多快重要。",
+        "en": "The hold has slipped — two forces pulling you apart, or a departure that happened before the destination was settled. The reversed Chariot is worth stopping for: where you're going matters more than how fast."
+      }
+    },
+    "symbolism": {
+      "zh": "车前的两只斯芬克斯没有缰绳，说明控制来自他的专注本身；华盖上的星象则提醒这趟路有更大的时间尺度。",
+      "en": "The sphinxes are unreined, so the control comes from his focus itself; the star-canopy above says this journey runs on a larger clock than his."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "靠意志硬拉是有期限的。想想怎么让两股力量本身对齐。",
+        "en": "Holding it by will has a time limit. Think about how to get the two forces genuinely aligned."
+      },
+      "reversed": {
+        "zh": "先确定目的地，再谈速度。",
+        "en": "Settle the destination before discussing pace."
+      }
+    },
+    "image": "m07.jpg"
+  },
+  {
+    "id": "m08",
+    "number": 8,
+    "name": "Strength",
+    "nameLocalized": "力量",
+    "arcana": "major",
+    "element": "fire",
+    "keywords": {
+      "upright": {
+        "zh": ["温柔的坚定", "内在力量", "耐心", "驯服而非压制"],
+        "en": ["gentle steadiness", "inner strength", "patience", "taming rather than crushing"]
+      },
+      "reversed": {
+        "zh": ["自我怀疑", "情绪压不住", "硬碰硬", "耗尽了耐心"],
+        "en": ["self-doubt", "feeling overtaken", "meeting force with force", "patience gone"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "一个女子不用武器，只是轻轻合上狮子的嘴——这张牌紧接在战车之后，回答的正是「不靠蛮力还能怎么办」。真正的力量在这里被定义为：不消灭那头狮子，而是让它愿意听你的。这需要的耐心远大于力气。",
+        "en": "A woman closes a lion's jaws with her bare hands — this card follows the Chariot and answers the question of what to do when force isn't the way. Strength is defined here as not killing the lion but getting it to consent. That takes far more patience than power."
+      },
+      "reversed": {
+        "zh": "狮子挣脱了。可能是情绪冲过了理智，也可能是你把力量用在了硬压自己上。逆位的力量常出现在耐心耗尽的时候——而耐心耗尽通常不是因为软弱，是因为撑得太久。",
+        "en": "The lion has got loose. Feeling may have run past reason, or the strength may be going into forcing yourself down. The reversed card often arrives when patience is spent — and patience is usually spent not from weakness but from holding on too long."
+      }
+    },
+    "symbolism": {
+      "zh": "她头顶也悬着无限符号，和魔术师一样——但她的能量向内使用。狮子低着头，不是被打服的，是被安抚的。",
+      "en": "The same infinity sign floats above her as above the Magician — but her energy is turned inward. The lion's head is lowered: soothed, not beaten."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "温和不等于没有底线。守住边界也是力量的一部分。",
+        "en": "Gentleness isn't the absence of a limit. Holding the boundary is part of the strength."
+      },
+      "reversed": {
+        "zh": "先照顾自己的状态，再处理那件让你失控的事。",
+        "en": "Tend to your own state before handling the thing that overran you."
+      }
+    },
+    "image": "m08.jpg"
+  },
+  {
+    "id": "m09",
+    "number": 9,
+    "name": "The Hermit",
+    "nameLocalized": "隐士",
+    "arcana": "major",
+    "element": "earth",
+    "keywords": {
+      "upright": {
+        "zh": ["独处", "向内寻找", "沉淀", "自己照亮路"],
+        "en": ["solitude", "looking inward", "letting it settle", "carrying your own light"]
+      },
+      "reversed": {
+        "zh": ["孤立", "回避他人", "迷失方向", "拒绝帮助"],
+        "en": ["isolation", "avoiding people", "lost", "refusing help"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "老人独自站在雪山顶，提着一盏灯，灯里是一颗六芒星——他退到没有人的地方，不是为了逃避，而是因为有些答案在热闹里听不见。灯照的范围很小，只够看清下一步；这正是这张牌给的：不是全景，是下一步。",
+        "en": "An old man stands alone on a snowy peak holding a lantern with a six-pointed star inside — he withdrew not to escape but because some answers are inaudible in company. The lantern lights only a small radius, enough for the next step. That is what this card offers: not the whole view, the next step."
+      },
+      "reversed": {
+        "zh": "独处变成了断联。可能是退得太久回不来了，也可能是用「我需要空间」挡住了本该有的求助。逆位的隐士值得问：这份安静是在沉淀，还是在躲？",
+        "en": "Solitude has become disconnection — withdrawn so long that returning is hard, or 'I need space' standing in for asking. The reversed Hermit asks whether this quiet is settling something or hiding from it."
+      }
+    },
+    "symbolism": {
+      "zh": "他手中的星是所罗门之印，象征上下相合的智慧；他站在最高处，也就是说这条路只能自己走上来。",
+      "en": "The star in his lamp is Solomon's seal, the wisdom of above and below joined; he stands at the summit, which is to say this is a climb no one else can do for you."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "灯只照得见下一步，这就够了。不必现在看清全程。",
+        "en": "The lamp reaches one step. That is enough — you don't need the whole route today."
+      },
+      "reversed": {
+        "zh": "给自己定一个回到人群里的日期。",
+        "en": "Put a date on coming back down."
+      }
+    },
+    "image": "m09.jpg"
+  },
+  {
+    "id": "m10",
+    "number": 10,
+    "name": "Wheel of Fortune",
+    "nameLocalized": "命运之轮",
+    "arcana": "major",
+    "element": "fire",
+    "keywords": {
+      "upright": {
+        "zh": ["转变", "时机到了", "周期", "非你能控的因素"],
+        "en": ["a turn", "the moment arriving", "cycles", "what isn't yours to control"]
+      },
+      "reversed": {
+        "zh": ["抗拒变化", "时运不济", "重复旧循环", "停滞"],
+        "en": ["resisting the turn", "luck against you", "the same loop again", "stuck"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "巨轮悬在空中，四角是四福音象征，蛇下降、阿努比斯上升——轮子在转，而你只是坐在上面。这张牌承认了一件事：不是所有变化都由你推动。它带来的可能是好运，重点是「时候到了」，不是「你做对了」。",
+        "en": "A great wheel hangs in the air, the four evangelist figures at the corners, a serpent descending on one side and Anubis rising on the other — the wheel turns and you are riding it. This card concedes something: not every change is driven by you. What it brings may well be good fortune, and the point is that the time came, not that you did it right."
+      },
+      "reversed": {
+        "zh": "轮子转到了低处，或者根本没转。可能是运势确实在下行，也可能是同一个循环又走了一遍。逆位的命运之轮值得问：这个循环里，有哪一环是我自己每次都重复的？",
+        "en": "The wheel is at a low point, or hasn't moved. The run may genuinely be against you, or the same loop may have come round again. The reversed Wheel asks which part of the loop is the part you repeat."
+      }
+    },
+    "symbolism": {
+      "zh": "轮子上的字母 TARO 可以旋转成 ROTA（拉丁语的「轮」）——牌本身就是这个循环的一部分。轮心不动，转的是边缘。",
+      "en": "The letters TARO on the rim also read as ROTA, Latin for wheel — the deck is part of the cycle it describes. The hub stays still; only the rim moves."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "顺势的时候多做一点，因为轮子还会转。",
+        "en": "Do more while it's turning your way, because it keeps turning."
+      },
+      "reversed": {
+        "zh": "找出这个循环里唯一你能改的那一环。",
+        "en": "Find the one part of the loop that is actually yours to change."
+      }
+    },
+    "image": "m10.jpg"
+  },
+  {
+    "id": "m11",
+    "number": 11,
+    "name": "Justice",
+    "nameLocalized": "正义",
+    "arcana": "major",
+    "element": "air",
+    "keywords": {
+      "upright": {
+        "zh": ["因果", "公正", "为选择负责", "如实衡量"],
+        "en": ["cause and effect", "fairness", "owning the choice", "an honest weighing"]
+      },
+      "reversed": {
+        "zh": ["不公", "逃避责任", "偏颇", "自欺"],
+        "en": ["unfairness", "dodging responsibility", "bias", "not being straight with yourself"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "她一手持剑一手持天平，正面直视，双眼没有蒙布——不同于世俗的正义女神，塔罗里的她是睁着眼衡量的。这张牌讲的是结果与选择之间那条清清楚楚的线：现在的处境，多半可以往回找到某个具体的决定。",
+        "en": "Sword in one hand, scales in the other, facing straight ahead — and unlike the civic figure, this Justice is not blindfolded. She weighs with her eyes open. This card is about the clean line between choice and consequence: the present situation can usually be traced back to a specific decision."
+      },
+      "reversed": {
+        "zh": "秤歪了。可能是你确实遭遇了不公，也可能是不愿承认某个结果是自己选来的。逆位的正义最难的部分是分清这两者，因为它们的感受很像。",
+        "en": "The scales are off. You may genuinely have been treated unfairly, or there may be a result you don't want to trace back to your own choice. The hard part of the reversed card is telling those apart, because they feel much the same."
+      }
+    },
+    "symbolism": {
+      "zh": "剑竖直向上、双刃对称——判断不偏向任何一方，包括不偏向你。她身后的帷幕呼应女祭司：衡量之前先看清事实。",
+      "en": "The sword stands upright and double-edged — the judgement favours no side, yours included. The curtain behind her echoes the High Priestess: see the facts before weighing them."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "公正地看待自己，比公正地看待别人难得多。",
+        "en": "Weighing yourself fairly is much harder than weighing anyone else."
+      },
+      "reversed": {
+        "zh": "把「发生在我身上的」和「我做过的」分成两栏写下来。",
+        "en": "Write two columns: what happened to you, and what you did."
+      }
+    },
+    "image": "m11.jpg"
+  },
+  {
+    "id": "m12",
+    "number": 12,
+    "name": "The Hanged Man",
+    "nameLocalized": "倒吊人",
+    "arcana": "major",
+    "element": "water",
+    "keywords": {
+      "upright": {
+        "zh": ["主动暂停", "换个角度", "有意义的牺牲", "松手"],
+        "en": ["a chosen pause", "a different angle", "meaningful sacrifice", "letting go"]
+      },
+      "reversed": {
+        "zh": ["无谓的拖延", "白白牺牲", "抗拒停下", "原地打转"],
+        "en": ["pointless delay", "sacrifice for nothing", "refusing to pause", "spinning in place"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "他被单脚倒吊在树上，另一条腿弯成四字，脸上很平静，头顶有光——绳子只绑住一只脚，也就是说他随时可以下来。这是自愿的停顿。这张牌讲的是：有些事情正着看想不通，得把自己整个倒过来。",
+        "en": "He hangs by one ankle from the tree, the other leg crossed behind, his face calm and a halo at his head — the rope binds one foot only, meaning he could come down whenever he chose. This pause is voluntary. The card's claim is that some things can't be worked out the right way up."
+      },
+      "reversed": {
+        "zh": "停顿失去了意义。可能是把拖延说成了「在沉淀」，也可能是牺牲了很多但没换来任何新的看法。逆位的倒吊人值得问：这段暂停，让你看见了什么？如果答案是没有，那它该结束了。",
+        "en": "The pause has lost its point — delay renamed as reflection, or a great deal given up without a single new perspective in return. The reversed card asks what this suspension has shown you. If the answer is nothing, it's over."
+      }
+    },
+    "symbolism": {
+      "zh": "他吊着的树是活的（T 形的生命之树），不是绞刑架——这不是惩罚，是一个选择的位置。",
+      "en": "The tau-shaped tree he hangs from is living wood, not a gallows — this is a chosen position rather than a punishment."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "这个阶段不做决定是对的。允许自己先不知道。",
+        "en": "Not deciding right now is correct. Let yourself not know for a while."
+      },
+      "reversed": {
+        "zh": "给这段暂停定个期限，否则它会自己变成常态。",
+        "en": "Put an end date on the pause or it quietly becomes the arrangement."
+      }
+    },
+    "image": "m12.jpg"
+  },
+  {
+    "id": "m13",
+    "number": 13,
+    "name": "Death",
+    "nameLocalized": "死神",
+    "arcana": "major",
+    "element": "water",
+    "keywords": {
+      "upright": {
+        "zh": ["结束", "彻底的转化", "放手", "旧的让位"],
+        "en": ["an ending", "real transformation", "letting go", "the old giving way"]
+      },
+      "reversed": {
+        "zh": ["抗拒结束", "拖着不放", "停滞", "害怕改变"],
+        "en": ["resisting the end", "dragging it out", "stalled", "afraid of the change"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "白骨骑士举着黑旗缓缓前行，国王倒下、主教求情、孩童献花——不同的人对同一件事反应不同，但队伍照常前进。这张牌几乎从不指向真正的死亡，它指的是那种不可逆的结束：拒绝也没用，而拒绝往往比结束本身更痛。",
+        "en": "A skeletal rider carries a black banner at walking pace: a king has fallen, a bishop pleads, a child offers flowers — different responses to the same event, and the procession continues regardless. This card almost never means literal death. It means the irreversible kind of ending, where refusal doesn't help and usually hurts more than the ending would."
+      },
+      "reversed": {
+        "zh": "该结束的事被拖着。可能是不肯承认某段关系或某个阶段已经过去，也可能是转化正在发生但你还在中间。逆位的死神最消耗的不是失去，是不肯松手的那只手。",
+        "en": "Something that should end is being held open — a relationship or a chapter unacknowledged as over, or a transformation you're in the middle of. What drains most in the reversed card isn't the loss; it's the hand that won't open."
+      }
+    },
+    "symbolism": {
+      "zh": "旗上的白玫瑰有五瓣，是生命的符号；远处两塔之间正升起太阳——这张牌的画面里，结束和日出画在同一格。",
+      "en": "The white rose on the banner has five petals, a symbol of life; between two towers in the distance the sun is rising — in this image the ending and the sunrise share one frame."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "允许自己为结束的东西难过，这不影响它必须结束。",
+        "en": "Let yourself grieve it. That doesn't make the ending any less necessary."
+      },
+      "reversed": {
+        "zh": "问一句：如果这件事已经结束了，我会怎么安排接下来？",
+        "en": "Ask what you'd do next if this were already over."
+      }
+    },
+    "image": "m13.jpg"
+  },
+  {
+    "id": "m14",
+    "number": 14,
+    "name": "Temperance",
+    "nameLocalized": "节制",
+    "arcana": "major",
+    "element": "fire",
+    "keywords": {
+      "upright": {
+        "zh": ["调和", "耐心配比", "中道", "慢慢来"],
+        "en": ["blending", "finding the ratio", "the middle way", "taking it slowly"]
+      },
+      "reversed": {
+        "zh": ["失衡", "走极端", "急于求成", "冲突未解"],
+        "en": ["out of balance", "swinging to extremes", "forcing the pace", "unresolved friction"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "天使一脚踩水一脚踏地，在两只杯子之间来回倾倒液体，水流却没有洒——死神之后是节制，这个顺序本身就是答案：经历彻底的结束之后，需要的是慢慢把新旧调和到一起。这张牌的关键词是配比，不是妥协。",
+        "en": "An angel stands with one foot in the water and one on land, pouring liquid between two cups without spilling — Temperance follows Death, and the order is itself the answer: after a total ending, what's needed is the slow blending of old into new. The keyword here is proportion, not compromise."
+      },
+      "reversed": {
+        "zh": "配比失了准。可能是某一方面过量而另一方面枯竭，也可能是想一步到位、跳过了需要时间的部分。逆位的节制常提醒：调和这件事，快不了。",
+        "en": "The proportion is off — one side flooded while another runs dry, or an attempt to arrive in one move and skip the part that takes time. Reversed, Temperance points out that blending can't be hurried."
+      }
+    },
+    "symbolism": {
+      "zh": "水在两杯之间倾倒却违反重力地向上流——真正的调和不是自然发生的，它需要有人一直扶着。",
+      "en": "The liquid runs between the cups against gravity — genuine blending doesn't happen on its own; someone has to keep holding it."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "调和需要时间。现在做不到完美的配比是正常的。",
+        "en": "Blending takes time. Not having the ratio right yet is normal."
+      },
+      "reversed": {
+        "zh": "看看是哪一边过量了，减这边通常比加另一边容易。",
+        "en": "Find which side is in excess — reducing it is usually easier than adding to the other."
+      }
+    },
+    "image": "m14.jpg"
+  },
+  {
+    "id": "m15",
+    "number": 15,
+    "name": "The Devil",
+    "nameLocalized": "恶魔",
+    "arcana": "major",
+    "element": "earth",
+    "keywords": {
+      "upright": {
+        "zh": ["束缚", "上瘾", "被欲望驱动", "自愿的枷锁"],
+        "en": ["bondage", "compulsion", "driven by appetite", "a chain you accepted"]
+      },
+      "reversed": {
+        "zh": ["看清束缚", "挣脱", "重获掌控", "打破模式"],
+        "en": ["seeing the chain", "breaking free", "getting control back", "breaking the pattern"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "一男一女被链子拴在恶魔的台座上，头上长出了角——但脖子上的链圈是松的，他们随时能摘下来。这是这张牌全部的重点：困住你的东西，大部分是你同意留下的。它可能是一段关系、一个习惯，也可能是一种关于自己的信念。",
+        "en": "A man and a woman are chained to the Devil's block, small horns grown in — and the loops around their necks are loose enough to lift off. That is the whole point of the card: most of what holds you is something you agreed to. It might be a relationship, a habit, or a belief about yourself."
+      },
+      "reversed": {
+        "zh": "链子松动了。可能是终于看清了那个模式，也可能是已经开始往外走。逆位的恶魔通常是好消息，但值得留意：看清和摆脱之间，还有一段不短的距离。",
+        "en": "The chain has loosened — the pattern finally seen, or the walk out already begun. The reversed Devil is usually good news, with one caveat: seeing it and being free of it are separated by a considerable distance."
+      }
+    },
+    "symbolism": {
+      "zh": "他的姿势和恋人牌里的天使几乎一样——同样的两个人、同样的构图，区别只在于谁站在上面。",
+      "en": "His posture nearly mirrors the angel's in the Lovers — the same two figures in the same composition; what differs is who is standing above them."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "先只做一件事：说出它的名字。你在被什么绑着？",
+        "en": "Do one thing first: name it. What exactly is holding you?"
+      },
+      "reversed": {
+        "zh": "挣脱之后会有一段空虚期，那是正常的，不是复发的理由。",
+        "en": "There's an empty stretch after breaking loose. That's normal, and not a reason to go back."
+      }
+    },
+    "image": "m15.jpg"
+  },
+  {
+    "id": "m16",
+    "number": 16,
+    "name": "The Tower",
+    "nameLocalized": "高塔",
+    "arcana": "major",
+    "element": "fire",
+    "keywords": {
+      "upright": {
+        "zh": ["突变", "假象崩塌", "被迫醒来", "地基出问题"],
+        "en": ["sudden upheaval", "the illusion collapsing", "forced awake", "the foundation was wrong"]
+      },
+      "reversed": {
+        "zh": ["延迟的崩塌", "勉强撑住", "劫后余生", "抗拒真相"],
+        "en": ["a collapse deferred", "propping it up", "the aftermath", "resisting what's true"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "闪电击中塔顶，王冠飞落，两个人从窗口坠下——恶魔之后是高塔，顺序仍是答案：如果你不肯自己摘下那条链子，就会有别的力量来拆掉整座塔。这张牌很痛，但它拆掉的是本来就建错的东西。",
+        "en": "Lightning strikes the tower, the crown blows off, two figures fall from the windows — the Tower follows the Devil, and again the order is the answer: if you won't lift the chain yourself, something else will take the building down. It hurts, and what it takes down was built wrong."
+      },
+      "reversed": {
+        "zh": "塔在摇但还没倒。可能是你正在拼命撑住某个明知有问题的结构，也可能是崩塌已经过去、正在收拾。逆位的高塔最耗人的是延长期——撑着的时间越久，塌下来的时候越难看。",
+        "en": "The tower is shaking and hasn't fallen — either you're bracing a structure you know is faulty, or the collapse has passed and you're clearing up. What costs most in the reversed card is the extension: the longer it's propped, the worse the fall."
+      }
+    },
+    "symbolism": {
+      "zh": "被击落的是王冠而不是塔本身——先垮的往往不是事情，是你原本以为的那个身份。",
+      "en": "What the lightning takes off first is the crown, not the tower — usually the thing that goes first isn't the situation but the identity you had built on it."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "崩塌当下不要做长期决定。先落地，再规划。",
+        "en": "Don't make long-term decisions mid-collapse. Land first, plan after."
+      },
+      "reversed": {
+        "zh": "如果你在撑着什么，算一算再撑一年的代价。",
+        "en": "If you're propping something up, price out another year of doing it."
+      }
+    },
+    "image": "m16.jpg"
+  },
+  {
+    "id": "m17",
+    "number": 17,
+    "name": "The Star",
+    "nameLocalized": "星星",
+    "arcana": "major",
+    "element": "air",
+    "keywords": {
+      "upright": {
+        "zh": ["希望", "疗愈", "重新有了方向", "坦然"],
+        "en": ["hope", "healing", "a direction again", "being unguarded"]
+      },
+      "reversed": {
+        "zh": ["失去信心", "灵感枯竭", "疲惫", "看不见光"],
+        "en": ["confidence gone", "dried up", "worn out", "unable to see the light"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "高塔之后是星星：一个赤裸的女子跪在水边，一只脚在水里一只脚在地上，两只水罐一只倒回池中一只浇在土上——废墟之后来的不是解决方案，是平静。她一丝不挂却不需要遮掩，这正是这张牌给的：不必再防备了。",
+        "en": "After the Tower comes the Star: a naked woman kneels at the water, one foot in it and one on land, pouring from two jugs — one back into the pool, one onto the earth. What follows the ruin isn't a solution but calm. She is uncovered and doesn't need covering, which is exactly what this card offers: you can stop bracing."
+      },
+      "reversed": {
+        "zh": "灯还没亮。可能是伤还没养好就要求自己重新乐观，也可能是确实处在信心的低点。逆位的星星不需要你打起精神，它只是提醒：现在看不见光，不代表天上没有星。",
+        "en": "The light hasn't come back. You may be requiring optimism of yourself before the wound has closed, or you may simply be at a low point. The reversed Star doesn't ask you to rally. It notes only that not seeing the light isn't the same as there being none."
+      }
+    },
+    "symbolism": {
+      "zh": "一罐倒回水里、一罐浇在地上——给出去的和留回来的必须都有。八颗小星围绕着一颗大星，希望从来不只有一个来源。",
+      "en": "One jug returns to the water and one feeds the ground — what's given out and what's returned both have to happen. Eight small stars surround one large one: hope rarely comes from a single source."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "这个阶段做得少一点没关系。恢复本身就是进展。",
+        "en": "Doing less right now is fine. Recovering is itself progress."
+      },
+      "reversed": {
+        "zh": "别用「我该好起来了」催自己。恢复不听指挥。",
+        "en": "Don't drive yourself with 'I should be better by now'. Recovery doesn't take instructions."
+      }
+    },
+    "image": "m17.jpg"
+  },
+  {
+    "id": "m18",
+    "number": 18,
+    "name": "The Moon",
+    "nameLocalized": "月亮",
+    "arcana": "major",
+    "element": "water",
+    "keywords": {
+      "upright": {
+        "zh": ["看不清", "潜意识浮动", "不安", "凭直觉走"],
+        "en": ["low visibility", "the unconscious stirring", "unease", "going by feel"]
+      },
+      "reversed": {
+        "zh": ["迷雾散去", "真相浮现", "困惑解除", "误会澄清"],
+        "en": ["the fog lifting", "truth surfacing", "confusion clearing", "a misreading corrected"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "月光下有一条路穿过两座塔通向远山，一犬一狼对月嚎叫，一只螯虾正从水里爬出来——这是全套牌里最不确定的一张。它不说你有危险，它说你现在看不清。而看不清的时候，人最容易把恐惧当成预感。",
+        "en": "Under moonlight a path runs between two towers toward distant hills, a dog and a wolf howl, and a crayfish is crawling out of the pool — the least certain image in the deck. It doesn't say you're in danger. It says you can't see clearly right now. And when visibility is low, fear is easily mistaken for premonition."
+      },
+      "reversed": {
+        "zh": "雾在散。可能是某个一直困扰你的疑虑终于有了答案，也可能是你终于看清了原本被情绪放大的事。逆位的月亮通常带来松一口气的感觉。",
+        "en": "The fog is thinning — a doubt that has bothered you for a while finally has an answer, or something magnified by feeling is now visible at actual size. The reversed Moon usually arrives as relief."
+      }
+    },
+    "symbolism": {
+      "zh": "狗与狼是同一种动物的驯化与野生两面；螯虾从水中爬出，代表还没成形的东西正在浮上意识表面。",
+      "en": "The dog and the wolf are the tamed and wild forms of one animal; the crayfish climbing from the pool is something not yet formed rising toward the surface of awareness."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "看不清的时候少下判断。等天亮再决定。",
+        "en": "Make fewer judgements while visibility is low. Decide in daylight."
+      },
+      "reversed": {
+        "zh": "真相浮现之后，给自己一点时间消化再行动。",
+        "en": "Once it surfaces, take a beat to absorb it before acting."
+      }
+    },
+    "image": "m18.jpg"
+  },
+  {
+    "id": "m19",
+    "number": 19,
+    "name": "The Sun",
+    "nameLocalized": "太阳",
+    "arcana": "major",
+    "element": "fire",
+    "keywords": {
+      "upright": {
+        "zh": ["清晰", "喜悦", "有活力", "坦荡"],
+        "en": ["clarity", "joy", "vitality", "nothing to hide"]
+      },
+      "reversed": {
+        "zh": ["暂时的阴天", "过度乐观", "喜悦延后", "自我怀疑"],
+        "en": ["temporarily overcast", "over-optimism", "joy postponed", "doubting it"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "月亮之后是太阳：一个孩子赤身骑在白马上，背后是向日葵和一堵矮墙，太阳当空。看不清的阶段过去了，现在什么都清清楚楚。这张牌的喜悦是不需要解释的那种——它不是「问题解决了」，而是「你现在能看见了」。",
+        "en": "After the Moon comes the Sun: a child rides a white horse bare-backed past a low wall of sunflowers, the sun directly overhead. The unclear stretch is over and everything is visible. The joy in this card is the kind that needs no explanation — not that the problem is solved, but that you can see."
+      },
+      "reversed": {
+        "zh": "阳光被挡了一下。可能是喜悦还没到，也可能是过度乐观让你跳过了该看的细节。逆位的太阳很少是坏牌，它多半只是说：还差一点，或者别高兴得太早。",
+        "en": "Something is briefly in front of the sun — the gladness hasn't arrived, or optimism has skipped a detail worth looking at. The reversed Sun is rarely a bad card; mostly it says not quite yet, or don't celebrate at the halfway mark."
+      }
+    },
+    "symbolism": {
+      "zh": "孩子没有马鞍也没有缰绳，坦然张开双臂——毫无防备是这张牌的力量，不是它的风险。墙是矮的，可以看见外面。",
+      "en": "The child rides with neither saddle nor rein, arms open — being unguarded is this card's strength rather than its risk. The wall is low; you can see over it."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "清楚的时候把事情定下来。这种清晰不会一直在。",
+        "en": "Settle things while it's clear. This kind of visibility doesn't stay indefinitely."
+      },
+      "reversed": {
+        "zh": "乐观是好的，但把风险也写在同一张纸上。",
+        "en": "Optimism is fine — write the risks on the same page."
+      }
+    },
+    "image": "m19.jpg"
+  },
+  {
+    "id": "m20",
+    "number": 20,
+    "name": "Judgement",
+    "nameLocalized": "审判",
+    "arcana": "major",
+    "element": "fire",
+    "keywords": {
+      "upright": {
+        "zh": ["觉醒", "重新评估", "召唤", "了结过去"],
+        "en": ["awakening", "reassessment", "a calling", "settling the past"]
+      },
+      "reversed": {
+        "zh": ["自我批判", "逃避召唤", "犹豫", "耿耿于怀"],
+        "en": ["self-judgement", "avoiding the call", "hesitating", "unable to let it go"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "天使吹响号角，人们从石棺中站起、张开双臂仰头——这不是被审判，是被叫醒。这张牌通常出现在一个人回头看完整段经历、并且决定要不同地活的时刻。它要求的不是忏悔，是诚实的复盘。",
+        "en": "An angel sounds the trumpet and figures rise from their coffins with arms open, faces lifted — this isn't being judged; it's being woken. The card usually appears when someone has looked back across a whole stretch of their life and decided to live it differently. What it asks for isn't repentance but an honest accounting."
+      },
+      "reversed": {
+        "zh": "号角响了但没起身。可能是听见了那个召唤却不敢回应，也可能是把复盘做成了自我批判——反复清算过去，却没走向任何新的东西。",
+        "en": "The trumpet sounded and nobody stood. The call may have been heard and not answered, or the accounting may have curdled into self-judgement: the past re-audited repeatedly without moving toward anything."
+      }
+    },
+    "symbolism": {
+      "zh": "站起来的人是灰色的，还没有恢复血色——觉醒的当下并不辉煌，它只是开始。棺材漂在水上，情绪是这次醒来的底色。",
+      "en": "The risen figures are still grey, colour not yet returned — the moment of waking isn't glorious; it's only the start. The coffins float on water: feeling is the ground this waking happens on."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "复盘是为了往前走。如果它让你原地打转，就该停了。",
+        "en": "The point of looking back is going forward. If it's keeping you in place, stop."
+      },
+      "reversed": {
+        "zh": "把「我做错了什么」换成「我下次会怎么做」。",
+        "en": "Swap 'what did I do wrong' for 'what will I do next time'."
+      }
+    },
+    "image": "m20.jpg"
+  },
+  {
+    "id": "m21",
+    "number": 21,
+    "name": "The World",
+    "nameLocalized": "世界",
+    "arcana": "major",
+    "element": "earth",
+    "keywords": {
+      "upright": {
+        "zh": ["完成", "整合", "抵达", "一个循环走完"],
+        "en": ["completion", "integration", "arrival", "a full cycle closed"]
+      },
+      "reversed": {
+        "zh": ["差最后一步", "收尾未完", "难以放下", "延迟的完成"],
+        "en": ["one step short", "loose ends", "hard to close", "completion deferred"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "舞者在花环中央起舞，四角是与命运之轮相同的四个象征——从愚者的悬崖走到这里，整整一圈。这张牌讲的是真正走完了：不只是做完了事，而是那些经历已经变成了你的一部分。而花环是椭圆的，像一扇门，走完之后还有下一段。",
+        "en": "A dancer moves inside a wreath, the same four figures at the corners as on the Wheel — from the Fool's cliff to here is one complete turn. This card is about genuinely finishing: not merely that the work is done but that the experience has become part of you. The wreath is an oval, shaped like a doorway; past it there is another stretch."
+      },
+      "reversed": {
+        "zh": "差一口气。可能是收尾的部分迟迟没做，也可能是明明完成了却不肯承认、迟迟不肯翻篇。逆位的世界值得问：还差的那一步，是真的没做完，还是你舍不得结束？",
+        "en": "One breath short. The closing work may be undone, or it may be finished and unacknowledged, the page unturned. The reversed World asks whether the missing step is genuinely outstanding, or whether you don't want it to end."
+      }
+    },
+    "symbolism": {
+      "zh": "她手里握着两根短杖，和魔术师手中的是同一根——从「我能做到」到「我做完了」，走了二十一张牌。",
+      "en": "She holds two short wands, the same implement the Magician held — from 'I can do this' to 'I have done it' took twenty-one cards."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "好好结束这一段。仪式感不是矫情，它让你能真的离开。",
+        "en": "Close this properly. Marking an ending isn't sentimentality — it's what lets you actually leave."
+      },
+      "reversed": {
+        "zh": "把「还没做完」的事列出来，通常比你以为的短。",
+        "en": "List what's genuinely outstanding. It's usually a shorter list than it feels."
+      }
+    },
+    "image": "m21.jpg"
+  }
+]

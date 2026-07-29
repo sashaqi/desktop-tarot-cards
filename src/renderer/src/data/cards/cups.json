@@ -1,0 +1,618 @@
+[
+  {
+    "id": "c01",
+    "number": 1,
+    "name": "Ace of Cups",
+    "nameLocalized": "圣杯首牌",
+    "arcana": "minor",
+    "suit": "cups",
+    "element": "water",
+    "keywords": {
+      "upright": {
+        "zh": ["情感涌现", "新的连结", "心敞开了", "接纳"],
+        "en": ["feeling rising", "a new connection", "an open heart", "receptivity"]
+      },
+      "reversed": {
+        "zh": ["情感封闭", "说不出口", "溢出的失落", "自我保护"],
+        "en": ["closed off", "left unsaid", "spilled feeling", "self-protection"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "云中伸出的手托着一只满溢的圣杯，五道水流不断落下——水元素最丰沛、也最不设防的状态。这里给的不是一段关系，而是感受的能力本身：能被打动、愿意靠近。这份敞开很珍贵，同时也意味着此刻的你比平时更容易被影响。",
+        "en": "A hand from the clouds holds a chalice overflowing in five streams — water at its fullest and least defended. What's offered isn't a relationship but the capacity for feeling itself: to be moved, to want closeness. That openness is valuable, and it also means you are more permeable right now than usual."
+      },
+      "reversed": {
+        "zh": "杯子倾了，水流走了。可能是感受被压住不敢表达，也可能是给出去的情感没得到回应。水元素逆位很少是无情，更多是把感受收了起来——通常因为上一次敞开时受了伤。",
+        "en": "The cup has tipped and the water has run out. Either the feeling is being held down rather than spoken, or what you offered wasn't met. Reversed water is rarely coldness — it's feeling withdrawn, usually because the last time it was offered it cost something."
+      }
+    },
+    "symbolism": {
+      "zh": "白鸽衔着圣饼降入杯中，为这份感受赋予了分量；杯口的水同时向五个方向溢出，说明它多到无法只流向一处。",
+      "en": "A dove descends into the cup carrying a wafer, lending the feeling weight; the water spills in five directions at once — more than any single channel can hold."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "心敞开的时候，容易把强烈误认为深刻。给它一点时间再下判断。",
+        "en": "An open heart easily mistakes intensity for depth. Give it time before deciding what it is."
+      },
+      "reversed": {
+        "zh": "不说出口的感受不会因为藏起来就消失，只会换个方式冒出来。",
+        "en": "A feeling kept unspoken doesn't disappear; it surfaces somewhere else instead."
+      }
+    },
+    "image": "c01.jpg"
+  },
+  {
+    "id": "c02",
+    "number": 2,
+    "name": "Two of Cups",
+    "nameLocalized": "圣杯二",
+    "arcana": "minor",
+    "suit": "cups",
+    "element": "water",
+    "keywords": {
+      "upright": {
+        "zh": ["对等的连结", "互相认可", "结盟", "看见彼此"],
+        "en": ["a meeting of equals", "mutual regard", "alliance", "being seen"]
+      },
+      "reversed": {
+        "zh": ["失衡", "一方用力", "误解", "连结断裂"],
+        "en": ["imbalance", "one side carrying it", "misreading", "a broken thread"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "两人各持一杯、面对面交换——二在水元素里是关系的原型。关键在于「对等」：两只杯子一样大，两人都伸出了手。这张牌讲的不一定是爱情，而是任何一种「我看见你，你也看见我」的连结。",
+        "en": "Two figures face each other, each holding a cup, exchanging — Two in water is the archetype of relationship. What matters is the symmetry: the cups are the same size and both hands are extended. This card isn't necessarily romance; it's any bond in which each person is actually seen by the other."
+      },
+      "reversed": {
+        "zh": "天平歪了。可能是一方投入得多、另一方接得少，也可能双方都在用自己的方式付出却对不上频道。逆位的二很少是「不爱了」，更多是「没接住」。",
+        "en": "The scales have tilted. One side may be giving more than the other can receive, or both may be offering in ways the other doesn't recognise. The reversed Two is seldom about the feeling ending — more often it's about it not being caught."
+      }
+    },
+    "symbolism": {
+      "zh": "两人头顶悬着双蛇杖与狮首——狮子是本能与欲望，双蛇是治愈与平衡。感情里这两股力量同时在场。",
+      "en": "A caduceus topped by a lion's head floats above them — the lion is instinct and appetite, the twined serpents are healing and balance. Both forces are present in any real bond."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "对等需要维护。今天的平衡不保证下个月还在。",
+        "en": "Symmetry needs maintenance. Today's balance doesn't guarantee next month's."
+      },
+      "reversed": {
+        "zh": "在断定对方不在乎之前，先确认你要的方式对方知不知道。",
+        "en": "Before concluding they don't care, check whether they know what you actually need."
+      }
+    },
+    "image": "c02.jpg"
+  },
+  {
+    "id": "c03",
+    "number": 3,
+    "name": "Three of Cups",
+    "nameLocalized": "圣杯三",
+    "arcana": "minor",
+    "suit": "cups",
+    "element": "water",
+    "keywords": {
+      "upright": {
+        "zh": ["共享的喜悦", "friendship", "值得庆祝", "被接纳"],
+        "en": ["shared joy", "friendship", "worth celebrating", "belonging"]
+      },
+      "reversed": {
+        "zh": ["社交疲惫", "圈子变味", "被排除在外", "过度纵情"],
+        "en": ["social fatigue", "a circle gone sour", "left out", "overindulgence"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "三位女子围成一圈举杯，脚边是收获的瓜果——二的一对一扩展成了群体。这张牌的重点不是热闹，而是「有人和你一起高兴」这件事本身：喜悦被分享之后，才真正落地。",
+        "en": "Three women raise their cups in a circle, harvest fruit at their feet — the one-to-one of the Two has widened into a group. The point isn't the party; it's that someone is glad alongside you. Joy only fully lands once it's shared."
+      },
+      "reversed": {
+        "zh": "圈子出了问题。可能是聚会变成了消耗，可能是你在人群里反而觉得孤单，也可能是热闹掩盖了没处理的事。逆位的三值得问：这些场合结束后，你是充电了还是更累了？",
+        "en": "Something is off in the circle. The gatherings may have become draining, you may feel most alone inside the group, or the noise may be covering something unaddressed. Ask the plain question: after these occasions, do you leave fuller or emptier?"
+      }
+    },
+    "symbolism": {
+      "zh": "三人举杯的动作朝向圆心，没有人朝外——这是一个闭合的圈子，温暖，但也有边界。",
+      "en": "All three cups tilt toward the centre and none faces outward — this is a closed circle: warm, and also bounded."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "庆祝之后，事情还在原地。享受它，但别把它当成解决。",
+        "en": "After the celebration the situation is unchanged. Enjoy it, but don't mistake it for a resolution."
+      },
+      "reversed": {
+        "zh": "分清是你需要独处，还是这个圈子确实不再适合你。",
+        "en": "Separate needing solitude from a circle that genuinely no longer fits."
+      }
+    },
+    "image": "c03.jpg"
+  },
+  {
+    "id": "c04",
+    "number": 4,
+    "name": "Four of Cups",
+    "nameLocalized": "圣杯四",
+    "arcana": "minor",
+    "suit": "cups",
+    "element": "water",
+    "keywords": {
+      "upright": {
+        "zh": ["漠然", "看不见眼前", "情感停滞", "需要独处"],
+        "en": ["apathy", "blind to what's offered", "emotional stall", "needing solitude"]
+      },
+      "reversed": {
+        "zh": ["重新提起兴趣", "接受了递来的手", "走出低潮", "看见了"],
+        "en": ["interest returning", "accepting the offer", "coming out of it", "finally noticing"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "四在水元素里不是稳定，而是停滞。他抱臂坐在树下，面前三只杯子，云中还递来第四只——他一只都没看。这不是拥有得太少，而是感受钝掉了：好东西还在，只是此刻打动不了他。",
+        "en": "Four in water isn't stability, it's stall. He sits under a tree with arms folded, three cups before him and a fourth offered from a cloud — and he's looking at none of them. This isn't scarcity; it's numbness. What's good is still there, it just isn't reaching him right now."
+      },
+      "reversed": {
+        "zh": "钝感开始消退。可能是终于注意到了一直摆在面前的东西，也可能是独处够了、愿意重新参与。逆位的四通常是好消息：胃口回来了。",
+        "en": "The numbness is lifting. Either you've finally noticed what has been in front of you, or the withdrawal has done its work and you're willing to re-engage. Reversed, the Four is usually good news: the appetite is back."
+      }
+    },
+    "symbolism": {
+      "zh": "递杯的手和首牌是同一只——机会用的是同样的方式来敲门，区别只在于这次他闭着眼。",
+      "en": "The offering hand is the same one from the Ace — opportunity is knocking in exactly the same way; the difference is that this time his eyes are shut."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "在断定「没意思」之前，先确认这是环境的问题，还是你自己的状态。",
+        "en": "Before concluding that nothing here is interesting, check whether that's the situation or your current state."
+      },
+      "reversed": {
+        "zh": "重新有兴趣之后，别急着把之前拒绝的全都答应回来。",
+        "en": "As interest returns, resist saying yes to everything you previously turned down."
+      }
+    },
+    "image": "c04.jpg"
+  },
+  {
+    "id": "c05",
+    "number": 5,
+    "name": "Five of Cups",
+    "nameLocalized": "圣杯五",
+    "arcana": "minor",
+    "suit": "cups",
+    "element": "water",
+    "keywords": {
+      "upright": {
+        "zh": ["失落", "遗憾", "注意力停在损失上", "哀悼"],
+        "en": ["loss", "regret", "fixed on what spilled", "grief"]
+      },
+      "reversed": {
+        "zh": ["开始回头", "接受损失", "看见剩下的", "走出哀悼"],
+        "en": ["turning around", "accepting the loss", "seeing what remains", "moving through grief"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "五打破四的停滞，在水元素里表现为失去。黑袍人低头看着三只倒下的杯子——而他身后还立着两只完好的，他没有回头。这张牌不否认损失是真的，它只是指出：注意力的方向也是真的。",
+        "en": "Five breaks the Four's stall, and in water that break is loss. A cloaked figure looks down at three spilled cups — while two upright ones stand behind him, unseen. This card doesn't deny the loss is real. It points out that where attention is aimed is equally real."
+      },
+      "reversed": {
+        "zh": "开始转身了。可能是终于看见还剩下什么，也可能是哀悼走完了它该走的过程。逆位的五不是「不难过了」，而是难过不再占据全部视野。",
+        "en": "The turn has begun. Either you've finally registered what remains, or the grieving has run the course it needed. Reversed, the Five isn't the end of sadness — it's sadness no longer filling the whole frame."
+      }
+    },
+    "symbolism": {
+      "zh": "远处有一座桥通向城堡——路一直在，只是不在他现在看的方向。",
+      "en": "A bridge leads to a castle in the distance — the way onward has been there all along, simply not in the direction he's facing."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "允许自己难过，但留意有没有把「只看倒掉的那部分」变成习惯。",
+        "en": "Let the grief be there, and notice if looking only at what spilled has quietly become a habit."
+      },
+      "reversed": {
+        "zh": "别用「我该好起来了」催自己。转身有它自己的速度。",
+        "en": "Don't hurry yourself with 'I should be over this'. Turning around runs at its own pace."
+      }
+    },
+    "image": "c05.jpg"
+  },
+  {
+    "id": "c06",
+    "number": 6,
+    "name": "Six of Cups",
+    "nameLocalized": "圣杯六",
+    "arcana": "minor",
+    "suit": "cups",
+    "element": "water",
+    "keywords": {
+      "upright": {
+        "zh": ["回忆", "纯真", "旧日的善意", "故人重逢"],
+        "en": ["memory", "innocence", "an old kindness", "someone from before"]
+      },
+      "reversed": {
+        "zh": ["困在过去", "美化回忆", "该往前了", "旧模式重演"],
+        "en": ["stuck in the past", "gilded memory", "time to move on", "an old pattern repeating"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "六是五的失落之后重新出现的温柔。一个孩子把盛满花的杯子递给另一个，背景是安静的旧村庄——这是不求回报的给予，也是记忆里那种简单的好。它可能以旧友、旧地或某个突然浮现的画面出现。",
+        "en": "Six is the tenderness that returns after the Five's loss. One child hands another a cup filled with flowers, a quiet old village behind them — giving with nothing asked in return, and the uncomplicated goodness memory keeps. It may arrive as an old friend, an old place, or an image that surfaces unbidden."
+      },
+      "reversed": {
+        "zh": "回忆变成了绳索。可能是把过去修饰得比实际更好，也可能是同一种关系模式又演了一遍。逆位的六提醒：怀念一段时光，和想回到那段时光，是两件事。",
+        "en": "Memory has become a tether. The past may have been polished brighter than it was, or an old relational pattern may be running again. The reversed Six draws the line between missing a time and wanting to move back into it."
+      }
+    },
+    "symbolism": {
+      "zh": "杯中装的是花而不是水——这份给予不解渴，但让人记得很久。",
+      "en": "The cups hold flowers rather than water — this kind of giving doesn't quench anything, and is remembered for a very long time."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "温柔的回忆容易让人对当下失去耐心。两者不必二选一。",
+        "en": "Warm memory can make the present feel thin by comparison. You don't have to choose between them."
+      },
+      "reversed": {
+        "zh": "如果同一种关系模式反复出现，值得看看你在其中扮演的角色。",
+        "en": "If the same relational pattern keeps recurring, look at the part you play in it."
+      }
+    },
+    "image": "c06.jpg"
+  },
+  {
+    "id": "c07",
+    "number": 7,
+    "name": "Seven of Cups",
+    "nameLocalized": "圣杯七",
+    "arcana": "minor",
+    "suit": "cups",
+    "element": "water",
+    "keywords": {
+      "upright": {
+        "zh": ["选择太多", "幻象", "白日梦", "看不清真假"],
+        "en": ["too many options", "illusion", "daydreaming", "hard to tell what's real"]
+      },
+      "reversed": {
+        "zh": ["看清了", "做出取舍", "幻象破除", "回到现实"],
+        "en": ["clarity", "choosing one", "the illusion breaking", "back to what's real"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "七是评估的位置，水元素让评估对象变成了幻象。剪影般的人面对云中七只杯子：城堡、珠宝、花环、龙、人脸、蛇、覆着布的发光身影——有的是渴望，有的是恐惧，没有一个是眼前的实物。选项太多时，人往往一个都不选。",
+        "en": "Seven is the position of assessment, and in water what's being assessed turns out to be visions. A silhouetted figure faces seven cups in cloud: a castle, jewels, a wreath, a dragon, a face, a snake, a shrouded glowing shape — some are longings, some are fears, none of them is a thing in the room. When there are this many options, people usually choose none."
+      },
+      "reversed": {
+        "zh": "雾散了。可能是终于分清哪个是真想要的，也可能是某个幻象破了、反而轻松。逆位的七通常带来一个具体的决定——即使那个决定是「先放弃其他六个」。",
+        "en": "The mist clears. Either you can finally tell which one you actually want, or an illusion broke and the relief was unexpected. Reversed, the Seven usually produces a concrete decision — even if the decision is simply to drop the other six."
+      }
+    },
+    "symbolism": {
+      "zh": "覆着布的发光身影是唯一看不见内容的那只杯子——最吸引人的选项，往往正是你了解最少的那个。",
+      "en": "The shrouded glowing figure is the one cup whose contents can't be seen — the most alluring option is routinely the one you know least about."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "把选项写下来，你会发现有几个根本不是真的选项。",
+        "en": "Write the options down and several of them will stop qualifying as options."
+      },
+      "reversed": {
+        "zh": "选定之后，别回头一遍遍验算放弃的那些。",
+        "en": "Once you've chosen, resist re-running the maths on what you set aside."
+      }
+    },
+    "image": "c07.jpg"
+  },
+  {
+    "id": "c08",
+    "number": 8,
+    "name": "Eight of Cups",
+    "nameLocalized": "圣杯八",
+    "arcana": "minor",
+    "suit": "cups",
+    "element": "water",
+    "keywords": {
+      "upright": {
+        "zh": ["主动离开", "寻找意义", "放下够好的", "转身"],
+        "en": ["walking away", "seeking meaning", "leaving good enough", "turning away"]
+      },
+      "reversed": {
+        "zh": ["徘徊", "反复回头", "该走没走", "害怕放弃"],
+        "en": ["lingering", "looking back", "staying too long", "afraid to leave"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "八是推进，在水元素里推进的方向是离开。他背对整齐堆放的八只杯子，拄杖走向山中——那些杯子并没有破，这正是这张牌最难的地方：他放弃的不是坏东西，而是「不够」的好东西。",
+        "en": "Eight is movement, and in water the movement is away. He turns his back on eight neatly stacked cups and walks into the mountains with a staff. The cups aren't broken — which is what makes this card hard. What he's leaving isn't bad; it's good and not enough."
+      },
+      "reversed": {
+        "zh": "站在门口没走成。可能是知道该离开却下不了决心，也可能是走了几步又折回来。逆位的八值得诚实回答：留下来是因为还有希望，还是因为离开太难？",
+        "en": "The leaving hasn't happened. Either you know you should go and can't commit, or you left and came back. The reversed Eight asks for an honest answer: are you staying because there's still something here, or because going is hard?"
+      }
+    },
+    "symbolism": {
+      "zh": "堆好的杯子中间空了一个位置——他拿走的是自己那一只，剩下的完好无损，说明离开不必以毁掉为代价。",
+      "en": "There's a gap in the stack where one cup is missing — he took his own and left the rest intact. Leaving doesn't require breaking what you leave."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "离开之前先确认要去哪里，否则很容易在别处重建同样的处境。",
+        "en": "Know where you're headed before you go, or the same situation tends to reassemble somewhere else."
+      },
+      "reversed": {
+        "zh": "反复回头很消耗。给自己一个明确的判断标准和期限。",
+        "en": "Repeated looking back is expensive. Set yourself a clear test and a deadline."
+      }
+    },
+    "image": "c08.jpg"
+  },
+  {
+    "id": "c09",
+    "number": 9,
+    "name": "Nine of Cups",
+    "nameLocalized": "圣杯九",
+    "arcana": "minor",
+    "suit": "cups",
+    "element": "water",
+    "keywords": {
+      "upright": {
+        "zh": ["心愿达成", "满足", "享受成果", "情感丰足"],
+        "en": ["a wish granted", "contentment", "enjoying it", "emotional plenty"]
+      },
+      "reversed": {
+        "zh": ["得到了却不满足", "愿望落空", "表面满足", "贪多"],
+        "en": ["having it without feeling it", "a wish unmet", "surface contentment", "wanting more"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "九是接近完成，水元素在这里给的是满足感本身。他双臂抱胸坐着，身后弧形排开九只杯子——这是「想要的得到了」的时刻。这张牌传统上被叫做许愿牌，但它真正说的是：现在有资格享受，不必再证明什么。",
+        "en": "Nine is near-completion, and in water it delivers contentment itself. He sits with arms crossed, nine cups arced on a bench behind him — the moment of having got what was wanted. It's traditionally called the wish card, but what it really says is that you're allowed to enjoy this now, without earning it again."
+      },
+      "reversed": {
+        "zh": "东西到手了，感觉没跟上。可能是实现之后发现要的不是这个，也可能是满足很快被下一个目标顶掉。逆位的九常提醒：不断加码的欲望，本身就是一种不满足。",
+        "en": "You have it and the feeling didn't follow. Either getting it revealed it wasn't the thing, or the satisfaction was immediately displaced by the next target. The reversed Nine often points out that continually raising the bar is itself a form of dissatisfaction."
+      }
+    },
+    "symbolism": {
+      "zh": "杯子排在他身后的桌上，而不是手里——他拥有它们，但没有抓着它们。",
+      "en": "The cups sit on the bench behind him rather than in his hands — he possesses them without gripping them."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "满足很短暂。趁它在的时候，注意一下自己是怎么走到这一步的。",
+        "en": "Contentment is brief. While it's here, take note of how you got to it."
+      },
+      "reversed": {
+        "zh": "在追下一个目标之前，先确认你有没有真的收下这一个。",
+        "en": "Before chasing the next thing, check whether you ever actually accepted this one."
+      }
+    },
+    "image": "c09.jpg"
+  },
+  {
+    "id": "c10",
+    "number": 10,
+    "name": "Ten of Cups",
+    "nameLocalized": "圣杯十",
+    "arcana": "minor",
+    "suit": "cups",
+    "element": "water",
+    "keywords": {
+      "upright": {
+        "zh": ["情感圆满", "家的感觉", "长久的和睦", "共同的幸福"],
+        "en": ["emotional wholeness", "home", "lasting harmony", "shared happiness"]
+      },
+      "reversed": {
+        "zh": ["理想与现实的落差", "表面和睦", "关系失和", "别人的剧本"],
+        "en": ["the gap between picture and reality", "harmony on the surface", "discord", "someone else's script"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "十是这个花色的终点：不是某一次满足，而是持续的、可以共享的丰足。一对夫妇张开双臂，天上是挂着十只杯子的彩虹，两个孩子在旁边跳舞——重点不是拥有多少，而是这份好是和人一起的、并且有时间维度。",
+        "en": "Ten completes the suit: not a single satisfaction but a sustained, shareable fullness. A couple stand with arms open beneath a rainbow of ten cups while two children dance beside them. The point isn't the quantity — it's that this good is shared, and it extends through time."
+      },
+      "reversed": {
+        "zh": "画面和实感对不上。可能是外人看着圆满、里面的人不这么觉得，也可能你正在按别人的幸福模板生活。逆位的十值得问：这个「圆满」的定义，是谁给的？",
+        "en": "The picture and the felt experience don't match. It may look complete from outside while those inside don't feel it, or you may be living to someone else's template of happiness. The reversed Ten asks whose definition of 'complete' this is."
+      }
+    },
+    "symbolism": {
+      "zh": "彩虹是雨后才有的——这份圆满不是从未经历风雨，而是经历之后仍然在一起。",
+      "en": "A rainbow only appears after rain — this wholeness isn't the absence of storms but what remained standing after them."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "圆满需要维护，而维护通常发生在没人看见的日常里。",
+        "en": "Wholeness needs maintenance, and maintenance happens in the unglamorous daily part."
+      },
+      "reversed": {
+        "zh": "在修补关系之前，先确认你想要的是不是这个形状。",
+        "en": "Before repairing the arrangement, check that this is the shape you want."
+      }
+    },
+    "image": "c10.jpg"
+  },
+  {
+    "id": "c11",
+    "number": 11,
+    "name": "Page of Cups",
+    "nameLocalized": "圣杯侍从",
+    "arcana": "minor",
+    "suit": "cups",
+    "element": "water",
+    "keywords": {
+      "upright": {
+        "zh": ["细腻的直觉", "感受的讯息", "创意萌芽", "愿意相信"],
+        "en": ["a fine intuition", "a message in feeling", "creative stirring", "willingness to trust"]
+      },
+      "reversed": {
+        "zh": ["情绪化", "感受被忽视", "空想", "过度敏感"],
+        "en": ["moodiness", "feeling dismissed", "idle fantasy", "raw sensitivity"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "侍从是水元素最年轻的形态：感受敏锐、尚未学会分辨。他举起圣杯，一条鱼从杯里探出头来——这是潜意识突然冒出来的东西，可能是灵感、直觉，也可能只是一个说不清的感觉。这个阶段的任务是接住它，不是解释它。",
+        "en": "The Page is water at its youngest: highly receptive, not yet practised at sorting. He lifts his cup and a fish looks out of it — something surfacing from below, which might be inspiration, intuition, or simply a feeling with no name yet. The work at this stage is to receive it, not to explain it."
+      },
+      "reversed": {
+        "zh": "感受失了准。可能是情绪来得快去得也快，也可能是你的感觉被别人（或被自己）当成了小题大做。逆位的侍从常提醒：敏感本身不是问题，怎么对待它才是。",
+        "en": "The receptivity has lost calibration. Feelings may be arriving and leaving fast, or yours may be getting dismissed — by others or by you — as making too much of things. Reversed, the Page notes that sensitivity isn't the problem; how it gets handled is."
+      }
+    },
+    "symbolism": {
+      "zh": "鱼从杯中探头这个画面本身就很荒诞——潜意识送上来的东西，通常不按常理出现。",
+      "en": "A fish looking out of a chalice is a faintly absurd image — what the unconscious sends up rarely arrives in a sensible form."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "直觉值得记录，但记录之后再判断要不要行动。",
+        "en": "Intuition is worth recording. Decide whether to act on it after it's written down, not during."
+      },
+      "reversed": {
+        "zh": "在把情绪归因给别人之前，先确认自己最近休息够不够。",
+        "en": "Before attributing the mood to someone else, check how much rest you've actually had."
+      }
+    },
+    "image": "c11.jpg"
+  },
+  {
+    "id": "c12",
+    "number": 12,
+    "name": "Knight of Cups",
+    "nameLocalized": "圣杯骑士",
+    "arcana": "minor",
+    "suit": "cups",
+    "element": "water",
+    "keywords": {
+      "upright": {
+        "zh": ["带着心意前来", "浪漫", "理想主义", "为情感行动"],
+        "en": ["arriving with an offer", "romance", "idealism", "acting on feeling"]
+      },
+      "reversed": {
+        "zh": ["华而不实", "承诺轻浮", "沉溺幻想", "情绪化的行动"],
+        "en": ["style over substance", "easy promises", "lost in fantasy", "acting on mood"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "骑士是水元素动起来的样子，但水不像火那样冲——他骑马缓行，双手捧杯递向前方。这是有意识地、带着心意去接近某个人或某件事。四位骑士里他最不着急，因为他要送的东西经不起颠簸。",
+        "en": "The Knight is water in motion, and water doesn't charge the way fire does — he rides at a walk, holding the cup out ahead of him. This is a deliberate approach toward a person or a thing, carrying something. Of the four knights he is the least hurried, because what he's bringing wouldn't survive being jolted."
+      },
+      "reversed": {
+        "zh": "姿态在，内容不一定在。可能是承诺给得太轻，也可能是沉在幻想里迟迟不落地。逆位的骑士不见得是不真诚，更多是没意识到浪漫和可靠是两种不同的能力。",
+        "en": "The gesture is there and the substance may not be. Promises may be coming easily, or the whole thing may be living in imagination without landing. The reversed Knight isn't necessarily insincere — more often he hasn't noticed that being romantic and being reliable are different skills."
+      }
+    },
+    "symbolism": {
+      "zh": "他的头盔与鞋跟都有翅膀，呼应信使赫尔墨斯——他带来的是消息，不一定是结局。",
+      "en": "Wings on his helmet and heels echo Hermes the messenger — what he brings is a message, not necessarily an outcome."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "心意需要跟上日常。留意有没有把「表达」当成了「做到」。",
+        "en": "Feeling has to be followed into the ordinary days. Notice if expressing it is standing in for doing it."
+      },
+      "reversed": {
+        "zh": "在相信一个承诺之前，看它落地过几次。",
+        "en": "Before trusting a promise, look at how many previous ones landed."
+      }
+    },
+    "image": "c12.jpg"
+  },
+  {
+    "id": "c13",
+    "number": 13,
+    "name": "Queen of Cups",
+    "nameLocalized": "圣杯皇后",
+    "arcana": "minor",
+    "suit": "cups",
+    "element": "water",
+    "keywords": {
+      "upright": {
+        "zh": ["共情", "深沉的直觉", "情绪的容器", "温柔而有分寸"],
+        "en": ["empathy", "deep intuition", "able to hold feeling", "warm with boundaries"]
+      },
+      "reversed": {
+        "zh": ["情绪淹没", "过度共情", "界限模糊", "为别人耗尽"],
+        "en": ["flooded", "absorbing everyone", "blurred boundaries", "emptied by caring"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "皇后是水元素成熟后向内的样子：她能容纳很深的情绪而不被冲走。她坐在水边凝视一只封闭的华丽圣杯——四位皇后里只有她的杯子有盖，说明她知道有些感受需要被守住，不是所有的深度都要展示出来。",
+        "en": "The Queen is water matured and turned inward: she can hold deep feeling without being carried off by it. She sits at the water's edge gazing at an ornate lidded cup — hers is the only closed one among the four queens, which says she knows some feeling is meant to be held rather than displayed."
+      },
+      "reversed": {
+        "zh": "容器满了。可能是接住了太多别人的情绪，也可能是自己的感受淹过了判断。逆位的皇后往往不是不共情，而是共情到分不清哪些情绪是自己的。",
+        "en": "The vessel has overfilled. Either too much of other people's feeling has been taken in, or your own has risen above your judgement. The reversed Queen usually isn't short of empathy — she has enough that she's lost track of which feelings are hers."
+      }
+    },
+    "symbolism": {
+      "zh": "她的脚没有踏进水里，宝座就设在水陆交界处——共情的前提是自己还站在岸上。",
+      "en": "Her feet stay out of the water and her throne sits exactly at the boundary of sea and shore — empathy works only while you're still standing on land."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "能接住别人的人，往往没人问他好不好。记得自己也需要被接住。",
+        "en": "People who hold others rarely get asked how they are. You need holding too."
+      },
+      "reversed": {
+        "zh": "分清哪些情绪是你的，哪些是你替别人扛的。",
+        "en": "Sort out which feelings are yours and which you've taken on for someone else."
+      }
+    },
+    "image": "c13.jpg"
+  },
+  {
+    "id": "c14",
+    "number": 14,
+    "name": "King of Cups",
+    "nameLocalized": "圣杯国王",
+    "arcana": "minor",
+    "suit": "cups",
+    "element": "water",
+    "keywords": {
+      "upright": {
+        "zh": ["情绪的驾驭", "沉稳", "外交手腕", "在风浪中不动"],
+        "en": ["mastery of feeling", "steadiness", "diplomacy", "calm in rough water"]
+      },
+      "reversed": {
+        "zh": ["压抑情绪", "冷处理", "操纵", "表面平静"],
+        "en": ["suppressed feeling", "going cold", "manipulation", "calm as a front"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "国王是水元素向外的完成形态：他的能力不是感受得深，而是在别人情绪翻涌时仍然稳得住。他的王座漂在波涛汹涌的海上，而他坐得笔直——这张牌讲的是能承接他人情绪、又不被卷走的那种成熟。",
+        "en": "The King is water completed and turned outward: his skill isn't feeling deeply but staying steady while everyone around him doesn't. His throne floats on a heaving sea and he sits upright on it — this is the maturity that can absorb other people's turbulence without being pulled into it."
+      },
+      "reversed": {
+        "zh": "平静变成了盖子。可能是把情绪压下去当成了处理，也可能是用冷静来占据上风。逆位的国王最需要警惕的是：不动声色和不诚实，有时长得很像。",
+        "en": "The calm has become a lid. Suppressing feeling may be standing in for handling it, or composure may be being used to hold the upper hand. What the reversed King has to watch is that unshakeable and dishonest can look remarkably alike."
+      }
+    },
+    "symbolism": {
+      "zh": "海中一侧跃出鱼、另一侧行着船——潜意识与理性同时在场，而他两者都没有回避。",
+      "en": "A fish leaps on one side of him and a ship sails on the other — the unconscious and the navigable both present, and he turns away from neither."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "你的稳定会让别人放心，也会让他们忘了问你怎么样。",
+        "en": "Your steadiness reassures people, and it also stops them asking how you are."
+      },
+      "reversed": {
+        "zh": "问自己：最近一次让别人看见你的情绪是什么时候？",
+        "en": "Ask when you last let someone see what you were actually feeling."
+      }
+    },
+    "image": "c14.jpg"
+  }
+]

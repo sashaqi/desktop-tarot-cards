@@ -1,0 +1,618 @@
+[
+  {
+    "id": "s01",
+    "number": 1,
+    "name": "Ace of Swords",
+    "nameLocalized": "宝剑首牌",
+    "arcana": "minor",
+    "suit": "swords",
+    "element": "air",
+    "keywords": {
+      "upright": {
+        "zh": ["思路突然清晰", "真相", "一刀切开", "新的理解"],
+        "en": ["sudden clarity", "the truth of it", "a clean cut", "a new understanding"]
+      },
+      "reversed": {
+        "zh": ["思路混乱", "看错了", "有理说不清", "用错了锋利"],
+        "en": ["muddled thinking", "a wrong read", "unable to make the case", "sharpness misused"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "云中伸出的手握着一柄笔直向上的剑，剑尖挑着王冠与花环——风元素最纯粹的形态：想明白了。这种清晰有它的代价，剑是双刃的，看清真相通常也意味着不能再假装没看见。",
+        "en": "A hand from the clouds grips a sword pointed straight up, a crown and wreath balanced on its tip — air at its purest: you have understood something. Clarity of this kind comes with a cost. The blade cuts both ways, and seeing a thing clearly usually means you can no longer pretend you haven't."
+      },
+      "reversed": {
+        "zh": "刀锋钝了，或者砍错了地方。可能是信息不全就下了判断，也可能是道理你都懂却说不出口、说了也没人听。风元素逆位的典型状态是：脑子转得很快，但转不到点上。",
+        "en": "The edge is dull, or aimed at the wrong thing. A conclusion may have been reached on partial information, or you may see it clearly and be unable to make anyone hear it. Reversed air typically looks like a mind moving fast without landing."
+      }
+    },
+    "symbolism": {
+      "zh": "王冠代表这份清晰带来的权威，花环代表它带来的胜利——但两者都挂在剑尖上，随时可能被同一把剑挑落。",
+      "en": "The crown is the authority this clarity confers and the wreath is the victory — and both are balanced on the point of the blade, where the same sword could tip them off."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "说真话的时机和说真话本身一样重要。",
+        "en": "When you say the true thing matters as much as that it's true."
+      },
+      "reversed": {
+        "zh": "在确信自己想通了之前，先找一个会反驳你的人聊聊。",
+        "en": "Before trusting that you've worked it out, take it to someone who will argue with you."
+      }
+    },
+    "image": "s01.jpg"
+  },
+  {
+    "id": "s02",
+    "number": 2,
+    "name": "Two of Swords",
+    "nameLocalized": "宝剑二",
+    "arcana": "minor",
+    "suit": "swords",
+    "element": "air",
+    "keywords": {
+      "upright": {
+        "zh": ["回避抉择", "僵持", "蒙住眼睛", "暂时的平衡"],
+        "en": ["avoiding the choice", "stalemate", "eyes covered", "a held balance"]
+      },
+      "reversed": {
+        "zh": ["不得不面对", "僵局打破", "信息浮现", "被迫选边"],
+        "en": ["forced to look", "the deadlock breaking", "information surfacing", "made to choose"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "蒙着眼的人双手交叉抱着两把剑，背后是月夜的海——二的张力在风元素里表现为两个都有道理的选项。她维持得住这个姿势，但代价是必须一直闭着眼：这个平衡是靠不看来维持的。",
+        "en": "A blindfolded figure holds two crossed swords, moonlit water behind her — the Two's tension, in air, is two options that both have a case. She can hold this posture, but only while the blindfold stays on. The balance is maintained by not looking."
+      },
+      "reversed": {
+        "zh": "眼罩要掉了。可能是新的信息进来打破了平衡，也可能是拖不下去了必须选。逆位的二往往不轻松，但比一直端着那两把剑要好。",
+        "en": "The blindfold is slipping. New information may have broken the balance, or the delay has simply run out. The reversed Two rarely feels comfortable, and it beats holding those two swords indefinitely."
+      }
+    },
+    "symbolism": {
+      "zh": "她背对着海——水代表感受。她把情绪关在身后，只用理智权衡，这正是她选不出来的原因。",
+      "en": "She sits with her back to the water, and water is feeling. She has shut emotion out behind her and is weighing with intellect alone — which is precisely why she can't decide."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "不选也是一种选择，而且通常是代价最高的那种。",
+        "en": "Not choosing is a choice, and usually the expensive one."
+      },
+      "reversed": {
+        "zh": "问问自己的感受怎么想。这件事可能一开始就不该只用道理算。",
+        "en": "Ask what you feel about it. This may never have been a question logic alone could settle."
+      }
+    },
+    "image": "s02.jpg"
+  },
+  {
+    "id": "s03",
+    "number": 3,
+    "name": "Three of Swords",
+    "nameLocalized": "宝剑三",
+    "arcana": "minor",
+    "suit": "swords",
+    "element": "air",
+    "keywords": {
+      "upright": {
+        "zh": ["心痛", "被说破的真相", "分离", "必要的伤"],
+        "en": ["heartache", "a truth spoken plainly", "separation", "a necessary wound"]
+      },
+      "reversed": {
+        "zh": ["开始愈合", "疼痛缓解", "抓着不放", "拒绝面对"],
+        "en": ["beginning to heal", "the ache easing", "holding on to it", "refusing to look at it"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "三把剑穿过一颗心，背景是雨云——这是全套牌里最不加掩饰的一张。它讲的是那种因为知道了真相而产生的痛：不是误会，是看清楚了。这种痛没有捷径，但它有尽头，而且雨云是会散的。",
+        "en": "Three swords through a heart against rain clouds — the most unguarded image in the deck. This is the pain that comes from knowing rather than from misunderstanding: you saw it clearly. There is no shortcut through it. There is an end to it, and rain clouds do pass."
+      },
+      "reversed": {
+        "zh": "剑在往外拔。可能是伤口开始愈合，也可能是你还在反复回放那一刻不肯松手。逆位的三值得问一句：现在的疼，有多少是当时的事，有多少是你在心里重演？",
+        "en": "The swords are coming out. Either the wound is closing, or you are replaying the moment and won't set it down. The reversed Three is worth asking honestly: how much of this ache is the event, and how much is the re-run?"
+      }
+    },
+    "symbolism": {
+      "zh": "心是完整的，剑是穿过去的——伤害来自外部，但心本身没有碎。这是这张牌里唯一温和的细节。",
+      "en": "The heart is whole and the swords pass through it — the injury came from outside, and the heart itself has not broken apart. It is the one gentle detail in the card."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "允许它疼。想立刻越过这一段的人，通常会在别处再疼一次。",
+        "en": "Let it hurt. People who insist on skipping this part usually pay for it somewhere else."
+      },
+      "reversed": {
+        "zh": "分清是伤还没好，还是你在不断把它重新划开。",
+        "en": "Separate a wound still healing from one you keep reopening."
+      }
+    },
+    "image": "s03.jpg"
+  },
+  {
+    "id": "s04",
+    "number": 4,
+    "name": "Four of Swords",
+    "nameLocalized": "宝剑四",
+    "arcana": "minor",
+    "suit": "swords",
+    "element": "air",
+    "keywords": {
+      "upright": {
+        "zh": ["休养", "暂停", "必要的静默", "恢复期"],
+        "en": ["recuperation", "a pause", "necessary quiet", "recovery"]
+      },
+      "reversed": {
+        "zh": ["重新出发", "休息不足", "被迫停下", "静不下来"],
+        "en": ["re-entering", "not enough rest", "stopped against your will", "unable to settle"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "四在风元素里是难得的安静：骑士雕像般平躺在石棺上，三把剑挂在墙上，只有一把与他同眠。三的伤过后，这张牌给的是明确的许可——现在该停下来，而不是继续想。",
+        "en": "Four brings air a rare quiet: a knight lies effigy-still on a tomb, three swords mounted on the wall above and only one laid beside him. After the Three's wound, this card issues a clear permission — stop now, rather than keep thinking."
+      },
+      "reversed": {
+        "zh": "静养的节奏被打断了。可能是还没恢复就重新投入，也可能是明明停了下来脑子却一刻没停。逆位的四常提醒：躺着不等于休息。",
+        "en": "The convalescence has been interrupted. Either you went back in before recovering, or you stopped moving while your mind never did. Reversed, the Four tends to point out that lying down isn't the same as resting."
+      }
+    },
+    "symbolism": {
+      "zh": "墙上的三把剑他一把也没带在身上——真正的休息，是把武器放下，而不是抱着睡。",
+      "en": "The three swords stay on the wall and none of them is in his hands — real rest means putting the weapons down, not sleeping while holding them."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "这个阶段不做决定是对的。清醒之前做的判断，之后多半要推翻。",
+        "en": "Not deciding anything right now is correct. Judgements made before you're rested usually get reversed later."
+      },
+      "reversed": {
+        "zh": "如果你停不下来，先看看是什么让你不敢停。",
+        "en": "If you can't stop, look at what makes stopping feel unsafe."
+      }
+    },
+    "image": "s04.jpg"
+  },
+  {
+    "id": "s05",
+    "number": 5,
+    "name": "Five of Swords",
+    "nameLocalized": "宝剑五",
+    "arcana": "minor",
+    "suit": "swords",
+    "element": "air",
+    "keywords": {
+      "upright": {
+        "zh": ["赢了但失去更多", "逞口舌之快", "两败俱伤", "代价高昂的胜利"],
+        "en": ["winning at a cost", "having to be right", "damage on both sides", "a hollow victory"]
+      },
+      "reversed": {
+        "zh": ["和解的可能", "放下输赢", "余怨未消", "认错"],
+        "en": ["room to make peace", "letting the score go", "residue left over", "owning it"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "五打破四的静养，风元素让这种打破表现为言语上的冲突。他握着三把剑面带得意，两个人背对他走开——他赢了这场争论，也失去了这两个人。这张牌的问题不是「谁对」，而是「值不值」。",
+        "en": "Five breaks the Four's quiet, and in air the break comes through words. He holds three swords with a smirk while two figures walk away from him — he won the argument and lost the two people. The question this card asks isn't who was right; it's whether it was worth it."
+      },
+      "reversed": {
+        "zh": "输赢开始松动。可能是有人先低了头，也可能是双方都意识到这场架不值得。逆位的五留了一条路：承认自己也有份，通常比争到底便宜得多。",
+        "en": "The scorekeeping is loosening. Someone may have gone first, or both sides may have realised the fight wasn't worth it. The reversed Five leaves a way through: admitting your share is almost always cheaper than winning outright."
+      }
+    },
+    "symbolism": {
+      "zh": "地上还散落着两把剑，他并没有全部拿走——胜利者也没能真正收走全部。天空是撕裂的乌云，风暴刚过去。",
+      "en": "Two swords still lie on the ground; even the winner didn't collect everything. The sky is torn cloud — the storm has only just passed."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "在赢下这一局之前，先算一算赢完之后还剩什么。",
+        "en": "Before taking the point, work out what will still be standing after you do."
+      },
+      "reversed": {
+        "zh": "道歉的时候别附加条件，附条件的道歉等于重开一局。",
+        "en": "Apologise without a clause attached — a conditional apology just restarts the argument."
+      }
+    },
+    "image": "s05.jpg"
+  },
+  {
+    "id": "s06",
+    "number": 6,
+    "name": "Six of Swords",
+    "nameLocalized": "宝剑六",
+    "arcana": "minor",
+    "suit": "swords",
+    "element": "air",
+    "keywords": {
+      "upright": {
+        "zh": ["过渡", "驶离风暴", "带着经验前行", "平稳的离开"],
+        "en": ["transition", "leaving the storm", "carrying it with you", "a quiet departure"]
+      },
+      "reversed": {
+        "zh": ["走不掉", "重复旧路", "抗拒改变", "行李太重"],
+        "en": ["unable to leave", "circling back", "resisting the move", "too much baggage"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "六是五的冲突之后的缓和：船夫撑篙送一对母子渡水，六把剑插在船头。剑没有被丢下，而是一起带着走——这张牌不承诺忘记，它承诺的是离开。近侧水面波动，远侧平静。",
+        "en": "Six is the easing after the Five's conflict: a ferryman poles a woman and child across, six swords standing in the bow. The swords aren't discarded — they travel too. This card doesn't promise forgetting; it promises departure. The water is choppy on the near side and smooth ahead."
+      },
+      "reversed": {
+        "zh": "船没开动。可能是还没准备好离开，也可能是走了一圈又回到原处。逆位的六值得看看：是外部条件不允许，还是有什么让你舍不得。",
+        "en": "The boat hasn't moved. Either you're not ready to go, or you went and ended up back here. Worth checking whether the constraint is genuinely external, or whether something is holding you."
+      }
+    },
+    "symbolism": {
+      "zh": "母子背对我们，脸朝彼岸；只有船夫看得见来路——过渡期总有人得记着从哪儿来。",
+      "en": "The passengers face the far shore with their backs to us; only the ferryman can see where they came from. In any crossing, someone has to keep track of the origin."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "过渡期不必急着有结论。到岸之前先允许自己什么都不确定。",
+        "en": "A crossing doesn't need conclusions. Let yourself be unsure until you land."
+      },
+      "reversed": {
+        "zh": "如果同一段路你走了好几次，问题可能不在路上。",
+        "en": "If you've made the same crossing several times, the issue probably isn't the route."
+      }
+    },
+    "image": "s06.jpg"
+  },
+  {
+    "id": "s07",
+    "number": 7,
+    "name": "Seven of Swords",
+    "nameLocalized": "宝剑七",
+    "arcana": "minor",
+    "suit": "swords",
+    "element": "air",
+    "keywords": {
+      "upright": {
+        "zh": ["独自行动", "策略", "有所隐瞒", "绕开正面冲突"],
+        "en": ["acting alone", "strategy", "something withheld", "going around the fight"]
+      },
+      "reversed": {
+        "zh": ["被识破", "坦白", "自欺", "计划失败"],
+        "en": ["found out", "coming clean", "self-deception", "the plan unravelling"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "七是评估的位置，风元素让它变成了算计。他抱着五把剑蹑手蹑脚离开营地，回头张望，还有两把留在原地——他没打算硬碰硬，选择了绕过去。这未必是欺骗，也可能是知道正面赢不了而改用别的方式。",
+        "en": "Seven is assessment, and in air it becomes calculation. He tiptoes away from the camp with five swords in his arms, glancing back, two left behind — he has decided not to meet this head-on and to go around it instead. That isn't necessarily deceit; it can be knowing you can't win the direct version."
+      },
+      "reversed": {
+        "zh": "藏不住了。可能是被发现，也可能是你自己决定说出来。逆位的七还有一层：最难识破的谎往往是对自己说的那个。",
+        "en": "It won't stay hidden. Either it was noticed, or you decided to say it. There's a second layer to the reversed Seven: the hardest deception to catch is usually the one you're telling yourself."
+      }
+    },
+    "symbolism": {
+      "zh": "他留下的那两把剑正是他拿不动的——绕道走的人，通常也带不走全部。",
+      "en": "The two swords he leaves are the ones he couldn't carry — whoever goes around the fight rarely gets to take everything."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "在决定不说之前，先想清楚被发现的那天你打算怎么解释。",
+        "en": "Before deciding not to mention it, work out what you'd say on the day it comes out."
+      },
+      "reversed": {
+        "zh": "坦白得越早，需要解释的越少。",
+        "en": "The earlier it's said, the less of it needs explaining."
+      }
+    },
+    "image": "s07.jpg"
+  },
+  {
+    "id": "s08",
+    "number": 8,
+    "name": "Eight of Swords",
+    "nameLocalized": "宝剑八",
+    "arcana": "minor",
+    "suit": "swords",
+    "element": "air",
+    "keywords": {
+      "upright": {
+        "zh": ["自设的限制", "动弹不得", "受害感", "看不见出路"],
+        "en": ["self-made limits", "stuck", "feeling trapped", "no way out in sight"]
+      },
+      "reversed": {
+        "zh": ["松绑", "发现有路", "自己走出来", "重获行动力"],
+        "en": ["loosening", "spotting the gap", "walking out", "agency returning"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "八是推进，但风元素在这里推进不动：她被松松地捆着、蒙着眼站在八把剑之间。绳子不紧，剑没有围成圈，脚下也没有锁——困住她的是看不见。这张牌的残酷和慈悲都在这里：处境是真的，出路也是真的。",
+        "en": "Eight is momentum, and here air can't move: she stands bound and blindfolded among eight swords. The binding is loose, the swords don't close the circle, and nothing holds her feet — what traps her is not being able to see. That's both the cruelty and the mercy of this card: the situation is real, and so is the way out."
+      },
+      "reversed": {
+        "zh": "眼罩松了。可能是有人指了一条路，也可能是你自己终于试着走了一步、发现能动。逆位的八几乎总是好消息：限制原来没那么结实。",
+        "en": "The blindfold has slipped. Someone may have pointed at a gap, or you tried a step and found you could take it. The reversed Eight is nearly always good news: the constraint was less solid than it looked."
+      }
+    },
+    "symbolism": {
+      "zh": "八把剑全部插在她身后和两侧，正前方是空的——她面朝的方向一直没有阻挡。",
+      "en": "All eight swords stand behind and beside her; directly ahead there is nothing. The direction she is facing was never blocked."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "把「我做不到」拆成具体的句子，你会发现有些其实是「我不敢」。",
+        "en": "Break 'I can't' into specific sentences and some of them turn out to be 'I'm afraid to'."
+      },
+      "reversed": {
+        "zh": "第一步迈出去之后，别急着规划全程。",
+        "en": "Once you've taken the first step, don't immediately try to plan the whole route."
+      }
+    },
+    "image": "s08.jpg"
+  },
+  {
+    "id": "s09",
+    "number": 9,
+    "name": "Nine of Swords",
+    "nameLocalized": "宝剑九",
+    "arcana": "minor",
+    "suit": "swords",
+    "element": "air",
+    "keywords": {
+      "upright": {
+        "zh": ["焦虑", "深夜的反刍", "最坏的设想", "失眠"],
+        "en": ["anxiety", "3am rumination", "worst-case thinking", "sleeplessness"]
+      },
+      "reversed": {
+        "zh": ["说出来了", "焦虑缓解", "求助", "天快亮了"],
+        "en": ["saying it out loud", "the anxiety easing", "reaching out", "the night ending"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "九是完成前的最后一关，风元素让它发生在夜里。她从床上坐起、双手掩面，九把剑悬在身后的黑暗中——注意剑没有刺向她，它们只是挂着。这是焦虑的准确画像：伤害尚未发生，但设想已经足够真实。",
+        "en": "Nine is the last stretch before completion, and in air it happens at night. She sits up in bed with her face in her hands, nine swords hanging in the darkness behind her — note that none of them is touching her. They're simply mounted there. It's an exact portrait of anxiety: the harm hasn't happened, and the imagining is vivid enough."
+      },
+      "reversed": {
+        "zh": "夜要过去了。可能是终于跟人说了，也可能是把担心的事写下来之后发现没那么庞大。逆位的九提醒：焦虑最怕两件事——被说出口，和被具体化。",
+        "en": "The night is ending. You may have finally told someone, or written the worry down and found it smaller on paper. Reversed, the Nine notes what anxiety can't survive: being said out loud, and being made specific."
+      }
+    },
+    "symbolism": {
+      "zh": "被子上绣着玫瑰与黄道十二宫——生活的美好和时间的运行都还在，只是她此刻看的是自己的手心。",
+      "en": "The quilt is embroidered with roses and zodiac signs — beauty and the turning of time are both still present; she is simply looking into her own hands right now."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "深夜想出来的结论，白天再确认一次。",
+        "en": "Conclusions reached at 3am deserve a second look in daylight."
+      },
+      "reversed": {
+        "zh": "把担心的事逐条写下来，包括「如果真的发生我会怎么办」。",
+        "en": "Write the worries out one by one, including what you'd actually do if each happened."
+      }
+    },
+    "image": "s09.jpg"
+  },
+  {
+    "id": "s10",
+    "number": 10,
+    "name": "Ten of Swords",
+    "nameLocalized": "宝剑十",
+    "arcana": "minor",
+    "suit": "swords",
+    "element": "air",
+    "keywords": {
+      "upright": {
+        "zh": ["彻底结束", "触底", "不能更糟了", "认输"],
+        "en": ["a definitive ending", "rock bottom", "it can't get worse", "conceding"]
+      },
+      "reversed": {
+        "zh": ["缓慢恢复", "最坏的过去了", "不肯承认结束", "重新站起来"],
+        "en": ["slow recovery", "the worst is behind", "refusing the ending", "getting back up"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "十把剑插在他背上，姿态夸张到近乎戏剧——这正是这张牌的关键：任何一把剑都足以致命，十把是过量的。它画的往往不是真正的毁灭，而是那种「全完了」的感受。而天边已经在亮了。",
+        "en": "Ten swords in his back, staged to the point of theatre — which is the point. Any one of them would have been enough; ten is excess. What this card usually depicts isn't actual destruction but the feeling that everything is over. And the horizon is already lightening."
+      },
+      "reversed": {
+        "zh": "开始起身。可能是最坏的部分确实过去了，也可能是你还不肯承认某件事已经结束。逆位的十里有个提醒：躺在原地不动，有时候比结束本身更耗人。",
+        "en": "Getting up has begun. Either the worst genuinely is behind you, or you're still refusing to call something finished. The reversed Ten notes that staying down can cost more than the ending did."
+      }
+    },
+    "symbolism": {
+      "zh": "他右手结着祝福的手势——即使在这个姿势里，还有一部分是完好的。远处的天空是金色的。",
+      "en": "His right hand is held in a gesture of blessing — even in this posture something is intact. The sky at the horizon is gold."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "结束的时候别急着复盘。先让它结束，再问为什么。",
+        "en": "Don't rush to the post-mortem. Let it end first, then ask why."
+      },
+      "reversed": {
+        "zh": "恢复期会比你预计的长。这不是你的问题。",
+        "en": "Recovery will take longer than you budgeted. That isn't a failing."
+      }
+    },
+    "image": "s10.jpg"
+  },
+  {
+    "id": "s11",
+    "number": 11,
+    "name": "Page of Swords",
+    "nameLocalized": "宝剑侍从",
+    "arcana": "minor",
+    "suit": "swords",
+    "element": "air",
+    "keywords": {
+      "upright": {
+        "zh": ["好奇追问", "求知欲", "警觉", "想弄明白"],
+        "en": ["asking questions", "hunger to know", "alertness", "needing to understand"]
+      },
+      "reversed": {
+        "zh": ["话说得太快", "捕风捉影", "防备过度", "只学皮毛"],
+        "en": ["speaking too soon", "reading into things", "over-guarded", "surface learning"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "侍从是风元素最年轻的形态：脑子快、经验少、憋不住问。他握剑站在高地，风把云和头发都吹得斜向一边——他警觉、机敏，随时准备应对。这个阶段的好处是敢问；代价是还不太会分辨该问和不该问。",
+        "en": "The Page is air at its youngest: quick, inexperienced, unable to sit on a question. He stands on high ground with his sword up, wind blowing hair and cloud sideways — alert, sharp, braced for something. The gift of this stage is a willingness to ask; the cost is not yet knowing which questions to hold."
+      },
+      "reversed": {
+        "zh": "锋利用错了地方。可能是话说得比想得快，也可能是把无关的细节脑补成了完整故事。逆位的侍从常提醒：知道一点点，比什么都不知道更容易下错判断。",
+        "en": "The sharpness has been misapplied. Words may be outrunning thought, or unrelated details may have been assembled into a whole story. Reversed, the Page notes that knowing a little makes wrong conclusions easier than knowing nothing."
+      }
+    },
+    "symbolism": {
+      "zh": "他站的地方地势起伏、云在翻涌——风元素的少年总是站在气流最不稳的地方。",
+      "en": "He stands on broken ground with cloud churning above — air's youngest figure always stands where the currents are least settled."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "问问题之前先想想你要拿答案做什么。",
+        "en": "Before asking, know what you'll do with the answer."
+      },
+      "reversed": {
+        "zh": "在转述之前，确认你听到的是事实还是推测。",
+        "en": "Before passing it on, check whether what you heard was fact or inference."
+      }
+    },
+    "image": "s11.jpg"
+  },
+  {
+    "id": "s12",
+    "number": 12,
+    "name": "Knight of Swords",
+    "nameLocalized": "宝剑骑士",
+    "arcana": "minor",
+    "suit": "swords",
+    "element": "air",
+    "keywords": {
+      "upright": {
+        "zh": ["直截了当", "极速推进", "就事论事", "毫不迂回"],
+        "en": ["straight at it", "full speed", "cutting to the point", "no detours"]
+      },
+      "reversed": {
+        "zh": ["言辞伤人", "鲁莽冲撞", "考虑不周", "刹不住车"],
+        "en": ["words that wound", "charging blindly", "acting before thinking", "unable to brake"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "骑士是风元素动起来的样子：全速、笔直、不绕弯。他伏在马背上举剑冲锋，斗篷和马鬃都被风扯平——这是思维转化为行动的最快形态。他的效率很高，代价是几乎不减速看路。",
+        "en": "The Knight is air in motion: full speed, dead straight, no detour. He charges low over the horse with his sword up, cloak and mane pulled flat by the wind — thought converted into action at maximum rate. He is genuinely effective, and he almost never slows down to look."
+      },
+      "reversed": {
+        "zh": "冲过头了。可能是话说得太重伤了人，也可能是冲出去之后发现方向错了但停不下来。逆位的骑士很少是恶意，多半是速度盖过了判断。",
+        "en": "He has overshot. Words may have landed harder than intended, or the direction may have turned out wrong with no way to stop. The reversed Knight is seldom malicious — speed simply outran judgement."
+      }
+    },
+    "symbolism": {
+      "zh": "他的马也全力前冲，四蹄离地——人和坐骑没有一方在踩刹车。",
+      "en": "The horse is at full gallop with all four feet off the ground — neither rider nor mount is braking."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "直接是优点，但接收的人需要一点缓冲。",
+        "en": "Directness is a strength; the person receiving it still needs a moment."
+      },
+      "reversed": {
+        "zh": "话出口之前停三秒。这三秒的成本，比事后修复低得多。",
+        "en": "Take three seconds before it leaves your mouth. Those three seconds cost less than the repair."
+      }
+    },
+    "image": "s12.jpg"
+  },
+  {
+    "id": "s13",
+    "number": 13,
+    "name": "Queen of Swords",
+    "nameLocalized": "宝剑皇后",
+    "arcana": "minor",
+    "suit": "swords",
+    "element": "air",
+    "keywords": {
+      "upright": {
+        "zh": ["清醒", "不受蒙蔽", "边界分明", "经验换来的判断"],
+        "en": ["clear-eyed", "hard to fool", "firm boundaries", "judgement earned the hard way"]
+      },
+      "reversed": {
+        "zh": ["苛刻", "冷言冷语", "过度戒备", "以理伤人"],
+        "en": ["harshness", "cutting remarks", "over-defended", "using logic to wound"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "皇后是风元素成熟后向内的样子：她见过足够多，所以不容易被说服，也不容易被伤到。她端坐举剑，另一只手向外伸出——既有判断力，也仍然愿意接纳。她的清醒不是天生的冷，是经历换来的。",
+        "en": "The Queen is air matured and turned inward: she has seen enough to be hard to persuade and hard to wound. She sits upright with the sword raised and her other hand extended outward — discernment and an openness to receive, at once. Her clarity isn't native coldness; it was paid for."
+      },
+      "reversed": {
+        "zh": "刀锋朝内或朝外都过了头。可能是对自己太苛刻，也可能是把犀利用在了不需要的地方。逆位的皇后往往是被伤过之后，把防御做成了默认状态。",
+        "en": "The blade has gone too far in one direction or the other — severity turned on herself, or sharpness applied where it wasn't needed. The reversed Queen is often someone who was hurt and made defence the default setting."
+      }
+    },
+    "symbolism": {
+      "zh": "她的宝座上刻着蝴蝶——蜕变的象征。她今天的清醒来自过去的某次彻底改变。",
+      "en": "Butterflies are carved into her throne — the emblem of transformation. Today's clarity came out of an earlier and total change."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "看得清楚的人容易被当成不需要安慰的人。你也可以说自己累了。",
+        "en": "People who see clearly get treated as people who don't need comfort. You're allowed to say you're tired."
+      },
+      "reversed": {
+        "zh": "在指出对方错在哪之前，先确认你是想解决还是想赢。",
+        "en": "Before naming exactly where they're wrong, check whether you want to fix it or win."
+      }
+    },
+    "image": "s13.jpg"
+  },
+  {
+    "id": "s14",
+    "number": 14,
+    "name": "King of Swords",
+    "nameLocalized": "宝剑国王",
+    "arcana": "minor",
+    "suit": "swords",
+    "element": "air",
+    "keywords": {
+      "upright": {
+        "zh": ["理性权威", "公正判断", "说到点上", "有原则"],
+        "en": ["reasoned authority", "fair judgement", "getting to the point", "principled"]
+      },
+      "reversed": {
+        "zh": ["教条", "以理压人", "冷酷", "滥用话语权"],
+        "en": ["dogmatism", "arguing people down", "coldness", "misusing the last word"]
+      }
+    },
+    "meaning": {
+      "upright": {
+        "zh": "国王是风元素向外的完成形态：他不只是想得清楚，还能把判断变成对众人有效的规则。他正面端坐、剑微微偏向一侧——随时准备裁断，但不主动挥出。这张牌讲的是有原则支撑的权威，而不是最会说的那个人。",
+        "en": "The King is air completed and turned outward: not merely thinking clearly but converting judgement into something that holds for other people. He sits facing forward, the sword tilted slightly — ready to rule, not swinging. This card is about authority backed by principle, not about whoever argues best."
+      },
+      "reversed": {
+        "zh": "道理变成了武器。可能是只认自己那一套，也可能是用逻辑碾压而不是沟通。逆位的国王最容易忽略的是：说赢了不等于被接受。",
+        "en": "The reasoning has become a weapon — one framework admitted, or logic used to flatten rather than to reach someone. What the reversed King most easily misses is that winning the argument isn't the same as being accepted."
+      }
+    },
+    "symbolism": {
+      "zh": "他的剑略微向右倾斜而非笔直——判断从来不是绝对垂直的，总有一点倾向。",
+      "en": "The sword leans slightly right rather than standing plumb — judgement is never perfectly vertical; there is always some lean in it."
+    },
+    "watchFor": {
+      "upright": {
+        "zh": "你的判断越有分量，别人越不敢说不同意。主动留出反对的空间。",
+        "en": "The more weight your judgement carries, the less people will disagree out loud. Make room for it deliberately."
+      },
+      "reversed": {
+        "zh": "如果每次讨论你都是对的，可能没人在跟你说真话。",
+        "en": "If you're right in every discussion, it may be that nobody is telling you the truth."
+      }
+    },
+    "image": "s14.jpg"
+  }
+]

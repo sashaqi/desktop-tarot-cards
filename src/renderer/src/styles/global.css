@@ -560,6 +560,47 @@ body {
   font-size: 13px;
 }
 
+.interpretation-row__lens {
+  margin: 0 0 8px;
+  padding-left: 9px;
+  border-left: 3px solid #f5b700;
+  font-size: 12px;
+  line-height: 1.55;
+  opacity: 0.8;
+}
+
+.interpretation-row__notes {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin-bottom: 9px;
+  padding: 8px 10px;
+  background: #f2ede0;
+  border-radius: 8px;
+}
+
+.interpretation-note {
+  margin: 0;
+  font-size: 11.5px;
+  line-height: 1.5;
+}
+
+.interpretation-note__label {
+  display: inline-block;
+  margin-right: 6px;
+  padding: 1px 7px;
+  background: #1a1414;
+  color: #f5eedd;
+  border-radius: 999px;
+  font-size: 9.5px;
+  font-weight: 900;
+  vertical-align: 1px;
+}
+
+.interpretation-note--watch .interpretation-note__label {
+  background: #d7263d;
+}
+
 .interpretation-row__keywords {
   display: flex;
   gap: 6px;
