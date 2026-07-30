@@ -120,5 +120,6 @@ export function describeSignals(signals: SpreadSignals, total: number, lang: Lan
     )
   }
 
-  return parts.join('')
+  // Chinese runs sentences together; English needs the space between them.
+  return parts.join(lang === 'zh' ? '' : ' ')
 }
