@@ -57,6 +57,15 @@
 - 🤖 **可选 AI 解读** —— 填入自己的 Anthropic API Key 后，可以让 Claude 针对你的具体问题写一份解读（不填也能完整使用）
 - 🎨 **漫画风界面** —— 粗描边、网点纹理、木纹桌布、翻牌动画
 
+## 在线体验
+
+不用安装，打开就能抽牌（手机也可以）：
+
+- **[https://sashaqi.github.io/desktop-tarot-cards/](https://sashaqi.github.io/desktop-tarot-cards/)**
+- 国内访问建议用 Cloudflare 镜像（GitHub Pages 在国内偶尔较慢）
+
+网页版的牌意解读是完整的。**AI 深度解读只在桌面版提供**——API Key 不应该填进网页，那等于公开泄露。
+
 ## 快速开始
 
 需要 Node.js 18+。
