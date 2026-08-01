@@ -57,6 +57,14 @@ The summary **reads the shape of the spread first** — Major/Minor ratio, domin
 - 🤖 **Optional AI reading** — add your own Anthropic API key and Claude will write an interpretation for your specific question (entirely optional)
 - 🎨 **Comic-book UI** — heavy ink outlines, halftone texture, a wooden tabletop, flip animations
 
+## Try it online
+
+No install — draw a spread straight in the browser, phone included:
+
+**[https://sashaqi.github.io/desktop-tarot-cards/](https://sashaqi.github.io/desktop-tarot-cards/)**
+
+The web build ships the full local interpretations. **AI readings are desktop-only** — an API key should never be typed into a web page, where it would be exposed.
+
 ## Quick start
 
 Requires Node.js 18+.

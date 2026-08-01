@@ -831,3 +831,82 @@ body {
   font-weight: 900;
   font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Segoe UI', sans-serif;
 }
+
+/* ---------- Narrow screens ----------
+   The layout was sized for a 900x660 desktop window. On a phone the three
+   revealed cards alone need ~566px, so the reveal screen has to shrink; the
+   category grid and the fan also need room. Web traffic is mostly mobile. */
+
+@media (max-width: 640px) {
+  /* Clear the fixed settings/language controls, which overlap the heading
+     once the viewport is narrow. */
+  .screen {
+    padding: 52px 12px 28px;
+  }
+
+  .comic-title {
+    font-size: 26px;
+  }
+
+  .comic-title--small {
+    font-size: 16px;
+  }
+
+  /* One column reads better than two cramped ones. */
+  .category-grid {
+    grid-template-columns: 1fr;
+    gap: 10px;
+    max-width: 340px;
+  }
+
+  .category-card {
+    min-height: 0;
+    padding: 14px 16px;
+  }
+
+  .category-card--wide {
+    min-height: 0;
+  }
+
+  .category-card__name {
+    font-size: 20px;
+  }
+
+  .card-fan {
+    gap: 4px;
+  }
+
+  .fan-card {
+    width: 44px;
+  }
+
+  /* Three cards plus gaps have to fit the viewport, so size them from it. */
+  .spread-layout {
+    gap: 8px;
+  }
+
+  .tarot-flip {
+    width: min(28vw, 110px);
+  }
+
+  .position-label {
+    font-size: 10px;
+    padding: 2px 8px;
+  }
+
+  .card-name-label {
+    padding: 4px 8px;
+  }
+
+  .card-name-label__name {
+    font-size: 11px;
+  }
+
+  .question-input {
+    font-size: 16px; /* iOS zooms the page for anything smaller on focus */
+  }
+
+  .settings-panel {
+    max-width: none;
+  }
+}
